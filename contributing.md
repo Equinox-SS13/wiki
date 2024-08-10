@@ -2,7 +2,7 @@
 title: Contributing
 description: How to contribute to this wiki.
 published: true
-date: 2024-08-10T19:45:04.363Z
+date: 2024-08-10T19:48:11.221Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-10T19:34:56.088Z
@@ -31,7 +31,13 @@ Creating new pages in Wiki.js is easy. Merely follow the following steps to do i
 6) When you are done filling in the properties, you can click "Ok" and begin editing. The page properties modal can be reopened at any point by clicking on "Page" in the top right.
 
 ### Editing Existing Pages
+Editing pages is also easy and can be done in 2 ways.
+1) If you have permission to edit a page you should see a button just under the title and to the very right of the page labelled "Edit"
+2) You can click on the "Page Actions" button, which sits in the top right and looks like a rectangle filled with horizontal lines and a pencil, and then "Edit".
 
 ### Moving Pages
+Should you at any point wish to move a page to a different path, it is possible to do so either by clicking "Move/Rename" under the page actions menu, or by editing the path field in the page properties modal while in the editor.
+
 
 ### Deleting Pages
+Deleting pages can be done with the page actions modal.
