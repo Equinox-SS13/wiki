@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-08-12T11:52:55.809Z
+date: 2024-08-12T11:55:57.358Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-07T22:41:18.531Z
@@ -21,4 +21,4 @@ Welcome to Equinox, a Space Station 13 codebase forked off Sojourn, which in of 
 </center>
 
 <span id="hover-element" data-url="https://wiki.bluespace.engineer/en/test-content-hover-page">Hover over this text</span>
-<div id="content-container"></div>
+<div id="tooltip-container"></div>
