@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-08-12T11:02:24.427Z
+date: 2024-08-12T11:05:07.700Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-07T22:41:18.531Z
@@ -12,7 +12,7 @@ dateCreated: 2024-08-07T22:41:18.531Z
 
 > We're still working on this!{.is-warning}
 
-![wikibanner1.png](/wikibanner1.png)
+<center> ![wikibanner1.png](/wikibanner1.png)
 
-Welcome to Equinox, a Space Station 13 codebase forked off Sojourn, which in of itself was forked off Eris.
+Welcome to Equinox, a Space Station 13 codebase forked off Sojourn, which in of itself was forked off Eris. </center>
 
