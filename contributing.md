@@ -1,8 +1,8 @@
 ---
-title: Contributing
+title: Guide to Contributing
 description: How to contribute to this wiki.
 published: true
-date: 2024-08-10T19:48:11.221Z
+date: 2024-08-12T07:03:57.811Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-10T19:34:56.088Z
@@ -11,13 +11,14 @@ dateCreated: 2024-08-10T19:34:56.088Z
 # Contributing
 If you're reading this, you're likely looking to contribute to this wiki. If so, this page will walk you through the basics, and hopefully act as a somewhat decent starting place.
 
-## Pages
+## Working with Pages
 
 ### How pages work
 Wiki.js handles pages and categories by treating them similarly to a filesystem. You have "folders" which represent categories and sub-categories (etc.), and pages.
 This allows us to differentiate between the name of a page, and its path in the URL as well, for example:
-A page at `/objects/clothing/torso/sweater` means that there is a page whose "file" is called `sweater`, living inside the category `objects`, subcategory `clothing`, sub-subcategory `torso`.
-This file itself can then have a different title like `Sweater` (note the capitalisation) or `Jumper` (if we wanted the British English word). The title of that page, as well as its content is then free to change as much or as little as pleased without causing any links that point to it to fail.
+- A page at `/objects/clothing/torso/sweater` means that there is a page whose "file" is called `sweater`, living inside the category `objects`, subcategory `clothing`, sub-subcategory `torso`.
+- This file itself can then have a different title like `Sweater` (note the capitalisation) or `Jumper` (if we wanted the British English word). The title of that page, as well as its content is then free to change as much or as little as pleased without causing any links that point to it to fail.
+  
 The content of pages in Wiki.js can take a variety of formats, with Markdown, ASCIIDoc and Raw HTML natively supported (though we ***strongly*** recommend the use of Markdown for consistency and maintainability). Additionally, features like PlantUML diagrams and Katex (LaTeX-like math and chemistry typesetting) are supported through plugins.
 
 ### Creating New Pages
@@ -41,3 +42,21 @@ Should you at any point wish to move a page to a different path, it is possible 
 
 ### Deleting Pages
 Deleting pages can be done with the page actions modal.
+
+---
+
+## Wiki Etiquette and Guidelines
+The following are general etiquettes and guidelines that editors should follow to keep the content consistent and easy to read. This is not an enforced rule, but should be considered as much as possible.
+
+### General Etiquette
+- This wiki uses proper American English spelling. Although using British English spelling is fine, do not make edits to correct American English spelling to British English spelling.
+- After performing an edit, a comment should be stated as to what you did.
+- Any edits to lore should be notified to the lore team on discord first. SoP and Law pages are not to be touched without permission.
+- Minor edits refer to spelling check, grammar fixes, missing punctuations. Anything larger is a major edit.
+
+### General Guidelines
+- It is very important to stay on topic, do not divert from the title. If explanation for something is needed, link to a new article/page.
+- Capitalize special names, proper nounds, or unique places.
+- If a page within the same category
+- Refrain from using existing character's names, real life references, or making random jokes.
+- Refrain from using strikethrough, random bolding, scaled up text, or otherwise random formatting.
