@@ -2,7 +2,7 @@
 title: Guide to Medicine
 description: All you need to start out as a doctor
 published: false
-date: 2024-08-12T07:53:01.066Z
+date: 2024-08-12T08:38:28.945Z
 tags: medical
 editor: markdown
 dateCreated: 2024-08-12T07:53:01.066Z
@@ -20,16 +20,28 @@ It is first and foremost importnat to note that anyone can be stabilized no matt
 There are 4 primary damage types within the game, each can be caused by different afflictions, or as a consequence of less physical means.
 
 ### Brute
-Brutes are bruising, cuts, lacerations, and pierced wounds. They make up the red number in the medical scanner and can be examined from the outside. A high enough brute damage may break bones, dislocate limbs, or even damage internal organs.
+Brutes are bruising, cuts, lacerations, and pierced wounds. They make up the red number in the medical scanner and can be examined from the outside. 
 * Brutes are caused by being directly damaged by hostile enemies, stabbed, slashed, or shot at.
+* A high enough brute damage may break bones, dislocate limbs, or even damage internal organs.
+* Bleeding is usually accompanied alongside brute damage, which causes bloodloss.
 
 ### Burn
-
+Burns are 
 
 ### Toxin
 
 
 ### Oxyloss (Suffocation)
+Oxyloss, or suffocation, refers to the blue number. This is hypoxia, lack of oxygen. It is crucial to the patient, as they are truly dead when their brain dies from direct damage or lack of oxygen. Oxyloss can be caused by different reasons such as;
+* Lack of breathable air in the environment or internal tank.
+* Poison, toxins, or other chemical effects.
+* Bloodloss, or lack of blood which disallow oxygen to be transferred to the brain.
+* Dead, damaged, or missing lungs, or a lack of heart disallowing blood to be pumped to the brain.
+
+There are only a few ways to treat oxyloss;
+* [Inapprovaline]() included in the emergency autoinjector, although this only stop it from going worse.
+* [Tricordrazine](), [Dexalin]() and [Dexalin plus](), which treats oxyloss damage, but does not stop what is causing the damage.
+* Stop bloodloss and provide blood transfusion, repair lungs and relevant organs, or making sure the environment is breathable again.
 
 
 ## Other Types of Injury
@@ -40,10 +52,10 @@ Brutes are bruising, cuts, lacerations, and pierced wounds. They make up the red
 ### Fractures
 
 
-### Radiation
-
-
 ### Infection
+
+
+### Radiation
 
 
 ### Genetics
