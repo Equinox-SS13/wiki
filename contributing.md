@@ -2,8 +2,8 @@
 title: Guide to Contributing
 description: How to contribute to this wiki.
 published: true
-date: 2024-08-12T07:06:53.653Z
-tags: 
+date: 2024-08-12T11:42:16.049Z
+tags: guide
 editor: markdown
 dateCreated: 2024-08-10T19:34:56.088Z
 ---
