@@ -2,7 +2,7 @@
 title: Guide to Contributing
 description: How to contribute to this wiki.
 published: true
-date: 2024-08-12T07:03:57.811Z
+date: 2024-08-12T07:06:53.653Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-10T19:34:56.088Z
@@ -50,7 +50,7 @@ The following are general etiquettes and guidelines that editors should follow t
 
 ### General Etiquette
 - This wiki uses proper American English spelling. Although using British English spelling is fine, do not make edits to correct American English spelling to British English spelling.
-- After performing an edit, a comment should be stated as to what you did.
+- After performing a major edit, a comment should be stated on discord as to what you did. This allows better communication between the maintainers and contributors.
 - Any edits to lore should be notified to the lore team on discord first. SoP and Law pages are not to be touched without permission.
 - Minor edits refer to spelling check, grammar fixes, missing punctuations. Anything larger is a major edit.
 
