@@ -2,7 +2,7 @@
 title: Guide to Medicine
 description: All you need to start out as a doctor or field medic.
 published: false
-date: 2024-08-13T13:35:10.691Z
+date: 2024-08-13T13:35:33.535Z
 tags: medical, guide, medical guide, work in progress
 editor: markdown
 dateCreated: 2024-08-12T07:53:01.066Z
@@ -168,7 +168,7 @@ This step alone allow us to see the severity of the situation, a few things to f
 * What is the severity of their visible wound? If the wound is not visible, is a scan needed?
 
 If you have been provided a medical HUD interface, a visible graphical visualization of a person's health will be visible above them. The following are stages of their health;
-<style> img.sub {vertical-align: sub;} img.health-indicator {object-fit: cover; object-position: 100% -20%;}</style>
+<style> img.sub {vertical-align: sub;} img.health-indicator {object-fit: cover; object-position: 100% -50%;}</style>
 * <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth100.gif width="64" height="10" class="sub health-indicator">: 100% healthy</div>
 * <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth80.gif width="64" height="10" class="sub health-indicator">: less than 100% health</div>
 * <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth60.gif width="64" height="10" class="sub health-indicator">: less than 70% health</div>
