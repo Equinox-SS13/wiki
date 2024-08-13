@@ -2,7 +2,7 @@
 title: Guide to Medicine
 description: All you need to start out as a doctor or field medic.
 published: false
-date: 2024-08-13T12:40:26.163Z
+date: 2024-08-13T13:02:58.018Z
 tags: medical, guide, medical guide, work in progress
 editor: markdown
 dateCreated: 2024-08-12T07:53:01.066Z
@@ -215,7 +215,7 @@ In the case that a person is able to walk still and conscious, using the `PULL` 
 However, this gets complicated when a person becomes dead, incapacitated, or unconscious. By performing a `PULL` option on the injured at this stage, dragging them along the floor will make wounds worse and cause constant brute damage to them.
 * Using a roller bed or a movable office chair will allow for safe and quick transport of the patient.
 * Putting them in a bag (such as body bag or [stasis bag](https://wiki.bluespace.engineer/en/guides/medical-guides/Guide-to-Medicine#stasis-bag)) will also work.
-* Using a `grab intent` option will cause you to slow down a bit, but this is considered safe if no option is available.
+* Using a `GRAB intent` option will cause you to slow down a bit, but this is considered safe if no option is available.
 
 
 ## Dead Patients
