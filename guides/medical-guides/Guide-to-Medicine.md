@@ -2,7 +2,7 @@
 title: Guide to Medicine
 description: All you need to start out as a doctor or field medic.
 published: false
-date: 2024-08-13T13:17:57.817Z
+date: 2024-08-13T13:24:54.980Z
 tags: medical, guide, medical guide, work in progress
 editor: markdown
 dateCreated: 2024-08-12T07:53:01.066Z
@@ -103,7 +103,7 @@ To learn the specifics of the location of the fracture, a [body scanner machine]
 
 #### Dislocation
 Not an actual fracture, but sometimes the patient's limb may be dislocated, causing a lot of pain and incapacitating the limb.
-* To fix this, a person will have to performa a `UNDISLOCATE-JOINT` verb on the patient by `right-clicking` and choosing the option in the dropdown menu. This causes a lot of pain.
+* To fix this, a person will have to perform a `UNDISLOCATE-JOINT` verb on the patient by `right-clicking` and choosing the option in the dropdown menu. This causes a lot of pain.
 
 
 ### Infection
