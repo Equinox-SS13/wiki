@@ -2,7 +2,7 @@
 title: Guide to Medicine
 description: All you need to start out as a doctor or field medic.
 published: false
-date: 2024-08-13T10:44:29.683Z
+date: 2024-08-13T12:40:26.163Z
 tags: medical, guide, medical guide, work in progress
 editor: markdown
 dateCreated: 2024-08-12T07:53:01.066Z
@@ -64,6 +64,8 @@ These are common ways to treat toxin damage;
 ### Oxyloss
 <span style="color: cyan;">Oxyloss</span>, or suffocation, refers to the <span style="color: cyan;">blue</span> number in the medical scanner. This is hypoxia or lack of oxygen to the brain. It is crucial to the patient, as they are truly dead when their brain dies from direct damage or lack of oxygen. 
 
+The lack of oxygen also ususally paired with [blood loss](https://wiki.bluespace.engineer/en/guides/medical-guides/Guide-to-Medicine#bloodloss) which in severe cases will start killing organs if left for too long.
+
 Oxyloss can be caused by different reasons such as;
 * Lack of breathable air in the environment or internal tank.
 * Specific poison, toxins, or other chemical effects.
@@ -82,7 +84,7 @@ There are a few ways to mediate or treat oxyloss;
 
 Bloodloss refers the patient's lack of blood caused by bleeding. This is usually displayed in percentage level on the medical scanner from 0% to 100% with a `u` (unit) number marking how many units of blood volume is in a person. 
 
-Below **70%**, the person starts to suffer from <span style="color: cyan;">oxyloss</span>, as such, it is very important to focus on stopping the bleed first.
+Below **70%**, the person starts to suffer from <span style="color: cyan;">oxyloss</span>, as such, it is very important to focus on stopping the bleed first. Lack of blood can cause oxyloss, and even organ damage and death from the lack of bloodflow.
 
 * Bleeding can be stopped by using gauze, brute treatment kit, or any medicine with blood-clotting property such as [Quickclot]() or [Bicardine]().
 * Bleeding can also be manually stopped by hand. Target the person's limb that is bleeding, `reinforced GRAB` + `HELP intent click` on the person.
@@ -169,9 +171,11 @@ If you have been provided a medical HUD interface, a visible graphical visualiza
 * <span style="color: cyan;">Blue and stable</span> : 100% healthy
 * <span style="color: lime;">Green and slow blink</span> : less than 100% health
 * <span style="color: orange;">Orange and slow blink</span> : less than 70% health
-* <span style="color: salmon;">Rose and rapid blink</span> : less than % health
-* <span style="color: red;">Red and rapid blink</span> : less than % health
-* <span style="color: red;">Red and weak blink</span> : less than % health
+* <span style="color: salmon;">Rose and rapid blink</span> : less than 50% health
+* <span style="color: red;">Red and rapid blink</span> : less than 30% health
+* <span style="color: red;">Red and slow weak blink</span> : less than 18% health
+* <span style="color: red;">Red and slow weaker blink</span> : less than 5% health
+* <span style="color: red;">Red and rapid weak blink</span> : less than 0%, this is also known as "in critical stage"
 * Black flat line : the patient is dead
 
 
@@ -200,7 +204,7 @@ A correct step of transportation should also be considered to not cause further 
 A quick examine or diagnosis should be performed by now to determine if they need to be transported. If they are to be transported, here are a few steps to stabilize a patient quickly so that they can be moved safely.
 * Stop all bleeding using a gauze, brute treatment kit, or Quickclot.
 * If a patient is gasping for air, everyone has an emergency injector within their supply box, use it.
-* Splint the affected limb where [sharpnel]() or bone fracture is located.
+* Splint the affected limb where [sharpnel](https://wiki.bluespace.engineer/e/en/guides/medical-guides/Guide-to-Surgery) or bone fracture is located.
 * If a [stasis bag](https://wiki.bluespace.engineer/en/guides/medical-guides/Guide-to-Medicine#stasis-bag) is available, it might be a good idea to use them on a critically injured patient to stop them from getting worse.
 * An initial treatment using available medical supply may be wise, as it extends the time you have to transport the person.
 
@@ -216,14 +220,42 @@ However, this gets complicated when a person becomes dead, incapacitated, or unc
 
 ## Dead Patients
 
+Rarely, you'll find yourself with a dead patient. When a patient dies, all their bodily function cease and they begin to slowly decay overtime; blood stops flowing and the organ starts to slowly die. Simply put; the body will begin to rot and get worse the longer they are dead.
+
+This makes the difference between newly deceased person and one that deceased for a long or unknown amount of time very different. As always, execute precautions when transporting the patient and call out for assistance if needed.
 
 ### Resustication
 
-### Cryogenics
+Despite death, resustication is always possible. A timer is started on death which determines when their brain decay and when resustication is not possible without surgical intervention.
+* Past 15 minutes, the brain starts to decay and take damage.
+* Past 30 minutes, resustication is not possible with out [surgical intervention](https://wiki.bluespace.engineer/e/en/guides/medical-guides/Guide-to-Surgery#resustication-preparation).
 
 ### Stasis
 
 ---
+
+# Internal Wounds
+
+Wound types are not the damage themselves, but the result of the damage applied to the person. For example, 
+
+### Blunt and Puncture
+
+### Swelling
+
+### Internal Burns
+
+### Infection
+
+### Necrosis
+
+### Poison and Heavy Poison
+
+### Foreign Objects
+
+### Tumors
+
+---
+
 # Medical Equipment
 
 ## Necessary Equipment
