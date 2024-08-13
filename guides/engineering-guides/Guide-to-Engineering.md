@@ -2,26 +2,27 @@
 title: Guide to Engineering
 description: Powering the Colony 101
 published: false
-date: 2024-08-13T09:59:57.222Z
+date: 2024-08-13T10:02:52.586Z
 tags: guide, engineering
 editor: markdown
 dateCreated: 2024-08-13T09:16:35.670Z
 ---
 
+> We're still working on this!{.is-warning}
+
 So, you've decided to sign up with the Guild and embark on a journey to become the best damn engineer the galaxy has seen! …or perhaps you're just desperate for power and there's no qualified personnel around. Fret not, this guide will get you sorted either way!
 
 # Introduction to Engineering
 
-![](/diagrams_maps_etc/engineeringlayout.png)
+![](/diagrams_maps_etc/engineeringlayout.png){.align-center}
 
-Familiarize yourself with the layout of your workplace.
+<center>Familiarize yourself with the layout of your workplace.</center>
 
 # Generating Power
 
 The primary responsibility of any respectable engineer: Ensuring the colony lights stay on. There are a few options for generating power available to you, and it is up to you which option(s) you go with.
 
 ## The Antimatter Engine
-
 ![](/ingame_screenshots/antimattersetup/amestep1.png)
 
 This is the Antimatter Engine Bay.
