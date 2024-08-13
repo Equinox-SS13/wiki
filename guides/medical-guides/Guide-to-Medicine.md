@@ -2,7 +2,7 @@
 title: Guide to Medicine
 description: All you need to start out as a doctor or field medic.
 published: false
-date: 2024-08-13T13:24:54.980Z
+date: 2024-08-13T13:32:52.264Z
 tags: medical, guide, medical guide, work in progress
 editor: markdown
 dateCreated: 2024-08-12T07:53:01.066Z
@@ -168,17 +168,16 @@ This step alone allow us to see the severity of the situation, a few things to f
 * What is the severity of their visible wound? If the wound is not visible, is a scan needed?
 
 If you have been provided a medical HUD interface, a visible graphical visualization of a person's health will be visible above them. The following are stages of their health;
-<style> img.sub {vertical-align: sub;} </style>
-* <img src=/game_sprites/medhudstates/hudhealth100.gif width="64" height="64" class="sub">: 100% healthy
-* <img src=/game_sprites/medhudstates/hudhealth80.gif width="64" height="64" class="sub">: less than 100% health
-* <img src=/game_sprites/medhudstates/hudhealth60.gif width="64" height="64" class="sub">: less than 70% health
-* <img src=/game_sprites/medhudstates/hudhealth40.gif width="64" height="64" class="sub">: less than 50% health
-* <img src=/game_sprites/medhudstates/hudhealth25.gif width="64" height="64" class="sub">: less than 30% health
-* <img src=/game_sprites/medhudstates/hudhealth10.gif width="64" height="64" class="sub">: less than 18% health
-* <img src=/game_sprites/medhudstates/hudhealth1.gif width="64" height="64" class="sub">: less than 5% health
-* <img src=/game_sprites/medhudstates/hudhealth0.gif width="64" height="64" class="sub">: less than 0%, this is also known as "in critical stage"
-* <img src=/game_sprites/medhudstates/hudhealth-100.gif width="64" height="64" class="sub">: the patient is dead
-
+<style> img.sub {vertical-align: sub;} img.health-crop {object-fit: cover; object-position: 100% 0;}</style>
+* <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth100.gif width="64" height="10" class="sub health-crop">: 100% healthy</div>
+* <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth80.gif width="64" height="10" class="sub health-crop">: less than 100% health</div>
+* <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth60.gif width="64" height="10" class="sub health-crop">: less than 70% health</div>
+* <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth40.gif width="64" height="10" class="sub health-crop">: less than 50% health</div>
+* <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth25.gif width="64" height="10" class="sub health-crop">: less than 30% health</div>
+* <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth10.gif width="64" height="10" class="sub health-crop">: less than 18% health</div>
+* <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth1.gif width="64" height="10" class="sub health-crop">: less than 5% health</div>
+* <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth0.gif width="64" height="10" class="sub health-crop">: less than 0%, this is also known as "in critical stage"</div>
+* <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth-100.gif width="64" height="10" class="sub health-crop">: the patient is dead</div>
 
 ### Diagnosis
 
