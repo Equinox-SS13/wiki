@@ -1,9 +1,9 @@
 ---
 title: Guide to Medicine
-description: All you need to start out as a doctor
+description: All you need to start out as a doctor or field medic.
 published: false
-date: 2024-08-13T08:20:32.454Z
-tags: medical
+date: 2024-08-13T09:14:06.292Z
+tags: medical, medical guide, work in progress
 editor: markdown
 dateCreated: 2024-08-12T07:53:01.066Z
 ---
@@ -77,20 +77,56 @@ There are a few ways to mediate or treat oxyloss;
 
 ### Bloodloss
 
+Bloodloss refers the patient's lack of blood caused by bleeding. This is usually displayed in percentage level on the medical scanner from 0% to 100% with a `u` (unit) number marking how many units of blood volume is in a person. 
+
+Below **70%**, the person starts to suffer from <span style="color: cyan;">oxyloss</span>, as such, it is very important to focus on stopping the bleed first.
+
+* Bleeding can be stopped by using gauze, brute treatment kit, or any medicine with blood-clotting property such as [Quickclot]() or [Bicardine]().
+* Bleeding can also be manually stopped by hand. Target the person's limb that is bleeding, `reinforced grab` + `help intent click` on the person.
+
+Blood can be regained naturally over time with rest and food, but in severe case of blood loss, use [transfusion]() of saline or the appropriate bloodtype.
+
 
 ### Fractures
+
+Fractures refer to cracks or breakage of the bone in a person's limb or body. This is usually caused by excessive brute damage. Fractures are painful and, in breakage case, if left unattended will damage internal organs. 
+
+To learn the specifics of the location of the fracture, a [body scanner machine]() is required, or using [body inspection method](https://wiki.bluespace.engineer/en/guides/medical-guides/Guide-to-Medicine#triage-and-transport)
+
+* Fractures can be mediated from getting worse or damaging internal organs with the use of a splint.
+* Fractures are treated by the means of [surgery]() or medicine with bone-mending property such as [Ossisine]().
 
 
 ### Infection
 
+Infection refers to the level of which a limb is infected by bacteria. This is usually the result of a bad, untreated burns or internal burns. The infection progress from internal burns through stages, eventually killing affected internal organs, causing them to be [necrotic]()
+
+* Infection itself is treated by [Spaceacillin]().
+* Internal burns and necrosis are treated by [surgery]() or [Trypsin]().
+
 
 ### Radiation
+Radiation refers to the level of radiation a person has been afflicted with. This is usually counted in percentage level in the medical scanner which starts from 0% and can go beyond 100%. A radiation level abot 50% is unsafe, and gets progressively more severe. 
 
+The patient will exhibit burning of their skin across their body, hairloss, and even [genetics damage](https://wiki.bluespace.engineer/en/guides/medical-guides/Guide-to-Medicine#genetics) which causes tumor growth in higher radiation levels alongside high level of pain. Radiation can occur in a few ways;
+* Being within the proximity of radioactive substances, such as the [Supermatter](), [Kaiser roach]()'s radioactive spit, [Ameridians](), radioactive waste, and even other highly irradiated matters.
+* Being hit or damaged by radioactive projectiles caused by weapons or hostile entities.
+
+Radiation level is directly treated  by injecting the patient [Hyronalin]() or [Arithrazine]() and regularly monitor.
+* Radiation level is also mitigated by using radiation proof suits marked with percentage number of how much radiation is mitigated, e.g. 75/25 means 75% and 100/25 means 100%.
 
 ### Genetics
+
+Also referred to as "cloneloss", which can be caused by genetics instability caused by some organisms or genetics project failure. Newly cloned subjects will also come out of their vat with this. Genetics damage shows up on the medical scanner, but a [body scanner]() is needed to learn the specifics.
+
+Genetics damage reduces your overall health, a patient with 30 genetics damage and 100 base health will have a max health of 70. Additionally, genetics damage
 
 
 ### Organ
 
 
+
+
 ## Triage and Transport
+
+
