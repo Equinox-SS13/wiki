@@ -2,7 +2,7 @@
 title: Guide to Engineering
 description: Powering the Colony 101
 published: false
-date: 2024-08-13T09:24:01.819Z
+date: 2024-08-13T09:58:38.094Z
 tags: guide, engineering
 editor: ckeditor
 dateCreated: 2024-08-13T09:16:35.670Z
@@ -14,6 +14,59 @@ dateCreated: 2024-08-13T09:16:35.670Z
 <figure class="image"><img src="/diagrams_maps_etc/engineeringlayout.png">
   <figcaption>Familiarize yourself with the layout of your workplace.</figcaption>
 </figure>
-<h1>Power</h1>
+<h1>Generating Power</h1>
 <p>The primary responsibility of any respectable engineer: Ensuring the colony lights stay on. There are a few options for generating power available to you, and it is up to you which option(s) you go with.</p>
 <h2>The Antimatter Engine</h2>
+<figure class="image image_resized" style="width:23.92%;"><img src="/ingame_screenshots/antimattersetup/amestep1.png">
+  <figcaption>This is the Antimatter Engine Bay.</figcaption>
+</figure>
+<figure class="image"><img src="/ingame_screenshots/antimattersetup/amestep2.png">
+  <figcaption>Grab the control console and wrench it down on the wiring knot.</figcaption>
+</figure>
+<figure class="image image_resized" style="width:14.26%;"><img src="/ingame_screenshots/antimattersetup/amestep3.png">
+  <figcaption>Locate the Antimatter Engine Segments</figcaption>
+</figure>
+<figure class="image image_resized" style="width:22.8%;"><img src="/ingame_screenshots/antimattersetup/amestep4.png">
+  <figcaption>Set them up in a 3x3 grid like so</figcaption>
+</figure>
+<figure class="image image_resized" style="width:22.9%;"><img src="/ingame_screenshots/antimattersetup/amestep5.png">
+  <figcaption>Use a multitool on the segment directly adjacent to the console to begin deploying the Antimatter Engine segments</figcaption>
+</figure>
+<figure class="image image_resized" style="width:22.85%;"><img src="/ingame_screenshots/antimattersetup/amestep6.png">
+  <figcaption>Do the rest of them. Note that the segments will only remain successfully deployed if they are adjacent to an already deployed on.</figcaption>
+</figure>
+<figure class="image image_resized" style="width:22.87%;"><img src="/ingame_screenshots/antimattersetup/amestep7.png">
+  <figcaption>Locate the antimatter fuel jars (Bright blue bottle to the top left corner of the room), insert it into the console, and power on the unit.</figcaption>
+</figure>
+<h2>The Hydroelectric Dam</h2>
+<figure class="image"><img src="/ingame_screenshots/hydrodam1.png">
+  <figcaption>This is the Hydroelectric Dam control room. The control console is the only thing you need to interact with.</figcaption>
+</figure>
+<figure class="image"><img src="/ingame_screenshots/hydrodam2.png">
+  <figcaption>The very first thing you must do is hit the Detect Connected Turbines button to link them up with the console.</figcaption>
+</figure>
+<figure class="image"><img src="/ingame_screenshots/hydrodam3.png">
+  <figcaption>Afterwards, simply open the floodgates and you will begin generating power.</figcaption>
+</figure>
+<h2>The Diesel Generators</h2>
+<figure class="image"><img src="/ingame_screenshots/generator1.png">
+  <figcaption>This is the diesel generator array. They start unfueled.</figcaption>
+</figure>
+<figure class="image"><img src="/ingame_screenshots/generator2.png">
+  <figcaption>Simply grab a fuel tank from the storage area and locate a bucket to fill up the generators, and turn them on.</figcaption>
+</figure>
+<figure class="image image_resized" style="width:36.73%;"><img src="/ingame_screenshots/generator3.png">
+  <figcaption>You may need more than one tank to fuel all the generators. It's safe to run the generators up to output level 4. At level 5, the generator temperature will exceed 300 degrees celcius and begin overheating. Overheating for a minute straight will result in a sizeable explosion.</figcaption>
+</figure>
+<h1>The Substation Setup (and RCON)</h1>
+<p>So, you're generating lots of energy now, but that power still isn't being fed to the rest of the colony. That's because there are a multitude of power substations located around the colony that takes the raw power output from the main grid and outputs it at a more reasonable level to power the APCs. These substations are not configured to feed from the main grid by default and will quickly drain their energy.</p>
+<figure class="image"><img src="/ingame_screenshots/rcon1.png">
+  <figcaption>The RCON interface, accessed from either a console, tablet, or laptop. The SMES room will have consoles with the RCON software pre-installed. Note that if all else fails, you can physically locate the substations and tweak their settings by hand instead of using the RCON software.</figcaption>
+</figure>
+<h2>Setting Substations up Through RCON</h2>
+<figure class="image"><img src="/ingame_screenshots/rcon2.png">
+  <figcaption>Simply enable the input, and ensure that the input is always higher than the output.</figcaption>
+</figure>
+<figure class="image"><img src="/ingame_screenshots/rconbreaker.png">
+  <figcaption>Do not flip these bypass breakers unless you really need to. Doing so will directly shunt the main grid's full power into their respective areas, which can result in people losing limbs from tripping over exposed wires and such.</figcaption>
+</figure>
