@@ -2,7 +2,7 @@
 title: Guide to Medicine
 description: All you need to start out as a doctor or field medic.
 published: false
-date: 2024-08-13T10:26:34.118Z
+date: 2024-08-13T10:34:23.341Z
 tags: medical, medical guide, work in progress
 editor: markdown
 dateCreated: 2024-08-12T07:53:01.066Z
@@ -99,6 +99,10 @@ To learn the specifics of the location of the fracture, a [body scanner machine]
 * Fractures can be mediated from getting worse or damaging internal organs with the use of a splint.
 * Fractures are treated by the means of [surgery]() or medicine with bone-mending property such as [Ossisine]().
 
+#### Dislocation
+Not an actual fracture, but sometimes the patient's limb may be dislocated, causing a lot of pain and incapacitating the limb.
+* To fix this, a person will have to performa a `UNDISLOCATE-JOINT` verb on the patient by `right-clicking` and choosing the option in the dropdown menu. This causes a lot of pain.
+
 
 ### Infection
 Infection refers to the level of which a limb is infected by bacteria. This is usually the result of a bad, untreated burns or internal burns. The infection progress from internal burns through stages, eventually killing affected internal organs, causing them to be [necrotic](). Generally, infection can be spotted by examining the patient from the outside.
@@ -175,11 +179,11 @@ If you have been provided a medical HUD interface, a visible graphical visualiza
 
 In general, examining a person by looking will tell you a lot about their condition. Occasionally however, further steps are needed to diagnose the patient outside of what you see and hear.
 
-#### Handheld Scanner
-A handheld [health scanner]() can be used to give a lot of information on the patient, this includes things one cannot see or hear such as blood level, toxin level, what and how much chemical is in the patient's blood, radiation damage, and even genetics damage.
+#### Health Scanner
+A handheld [health analyzer](https://wiki.bluespace.engineer/en/guides/medical-guides/Guide-to-Medicine#health-analyzer) can be used to give a lot of information on the patient, this includes things one cannot see or hear such as blood level, toxin level, what and how much chemical is in the patient's blood, radiation damage, and even genetics damage.
 
 #### Full-body Scan
-A [body scanner](https://wiki.bluespace.engineer/en/guides/medical-guides/Guide-to-Medicine#body-scanner) can give the most detailed explanation of the patients state compared to a health scanner down to each individual bones and organs. This is extremely useful as a medical personnel to be able to determine the next cause of treatment.
+A [body scanner](https://wiki.bluespace.engineer/en/guides/medical-guides/Guide-to-Medicine#body-scanner) can give the most detailed explanation of the patients state compared to a health analyzer down to each individual bones and organs. This is extremely useful as a medical personnel to be able to determine the next cause of treatment.
 
 #### Inspecting Limb
 A manual inspection of the patients limb by `passive GRAB` + `HELP intent click` on the targeted limb. This is timely but allows the inspector to tell if the limb has any damage, broken bones, or wounds.
@@ -224,12 +228,38 @@ However, this gets complicated when a person becomes dead, incapacitated, or unc
 
 ## Necessary Equipment
 
-#### Health Scanner
+#### Health Analyzer
 
 #### Syringe
 
+#### Medical HUD
+
+#### Roller Bed and Advanced Roller Bed
+
+#### Defibrilator
+
 #### Stasis Bag
+
+#### Hypospray
 
 ## Machinery
 
 #### Body Scanner
+
+#### Sleeper
+
+#### Cryogenics Tube
+
+## Other Equipment
+
+#### Latex and Nitrile gloves
+
+#### Stethoscope
+
+#### Labcoat
+
+#### Portable Freezer
+
+### Surgical Equipment
+
+### Chemistry Equipment
