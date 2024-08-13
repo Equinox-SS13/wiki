@@ -1,8 +1,8 @@
 ---
 title: Guide to Engineering
 description: Powering the Colony 101
-published: false
-date: 2024-08-13T10:02:52.586Z
+published: true
+date: 2024-08-13T10:03:16.440Z
 tags: guide, engineering
 editor: markdown
 dateCreated: 2024-08-13T09:16:35.670Z
