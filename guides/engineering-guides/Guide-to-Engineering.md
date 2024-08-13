@@ -1,9 +1,9 @@
 ---
-title: Guide to Engineering
+title: Guide to Power
 description: Powering the Colony 101
 published: true
-date: 2024-08-13T10:03:16.440Z
-tags: guide, engineering
+date: 2024-08-13T10:45:56.995Z
+tags: guide, engineering, engineering guide
 editor: markdown
 dateCreated: 2024-08-13T09:16:35.670Z
 ---
@@ -11,6 +11,8 @@ dateCreated: 2024-08-13T09:16:35.670Z
 > We're still working on this!{.is-warning}
 
 So, you've decided to sign up with the Guild and embark on a journey to become the best damn engineer the galaxy has seen! …or perhaps you're just desperate for power and there's no qualified personnel around. Fret not, this guide will get you sorted either way!
+
+There are also other alternatives to power than listed here such as [solars](https://wiki.bluespace.engineer/en/guides/engineering-guides/Guide-to-Solars), the [Thermoelectric Generator (TEG)](https://wiki.bluespace.engineer/e/en/guides/engineering-guides/Guide-to-TEG), and the [Supermatter Engine](https://wiki.bluespace.engineer/e/en/guides/engineering-guides/Guide-to-the-Supermatter-Engine)
 
 # Introduction to Engineering
 
