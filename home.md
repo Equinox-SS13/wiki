@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-08-13T16:24:41.202Z
+date: 2024-08-13T16:25:40.963Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-07T22:41:18.531Z
@@ -49,6 +49,7 @@ dateCreated: 2024-08-07T22:41:18.531Z
     display: flex;
     flex-flow: row nowrap;
   }
+  
 </style>
 
 <div class="infobox-container">
