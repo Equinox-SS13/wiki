@@ -2,7 +2,7 @@
 title: Guide to Power
 description: Powering the Colony 101
 published: true
-date: 2024-08-13T10:45:56.995Z
+date: 2024-08-13T12:22:08.025Z
 tags: guide, engineering, engineering guide
 editor: markdown
 dateCreated: 2024-08-13T09:16:35.670Z
@@ -47,7 +47,7 @@ Use a multitool on the segment directly adjacent to the console to begin deployi
 
 ![](/ingame_screenshots/antimattersetup/amestep6.png)
 
-Do the rest of them. Note that the segments will only remain successfully deployed if they are adjacent to an already deployed on.
+Do the rest of them. Note that the segments will only remain successfully deployed if they are adjacent to an already deployed one.
 
 ![](/ingame_screenshots/antimattersetup/amestep7.png)
 
