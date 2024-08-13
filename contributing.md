@@ -2,7 +2,7 @@
 title: Guide to Contributing
 description: How to contribute to this wiki.
 published: true
-date: 2024-08-12T11:42:16.049Z
+date: 2024-08-13T07:42:20.747Z
 tags: guide
 editor: markdown
 dateCreated: 2024-08-10T19:34:56.088Z
@@ -12,6 +12,8 @@ dateCreated: 2024-08-10T19:34:56.088Z
 If you're reading this, you're likely looking to contribute to this wiki. If so, this page will walk you through the basics, and hopefully act as a somewhat decent starting place.
 
 ## Working with Pages
+
+It is heavily encouraged that users visit [this markdown language guide](https://markdown-it.github.io/) before attempting to edit a page with the Markdown language option. 
 
 ### How pages work
 Wiki.js handles pages and categories by treating them similarly to a filesystem. You have "folders" which represent categories and sub-categories (etc.), and pages.
@@ -49,14 +51,17 @@ Deleting pages can be done with the page actions modal.
 The following are general etiquettes and guidelines that editors should follow to keep the content consistent and easy to read. This is not an enforced rule, but should be considered as much as possible.
 
 ### General Etiquette
+- Follow the server rules and common sense, even if outside of the server.
+  + Page vandalism is not allowed, this includes any addition, removal, or modification that intentionally misrepresent or disruptive in any ways.
+  + Edit wars, spite edit, or bahavior of the similar kind is not to be tolerated.
 - This wiki uses proper American English spelling. Although using British English spelling is fine, do not make edits to correct American English spelling to British English spelling.
 - After performing a major edit, a comment should be stated on discord as to what you did. This allows better communication between the maintainers and contributors.
 - Any edits to lore should be notified to the lore team on discord first. SoP and Law pages are not to be touched without permission.
-- Minor edits refer to spelling check, grammar fixes, missing punctuations. Anything larger is a major edit.
 
 ### General Guidelines
 - It is very important to stay on topic, do not divert from the title. If explanation for something is needed, link to a new article/page.
+- If a page is unfinished, or otherwise work-in-progress, use the function to keep the page unpublished until it is ready.
 - Capitalize special names, proper nounds, or unique places.
-- If a page within the same category
+- If a page within the same subcategory (such as species, faction detail, etc.) exists, try to replicate the same base formatting and section topics.
 - Refrain from using existing character's names, real life references, or making random jokes.
 - Refrain from using strikethrough, random bolding, scaled up text, or otherwise random formatting.
