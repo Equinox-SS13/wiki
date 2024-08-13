@@ -2,7 +2,7 @@
 title: Guide to Medicine
 description: All you need to start out as a doctor or field medic.
 published: false
-date: 2024-08-13T09:28:02.503Z
+date: 2024-08-13T10:26:34.118Z
 tags: medical, medical guide, work in progress
 editor: markdown
 dateCreated: 2024-08-12T07:53:01.066Z
@@ -47,11 +47,14 @@ These are common ways to treat burn damage;
 ### Toxin
 <span style="color: lime;">Toxin damage</span> are toxin threshold or the toxicity level of one's blood caused by poisoning. This refers to the <span style="color: lime;">green</span> number in the medical scanner. Toxin are processed overtime, and may worsen or get better depending on whether the patient still has poison in their blood.
 
-Toxins can be caused by different reasons such as;
+The patient will also vomit if high levels of toxin is within their blood or stomach, this is the body's response to poison and is a good determination that someone has toxin damage.
+
+Toxins can be caused bydifferent reasons such as;
 * Poison caused by being bitten or injected by spiders or other types of fauna.
 * Using harmful chemicals, drugs, or overdosing.
 * Touching toxic or biohazard substances.
 * Breathing in harmful gases such as roach gas or plasma gas.
+
 
 These are common ways to treat toxin damage;
 * The most important aspect is to remove poison, toxic, or harmful substance from the patient's body using [dialysis]() methods, [purging chemicals](), or [stomach pump]()
@@ -82,30 +85,30 @@ Bloodloss refers the patient's lack of blood caused by bleeding. This is usually
 Below **70%**, the person starts to suffer from <span style="color: cyan;">oxyloss</span>, as such, it is very important to focus on stopping the bleed first.
 
 * Bleeding can be stopped by using gauze, brute treatment kit, or any medicine with blood-clotting property such as [Quickclot]() or [Bicardine]().
-* Bleeding can also be manually stopped by hand. Target the person's limb that is bleeding, `reinforced grab` + `help intent click` on the person.
+* Bleeding can also be manually stopped by hand. Target the person's limb that is bleeding, `reinforced GRAB` + `HELP intent click` on the person.
 
 Blood can be regained naturally over time with rest and food, but in severe case of blood loss, use [transfusion]() of saline or the appropriate bloodtype.
 
 
 ### Fractures
 
-Fractures refer to cracks or breakage of the bone in a person's limb or body. This is usually caused by excessive brute damage. Fractures are painful and, in breakage case, if left unattended will damage internal organs. 
+Fractures refer to cracks or breakage of the bone in a person's limb or body. This is usually caused by excessive brute damage. Fractures are painful and, in breakage case, if left unattended will damage internal organs. Extreme breakage may be spotted by examining the patient.
 
-To learn the specifics of the location of the fracture, a [body scanner machine]() is required, or using [body inspection method](https://wiki.bluespace.engineer/en/guides/medical-guides/Guide-to-Medicine#triage-and-transport)
+To learn the specifics of the location of the fracture, a [body scanner machine]() is required, or using [body inspection method](https://wiki.bluespace.engineer/en/guides/medical-guides/Guide-to-Medicine#inspecting-limb)
 
 * Fractures can be mediated from getting worse or damaging internal organs with the use of a splint.
 * Fractures are treated by the means of [surgery]() or medicine with bone-mending property such as [Ossisine]().
 
 
 ### Infection
-
-Infection refers to the level of which a limb is infected by bacteria. This is usually the result of a bad, untreated burns or internal burns. The infection progress from internal burns through stages, eventually killing affected internal organs, causing them to be [necrotic]()
+Infection refers to the level of which a limb is infected by bacteria. This is usually the result of a bad, untreated burns or internal burns. The infection progress from internal burns through stages, eventually killing affected internal organs, causing them to be [necrotic](). Generally, infection can be spotted by examining the patient from the outside.
 
 * Infection itself is treated by [Spaceacillin]().
 * Internal burns and necrosis are treated by [surgery]() or [Trypsin]().
 
 
 ### Radiation
+
 Radiation refers to the level of radiation a person has been afflicted with. This is usually counted in percentage level in the medical scanner which starts from 0% and can go beyond 100%. A radiation level abot 50% is unsafe, and gets progressively more severe. 
 
 The patient will exhibit burning of their skin across their body, hairloss, and even [genetics damage](https://wiki.bluespace.engineer/en/guides/medical-guides/Guide-to-Medicine#genetics) which causes tumor growth in higher radiation levels alongside high level of pain. Radiation can occur in a few ways;
@@ -115,9 +118,10 @@ The patient will exhibit burning of their skin across their body, hairloss, and 
 Radiation level is directly treated  by injecting the patient [Hyronalin]() or [Arithrazine]() and regularly monitor.
 * Radiation level is also mitigated by using radiation proof suits marked with percentage number of how much radiation is mitigated, e.g. 75/25 means 75% and 100/25 means 100%.
 
+
 ### Genetics Damage
 
-Also referred to as "cloneloss", which can be caused by genetics instability caused by some organisms or genetics project failure. Newly cloned subjects will also come out of their vat with this. Genetics damage shows up on the medical scanner, but a [body scanner]() is needed to learn the specifics.
+Also referred to as "cloneloss", which can be caused by genetics instability caused by some organisms or genetics project failure. Newly cloned subjects will also come out of their vat with this. Genetics damage shows up on the medical scanner, but a [body scanner](https://wiki.bluespace.engineer/en/guides/medical-guides/Guide-to-Medicine#body-scanner) is needed to learn the specifics.
 
 Genetics damage reduces your overall health, a patient with 30 genetics damage and 100 base health will have a max health of 70. Additionally, genetics damage causes tumor growth which, if left untreated can become severely lethal.
 
@@ -136,8 +140,96 @@ Organ damage refers to any types of damage applied to the organ directly. In som
 * Specific organs can be healed using special medicine, such as [Imidazoline]() repairing the eyes, or [Respirodaxon]() for the lungs. Specifics of which you can find [here]().
 * Once an organ is dead, it is considered damaged beyond repair and will not function and needs to be replaced via [surgery]()
 
+---
+
+# Triage and Transport
+
+Now that you know about types of damage and a general idea of how to treat them, we have to talk about Triaging.
+
+Triage refers to the concept of preliminary assessment of the urgency of a patient's need for treatment. In short, quickly identifying the type of injury, who to prioritize first, and steps to act to stabilize them.
+
+## Initial Triage
+
+Getting the right patient to the right place at the right time with the right care provider.
+
+### Patient's Health
+
+The most important and often overlooked step in determining if a person is injured and how injured is by looking. You can examine a person by `shift` + `left clicking` and reading the examine text underneath.
+
+This step alone allow us to see the severity of the situation, a few things to first note;
+* Is the patient conscious or not? Are they constantly blacking out?
+* Are they breathing, bleeding, screaming, gasping for air, or seem to be alive?
+* What is the severity of their visible wound? If the wound is not visible, is a scan needed?
+
+If you have been provided a medical HUD interface, a visible graphical visualization of a person's health will be visible above them. The following are stages of their health;
+* <span style="color: cyan;">Blue and stable</span> : 100% healthy
+* <span style="color: lime;">Green and slow blink</span> : less than 100% health
+* <span style="color: orange;">Orange and slow blink</span> : less than 70% health
+* <span style="color: salmon;">Rose and rapid blink</span> : less than % health
+* <span style="color: red;">Red and rapid blink</span> : less than % health
+* <span style="color: red;">Red and weak blink</span> : less than % health
+* Black flat line : the patient is dead
 
 
-## Triage and Transport
+### Diagnosis
+
+In general, examining a person by looking will tell you a lot about their condition. Occasionally however, further steps are needed to diagnose the patient outside of what you see and hear.
+
+#### Handheld Scanner
+A handheld [health scanner]() can be used to give a lot of information on the patient, this includes things one cannot see or hear such as blood level, toxin level, what and how much chemical is in the patient's blood, radiation damage, and even genetics damage.
+
+#### Full-body Scan
+A [body scanner](https://wiki.bluespace.engineer/en/guides/medical-guides/Guide-to-Medicine#body-scanner) can give the most detailed explanation of the patients state compared to a health scanner down to each individual bones and organs. This is extremely useful as a medical personnel to be able to determine the next cause of treatment.
+
+#### Inspecting Limb
+A manual inspection of the patients limb by `passive GRAB` + `HELP intent click` on the targeted limb. This is timely but allows the inspector to tell if the limb has any damage, broken bones, or wounds.
 
 
+## Moving a Patient
+
+More time than not, a person will be injured away from the medical facility and personnel, which makes transporting the patient to the treatment facility a very crucial part. Often you'll be fighting against time moving a patient over distance, time that they may not have.
+
+A correct step of transportation should also be considered to not cause further harm to the patient and cause unintentional death.
+
+### Stabilizing a Patient
+
+A quick examine or diagnosis should be performed by now to determine if they need to be transported. If they are to be transported, here are a few steps to stabilize a patient quickly so that they can be moved safely.
+* Stop all bleeding using a gauze, brute treatment kit, or Quickclot.
+* If a patient is gasping for air, everyone has an emergency injector within their supply box, use it.
+* Splint the affected limb where [sharpnel]() or bone fracture is located.
+* If a [stasis bag](https://wiki.bluespace.engineer/en/guides/medical-guides/Guide-to-Medicine#stasis-bag) is available, it might be a good idea to use them on a critically injured patient to stop them from getting worse.
+* An initial treatment using available medical supply may be wise, as it extends the time you have to transport the person.
+
+### Movement Methods
+
+In the case that a person is able to walk still and conscious, using the `PULL` action on them is safe and allow for quick and mobile movement.
+
+However, this gets complicated when a person becomes dead, incapacitated, or unconscious. By performing a `PULL` option on the injured at this stage, dragging them along the floor will make wounds worse and cause constant brute damage to them.
+* Using a roller bed or a movable office chair will allow for safe and quick transport of the patient.
+* Putting them in a bag (such as body bag or [stasis bag](https://wiki.bluespace.engineer/en/guides/medical-guides/Guide-to-Medicine#stasis-bag)) will also work.
+* Using a `grab intent` option will cause you to slow down a bit, but this is considered safe if no option is available.
+
+
+## Dead Patients
+
+
+### Resustication
+
+### Cryogenics
+
+### Stasis
+
+---
+# Medical Equipment
+
+## Necessary Equipment
+
+#### Health Scanner
+
+#### Syringe
+
+#### Stasis Bag
+
+## Machinery
+
+#### Body Scanner
