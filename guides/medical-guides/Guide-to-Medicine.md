@@ -2,7 +2,7 @@
 title: Guide to Medicine
 description: All you need to start out as a doctor or field medic.
 published: false
-date: 2024-08-13T09:14:06.292Z
+date: 2024-08-13T09:28:02.503Z
 tags: medical, medical guide, work in progress
 editor: markdown
 dateCreated: 2024-08-12T07:53:01.066Z
@@ -115,15 +115,26 @@ The patient will exhibit burning of their skin across their body, hairloss, and 
 Radiation level is directly treated  by injecting the patient [Hyronalin]() or [Arithrazine]() and regularly monitor.
 * Radiation level is also mitigated by using radiation proof suits marked with percentage number of how much radiation is mitigated, e.g. 75/25 means 75% and 100/25 means 100%.
 
-### Genetics
+### Genetics Damage
 
 Also referred to as "cloneloss", which can be caused by genetics instability caused by some organisms or genetics project failure. Newly cloned subjects will also come out of their vat with this. Genetics damage shows up on the medical scanner, but a [body scanner]() is needed to learn the specifics.
 
-Genetics damage reduces your overall health, a patient with 30 genetics damage and 100 base health will have a max health of 70. Additionally, genetics damage
+Genetics damage reduces your overall health, a patient with 30 genetics damage and 100 base health will have a max health of 70. Additionally, genetics damage causes tumor growth which, if left untreated can become severely lethal.
+
+* Tumors are divided into two types, each slowly progressing from a plasm stage till it is fully grown.
+  * Benign tumor once fully grown will cause the limb to be less effective, but does not spread or cause serious damage.
+  * Malignant tumor is the more serious version of this, it will slowly kill the organ off before spreading to other organs.
+* [Rezadone]() and [Ryetalyn]() treats genetics damage, and additionally removes both types of tumor.
+* [Cryoxadone]() and [Cronexidone]() when used alongside the [cryotube]() will also treat genetics damage. The former only remove benign tumor, the latter will remove both types of tumor.
+* [Peridaxon]() additionally removes benign tumor, but does not treat genetics damage on its own.
 
 
-### Organ
+### Organ Damage
 
+Organ damage refers to any types of damage applied to the organ directly. In some cases this is a flat damage, in other cases it may be a [wound type]() that requires specific medicine or [surgery steps]().
+* In general, all organs (excluding the bone) can be healed with [Peridaxon]()
+* Specific organs can be healed using special medicine, such as [Imidazoline]() repairing the eyes, or [Respirodaxon]() for the lungs. Specifics of which you can find [here]().
+* Once an organ is dead, it is considered damaged beyond repair and will not function and needs to be replaced via [surgery]()
 
 
 
