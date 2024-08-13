@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-08-13T16:08:04.581Z
+date: 2024-08-13T16:24:41.202Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-07T22:41:18.531Z
@@ -23,8 +23,8 @@ dateCreated: 2024-08-07T22:41:18.531Z
 
 <style>
   div.infobox {
-  	width: 40%;
-    height: 10em;
+  	width: 100%;
+    height: fit-content;
     border: 1px solid white;
     border-radius: 20px;
   }
@@ -35,11 +35,41 @@ dateCreated: 2024-08-07T22:41:18.531Z
     align-content: center;
     justify-content: center;
   }
+  div.infobox-content {
+  	padding: 0.5em;
+  }
+  div.infobox-column {
+  	display: flex;
+    flex-flow: column nowrap;
+    width:100%
+  }
+  div.infobox-container {
+  	margin-top: 5em;
+    width: 100%;
+    display: flex;
+    flex-flow: row nowrap;
+  }
 </style>
 
-<div style="margin-top: 5em">
-	<div class="infobox">
-    <div class="infobox-header"><center>Test<center></div>
-		Text
+<div class="infobox-container">
+	<div class="infobox-column">
+		<div class="infobox">
+    	<div class="infobox-header"><center>Test<center></div>
+      <div class="infobox-content">Some content goes here!</div>
+    </div>
+  	<div class="infobox">
+    	<div class="infobox-header"><center>Test<center></div>
+			<div class="infobox-content">Some content goes here!</div>
+		</div>
+	</div>
+  <div class="infobox-column">
+		<div class="infobox">
+    	<div class="infobox-header"><center>Test<center></div>
+			<div class="infobox-content">Some content goes here!</div>
+		</div>
+  	<div class="infobox">
+    	<div class="infobox-header"><center>Test<center></div>
+			<div class="infobox-content">Some content goes here!</div>
+		</div>
 	</div>
 </div>
