@@ -2,7 +2,7 @@
 title: Guide to Medicine
 description: All you need to start out as a doctor or field medic.
 published: false
-date: 2024-08-14T10:33:19.582Z
+date: 2024-08-14T10:35:10.891Z
 tags: medical, guide, medical guide, work in progress
 editor: markdown
 dateCreated: 2024-08-12T07:53:01.066Z
@@ -263,7 +263,9 @@ These are wounds that only apply to internal organs where they are hit (such as 
 
 Internal wounds have stages of progress, which takes the place of a number like `0/10` whereas 0 is the first stage, and 10 is the last stage.
 
-## Blunt and Sharp
+## Blunt, Sharp, and Swelling
+
+### Blunt and Sharp Wounds
 
 <span style="color: red;">Blunt and sharp wounds</span> are caused by brute damage with a difference in it's severity. This is divided into 3 different levels depending on how the damage was applied.
 
@@ -273,13 +275,15 @@ Internal wounds have stages of progress, which takes the place of a number like 
   * If left untreated, a sharp wound will start to [swell](/guides/medical-guides/Guide-to-Medicine#swelling) before turning into an [infection](/guides/medical-guides/Guide-to-Medicine#infection).
   * Sharp wounds require either [brute treatment kit surgery](/guides/medical-guides/Guide-to-Surgery#internal-organ-repair) or medicine with a stronger brute healing or blood clotting property.
 
-## Swelling
+### Swelling
 
 <span style="color: salmon;">Swelling</span> is the consequence of leaving an open internal wound untreated, causing bacteria to form. The area will be painful to touch, and leaving it untreated will cause an infection.
 * Swelling takes the form of swelling or abcess of the organ or body part.
 * Swelling can be treated before it becomes infected using antibiotics such as [Spaceacillin]()
 
-## Internal Burns
+## Burns and Necrosis
+
+### Internal Burns
 
 <span style="color: orange;">Burn wounds</span> are caused by excessive burn damage. This will cause internal burns on the organ or limb, progressing into an [infection](/guides/medical-guides/Guide-to-Medicine#infection) if left untreated.
 * Internal burns take the form of scorched tissue, charred tissued, or incinerated flesh.
@@ -288,7 +292,7 @@ Internal wounds have stages of progress, which takes the place of a number like 
 
 Once treated, internal burns will left a scarring of [necrosed tissues](/guides/medical-guides/Guide-to-Medicine#necrosis), which will need to be treated further.
 
-## Necrosis
+### Necrosis
 
 <span style="color: grey;">Necrosis</span> are divided into two types; damaged tissues which slowly progress into necrosis. Both of which causes pain for the patient and if left untreated, will progress into an [infection](/guides/medical-guides/Guide-to-Medicine#infection).
 * Necrosis takes the form of damaged tissue and necrotizing tissue for the respective levels.
