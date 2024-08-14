@@ -2,7 +2,7 @@
 title: Guide to Medicine
 description: All you need to start out as a doctor or field medic.
 published: false
-date: 2024-08-14T10:09:37.625Z
+date: 2024-08-14T10:33:19.582Z
 tags: medical, guide, medical guide, work in progress
 editor: markdown
 dateCreated: 2024-08-12T07:53:01.066Z
@@ -12,11 +12,9 @@ This is where you'll start learning about the current medical system used on Equ
 > The content of this page is subjected to change as development is currently in the work.
 {.is-warning}
 
-# The Basics
+# Basic Damage Types
 It is first and foremost importnat to note that anyone can be stabilized no matter their condition, this is ultimately up to the equipment at hand and the knowledge that you have. Do not beat yourself up over mistakes trying to learn the game!
 
-
-## Damage Types
 There are 4 primary damage types within the game, each can be caused by different afflictions, or as a consequence of less physical means.
 * As a general note, the body will naturally heal from these damage, although usually at a very slow pace. More than occasionally, the focus would be to stabilize the patient and stop what is causing the damage.
 
@@ -27,6 +25,7 @@ There are 4 primary damage types within the game, each can be caused by differen
 * Brutes are caused by being directly damaged by hostile enemies, stabbed, slashed, or shot at.
 * A high enough brute damage may break bones, damage internal organs, or even dismember limbs.
 * [Bleeding](/guides/medical-guides/Guide-to-Medicine#bloodloss) is usually accompanied alongside brute damage, which causes bloodloss.
+* If left untreated, bruises and cuts can lead to [infection](/guides/medical-guides/Guide-to-Medicine#infection).
 
 These are common ways to treat brute damage;
 * Using a gauze or brute treatment kit on the affected limb. This also stops bleeding.
@@ -37,7 +36,7 @@ These are common ways to treat brute damage;
 <span style="color: orange;">Burn damage</span> are burns and peeling skin or scarring wounds. They make up the <span style="color: orange;">orange</span> number in the medical scanner and can be examined by looking.
 
 * Burns are caused by fire, heat, acid burns, or in some case even [radiation](/guides/medical-guides/Guide-to-Medicine).
-* Burns may cause damage to internal organs, [infection, or even necrosis](/guides/medical-guides/Guide-to-Medicine#infection).
+* Burns may cause damage to [internal organs](/guides/medical-guides/Guide-to-Medicine#internal-burns] and lead to [infection](/guides/medical-guides/Guide-to-Medicine#infection), or even [necrosis](/guides/medical-guides/Guide-to-Medicine#necrosis).
 
 These are common ways to treat burn damage;
 * Using an ointment or burn treatment kit on the affected limb.
@@ -79,9 +78,9 @@ There are a few ways to mediate or treat oxyloss;
 * [Stopping bleeding](/guides/medical-guides/Guide-to-Medicine#bloodloss) and provide [blood transfusion](), repair lungs and relevant organs, removing the toxin in the patient, or making sure the environment is breathable again.
 
 
-## Other Types of Injury
+# Other Types of Injury
 
-### Bloodloss
+## Bloodloss
 
 Bloodloss refers the patient's lack of blood caused by bleeding. This is usually displayed in percentage level on the medical scanner from 0% to 100% with a `u` (unit) number marking how many units of blood volume is in a person. 
 
@@ -93,22 +92,22 @@ Below **70%**, the person starts to suffer from <span style="color: cyan;">oxylo
 Blood can be regained naturally over time with rest and food, but in severe case of blood loss, use [transfusion]() of saline or the appropriate bloodtype.
 
 
-### Fractures
+## Fractures
 
 Fractures refer to cracks or breakage of the bone in a person's limb or body. This is usually caused by excessive brute damage. Fractures are painful and, in breakage case, if left unattended will damage internal organs. Extreme breakage may be spotted by examining the patient.
 
 To learn the specifics of the location of the fracture, a [body scanner machine](/guides/medical-guides/Guide-to-Medicine#body-scanner) is required, or using [body inspection method](/guides/medical-guides/Guide-to-Medicine#inspecting-limb)
 
-* Fractures can be mediated from getting worse or damaging internal organs with the use of a splint.
+* Any form of fractures can be mediated from getting worse or damaging internal organs with the use of a [splint](/guides/medical-guides/Guide-to-Medicine#splint).
 * Fractures are treated by the means of [surgery]() or medicine with bone-mending property such as [Ossisine]().
 * To see the specifics of damage types to the bone and how to treat them, see [bone damage](https://wiki.bluespace.engineer/e/en/guides/medical-guides/Guide-to-Medicine#bone-damage)
 
-#### Dislocation
+### Dislocation
 Not an actual fracture, but sometimes the patient's limb may be dislocated, causing a lot of pain and incapacitating the limb.
 * To fix this, a person will have to perform a `UNDISLOCATE-JOINT` verb on the patient by `right-clicking` and choosing the option in the dropdown menu. This causes a lot of pain.
 
 
-### Radiation
+## Radiation
 
 Radiation refers to the level of radiation a person has been afflicted with. This is usually counted in percentage level in the medical scanner which starts from 0% and can go beyond 100%. A radiation level abot 50% is unsafe, and gets progressively more severe. 
 
@@ -120,7 +119,7 @@ Radiation level is directly treated  by injecting the patient [Hyronalin]() or [
 * Radiation level is also mitigated by using radiation proof suits marked with percentage number of how much radiation is mitigated, e.g. 75/25 means 75% and 100/25 means 100%.
 
 
-### Genetics Damage
+## Genetics Damage
 
 Also referred to as "cloneloss", which can be caused by genetics instability caused by some organisms or genetics project failure. Newly cloned subjects will also come out of their vat with this. Genetics damage shows up on the medical scanner, but a [body scanner](/guides/medical-guides/Guide-to-Medicine#body-scanner) is needed to learn the specifics.
 
@@ -134,18 +133,28 @@ Genetics damage reduces your overall health, a patient with 30 genetics damage a
 * [Peridaxon]() additionally removes benign tumor, but does not treat genetics damage on its own.
 
 
-### Organ Damage
+## Organ Damage
 
 Organ damage refers to any types of damage applied to the organ directly. In some cases this is a flat damage, in other cases it may be a [wound type](/guides/medical-guides/Guide-to-Medicine#internal-wounds) that requires very specific medicine or [surgery steps]().
 * In general, all organs (excluding the bone) can be healed with [Peridaxon]()
 * Specific organs can be healed using special medicine, such as [Imidazoline]() repairing the eyes, or [Respirodaxon]() for the lungs. Specifics of which you can find [here]().
-* Once an organ is dead, it is considered damaged beyond repair and will not function and needs to be replaced via [surgery]()
+* Once an organ is dead, it is considered damaged beyond repair and will not function and needs to be replaced via [surgery](). This is also very painful.
 
+The following are a list of organ and what happens when they are dead, or destroy.
+|----------|------------------------------|----------|----------------------------------------|
+| Brain    | Death of the person and their consciousness | Heart    | Death of other organs by lack of bloodflow. |
+| Lungs    | Inability to breath oxygen, causing death of other organs | Liver    | Inability to process chemicals and allowing toxin to build up.
+| Kidneys  |                              | Stomach  | Inability to digest food or take nutrients by mouth
+| Appendix  | Nothing, the appendix is functionless | Bone     | Loss of the limb or body part 
+| Blood vessel | Lack of bloodflow to the limb or body part | Nerve | Loss of [NSA](/guides/medical-guides/Guide-to-Medicine#neural-system-accumulation) and function of the limb or body part
+| Muscle   | Loss of function of the limb or body part.
 
-### Pain
+* It has to be noted that, out of all organs, bones are unaffected by the lack of bloodflow and oxygen.
+
+## Pain
 
 Although not an actual, physical damage by itself, pain will make injuries much more difficult to manage. A patient who is in pain will be unable to focus on task at hand as well, be slowed down, collapses, drop whatever may be on their hand, and even black out unconscious at time.
-* Pain can be managed by using painkillers and other opioids, be careful of [NSA](/guides/medical-guides/Guide-to-Medicine).
+* Pain can be managed by using painkillers and other opioids, be careful of [NSA](/guides/medical-guides/Guide-to-Medicine/guides/medical-guides/Guide-to-Medicine#neural-system-accumulation).
 * To mediate the pain for surgery, the patient can be put to sleep by means of [anesthesia](h/guides/medical-guides/Guide-to-Surgery#preparing-the-patient) or [Soporific]().
 
 ---
@@ -156,11 +165,7 @@ Now that you know about types of damage and a general idea of how to treat them,
 
 Triage refers to the concept of preliminary assessment of the urgency of a patient's need for treatment. In short, quickly identifying the type of injury, who to prioritize first, and steps to act to stabilize them.
 
-## Initial Triage
-
-Getting the right patient to the right place at the right time with the right care provider.
-
-### Patient's Health
+## Patient's Health and Diagnosis
 
 The most important and often overlooked step in determining if a person is injured and how injured is by looking. You can examine a person by `shift` + `left clicking` and reading the examine text underneath.
 
@@ -194,7 +199,7 @@ A [body scanner](/guides/medical-guides/Guide-to-Medicine#body-scanner) can give
 A manual inspection of the patients limb by `passive GRAB` + `HELP intent click` on the targeted limb. This is timely but allows the inspector to tell if the limb has any damage, broken bones, or wounds.
 
 
-## Moving a Patient
+## Transporting the Patient
 
 More time than not, a person will be injured away from the medical facility and personnel, which makes transporting the patient to the treatment facility a very crucial part. Often you'll be fighting against time moving a patient over distance, time that they may not have.
 
@@ -219,7 +224,7 @@ However, this gets complicated when a person becomes dead, incapacitated, or unc
 * Using a `GRAB intent` option will cause you to slow down a bit, but this is considered safe if no option is available.
 
 
-## Dead Patients
+## Reviving the Dead
 
 Rarely, you'll find yourself with a dead patient. When a patient dies, all their bodily function cease and they begin to slowly decay overtime; blood stops flowing and the organ starts to slowly die. Simply put; the body will begin to rot and get worse the longer they are dead.
 
@@ -239,6 +244,15 @@ This is called stasis, and it works to stop a patient in critical stages from de
 * [Cryogenics tube](https://wiki.bluespace.engineer/en/guides/medical-guides/Guide-to-Medicine#cryogenics-tube) when set up correctly and paired with [Cryoxadone]() or [Cronexidone]() can be used to put someone in an indefinite stasis state.
 * Disposable [stasis bag](https://wiki.bluespace.engineer/en/guides/medical-guides/Guide-to-Medicine#stasis-bag) can be used to store someone inside, this effects slowly wane off eventually, and should be used for transport.
 
+# Administering Medicine
+
+## Oral, Injection, and Touch
+
+## Neural System Accumulation
+
+## Intravenous Therapy (IV)
+
+
 ---
 
 # Internal Wounds
@@ -249,7 +263,7 @@ These are wounds that only apply to internal organs where they are hit (such as 
 
 Internal wounds have stages of progress, which takes the place of a number like `0/10` whereas 0 is the first stage, and 10 is the last stage.
 
-### Blunt and Sharp
+## Blunt and Sharp
 
 <span style="color: red;">Blunt and sharp wounds</span> are caused by brute damage with a difference in it's severity. This is divided into 3 different levels depending on how the damage was applied.
 
@@ -259,13 +273,13 @@ Internal wounds have stages of progress, which takes the place of a number like 
   * If left untreated, a sharp wound will start to [swell](/guides/medical-guides/Guide-to-Medicine#swelling) before turning into an [infection](/guides/medical-guides/Guide-to-Medicine#infection).
   * Sharp wounds require either [brute treatment kit surgery](/guides/medical-guides/Guide-to-Surgery#internal-organ-repair) or medicine with a stronger brute healing or blood clotting property.
 
-### Swelling
+## Swelling
 
 <span style="color: salmon;">Swelling</span> is the consequence of leaving an open internal wound untreated, causing bacteria to form. The area will be painful to touch, and leaving it untreated will cause an infection.
 * Swelling takes the form of swelling or abcess of the organ or body part.
 * Swelling can be treated before it becomes infected using antibiotics such as [Spaceacillin]()
 
-### Internal Burns
+## Internal Burns
 
 <span style="color: orange;">Burn wounds</span> are caused by excessive burn damage. This will cause internal burns on the organ or limb, progressing into an [infection](/guides/medical-guides/Guide-to-Medicine#infection) if left untreated.
 * Internal burns take the form of scorched tissue, charred tissued, or incinerated flesh.
@@ -274,20 +288,20 @@ Internal wounds have stages of progress, which takes the place of a number like 
 
 Once treated, internal burns will left a scarring of [necrosed tissues](/guides/medical-guides/Guide-to-Medicine#necrosis), which will need to be treated further.
 
-### Necrosis
+## Necrosis
 
 <span style="color: grey;">Necrosis</span> are divided into two types; damaged tissues which slowly progress into necrosis. Both of which causes pain for the patient and if left untreated, will progress into an [infection](/guides/medical-guides/Guide-to-Medicine#infection).
 * Necrosis takes the form of damaged tissue and necrotizing tissue for the respective levels.
 * Like internal burns, necrosis can be stabilized using [Inapprovaline](), but this does not treat it.
 * Like internal burns, necrosis can be treated using [necrosis removal surgery](/guides/medical-guides/Guide-to-Surgery#damaged-tissue-and-necrosis-removal) or [Trypsin]().
 
-### Infection
+## Infection
 
 <span style="color: gold;">Infection</span> is caused by accumulation of bacteria, on untreated wounds. Once this happens, the infection will slowly damage organs, spread to other organs, and start killing them until the organs and the patient are dead. Generally, infection can be spotted by examining the patient from the outside.
 * Infection can be treated using antibiotic [Spaceacillin]().
 * If left untreated, infection will spread and damage organs until they are dead.
 
-### Poison and Heavy Poison
+## Poison and Heavy Poison
 
 <span style="color: lime;">Poison and heavy poison</span> are caused by overdosing and inhalation or injection of extremely harmful substances. Both types are painful, and are divided into multiple category as follows;
 
@@ -295,11 +309,11 @@ Poisoning can be cured by [cutting out the affected tissue](/guides/medical-guid
 * Pustule makes the organ slightly bigger, filling up the space within the limb.
 * Minor poisoning makes the organ much less efficient, requiring
 
-### Foreign Objects
+## Foreign Objects
 
-### Tumors
+## Tumors
 
-### Bone Wounds
+## Bone Wounds
 
 ---
 
