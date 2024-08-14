@@ -2,7 +2,7 @@
 title: Guide to Surgery
 description: All about becoming a master surgeon.
 published: false
-date: 2024-08-13T10:44:34.104Z
+date: 2024-08-14T08:54:22.032Z
 tags: medical, guide, medical guide, work in progress
 editor: markdown
 dateCreated: 2024-08-13T10:44:34.104Z
@@ -14,11 +14,13 @@ dateCreated: 2024-08-13T10:44:34.104Z
 
 # Basics of Surgery
 
+## Surgical Tools
+
 ## The Surgical Interface
 
 ## Preparation
 
-### Preparing the Operating Teatre
+### Preparing the Operating Theatre
 
 ### Preparing the Patient
 
