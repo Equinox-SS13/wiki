@@ -2,7 +2,7 @@
 title: Why Wiki.JS?
 description: A brief introduction to why the wiki is using wiki.js instead of mediaWiki.
 published: false
-date: 2024-08-10T15:13:04.009Z
+date: 2024-08-14T11:44:31.159Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-10T15:13:04.009Z
