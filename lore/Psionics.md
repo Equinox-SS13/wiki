@@ -2,7 +2,7 @@
 title: Psionics
 description: Making a deal with the devil...
 published: false
-date: 2024-08-14T15:09:19.418Z
+date: 2024-08-14T15:10:10.678Z
 tags: guide, lore
 editor: markdown
 dateCreated: 2024-08-14T14:49:46.728Z
@@ -92,8 +92,8 @@ Lesser powers are usually a single point or free to use for a psion, they repres
 Greater powers are psionic abilities that cost more essence and may not be usable if you lack the cognition to have enough of a essence pool. These powers are much more useful as a result and range from 2-5 in point cost. Greater powers may come with restrictions or other unusual effects.
 
 
-| Power Name (Cost) | Effect | Notes
-| Telekinetic Omnitool (2) | Create an omnitool which has tool qualities based on 80% of your biology and mechanical skills, allowing it to function as a mechanical or surgical tool. It works at 80% speed and cannot be upgraded. | This object is temporary, when it leaves your hand for any reason it disappears. It does not require power and cannot wear down or break.
+| Power Name (Cost) | Effect | Notes |
+| Telekinetic Omnitool (2) | Create an omnitool which has tool qualities based on 80% of your biology and mechanical skills, allowing it to function as a mechanical or surgical tool. It works at 80% speed and cannot be upgraded. | This object is temporary, when it leaves your hand for any reason it disappears. It does not require power and cannot wear down or break. |
 | Psionic Tool Construction (2) || Using an oddity, you create a permanent tool out of it, sacrificing the oddity to have it randomly become a tool. The oddities stats affect what is most likely to be created, but the choice is still random. || Creates one of six potential tools. The tools are lesser than their high tier counterparts, but have odd qualities and come with themes. Some may be used as weapons but generally are not as effective as actual psi-weapons. These can be modified and upgrade.
 | Meditative Focus(2) || Expend two psi points of your psi essence to focus your mind and increase your sanity.
 | Psionic Weapon Construction (3) || Using an oddity, you create a permanent weapon out of it, sacrificing the oddity to have it randomly become a range weapon. The oddities stats affect what is most likely to be created, but the choice is still random. Psionic guns '''do not''' come loaded. || Creates one six random guns. All guns are 10% to 20% weaker than than their official versions. All weapons come with a specific style, name, and description that makes them more interesting and reveal their nature. These can be modified and upgraded.
