@@ -2,7 +2,7 @@
 title: Guide to Medicine
 description: All you need to start out as a doctor or field medic.
 published: false
-date: 2024-08-14T10:35:10.891Z
+date: 2024-08-14T10:38:17.048Z
 tags: medical, guide, medical guide, work in progress
 editor: markdown
 dateCreated: 2024-08-12T07:53:01.066Z
@@ -154,8 +154,8 @@ The following are a list of organ and what happens when they are dead, or destro
 ## Pain
 
 Although not an actual, physical damage by itself, pain will make injuries much more difficult to manage. A patient who is in pain will be unable to focus on task at hand as well, be slowed down, collapses, drop whatever may be on their hand, and even black out unconscious at time.
-* Pain can be managed by using painkillers and other opioids, be careful of [NSA](/guides/medical-guides/Guide-to-Medicine/guides/medical-guides/Guide-to-Medicine#neural-system-accumulation).
-* To mediate the pain for surgery, the patient can be put to sleep by means of [anesthesia](h/guides/medical-guides/Guide-to-Surgery#preparing-the-patient) or [Soporific]().
+* Pain can be managed by using painkillers and other opioids, be careful of [NSA](/guides/medical-guides/Guide-to-Medicine#neural-system-accumulation).
+* To mediate the pain for surgery, the patient can be put to sleep by means of [anesthesia](/guides/medical-guides/Guide-to-Surgery#preparing-the-patient) or [Soporific]().
 
 ---
 
