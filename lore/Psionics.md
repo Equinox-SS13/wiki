@@ -1,8 +1,8 @@
 ---
 title: Psionics
 description: Making a deal with the devil...
-published: true
-date: 2024-08-14T14:59:28.812Z
+published: false
+date: 2024-08-14T15:01:44.033Z
 tags: guide, lore
 editor: markdown
 dateCreated: 2024-08-14T14:49:46.728Z
