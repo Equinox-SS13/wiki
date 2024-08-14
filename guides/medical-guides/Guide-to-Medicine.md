@@ -2,7 +2,7 @@
 title: Guide to Medicine
 description: All you need to start out as a doctor or field medic.
 published: false
-date: 2024-08-13T13:36:47.162Z
+date: 2024-08-14T07:19:56.230Z
 tags: medical, guide, medical guide, work in progress
 editor: markdown
 dateCreated: 2024-08-12T07:53:01.066Z
@@ -230,6 +230,11 @@ Despite death, resustication is always possible. A timer is started on death whi
 * Past 30 minutes, resustication is not possible with out [surgical intervention](https://wiki.bluespace.engineer/e/en/guides/medical-guides/Guide-to-Surgery#resustication-preparation).
 
 ### Stasis
+There is, however, a way to completely halt the degradation of patient's health and practically stabilizing them by stopping all their bodily function. 
+
+This is called stasis, and it works to stop a patient in critical stages from death as well as stopping body from rotting past resustication timer. There are two way to put someone in a stasis.
+* [Cryogenics tube](https://wiki.bluespace.engineer/en/guides/medical-guides/Guide-to-Medicine#cryogenics-tube) when set up correctly and paired with [Cryoxadone]() or [Cronexidone]() can be used to put someone in an indefinite stasis state.
+* Disposable [stasis bag](https://wiki.bluespace.engineer/en/guides/medical-guides/Guide-to-Medicine#stasis-bag) can be used to store someone inside, this effects slowly wane off eventually, and should be used for transport.
 
 ---
 
