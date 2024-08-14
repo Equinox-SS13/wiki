@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-08-13T16:25:40.963Z
+date: 2024-08-14T10:20:14.885Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-07T22:41:18.531Z
@@ -22,54 +22,27 @@ dateCreated: 2024-08-07T22:41:18.531Z
 <div id="content-container"></div> -->
 
 <style>
-  div.infobox {
-  	width: 100%;
-    height: fit-content;
-    border: 1px solid white;
-    border-radius: 20px;
-  }
-  div.infobox-header{
-  	width: 100%;
-    height: fit-content;
-    border-bottom: 1px solid white;
-    align-content: center;
-    justify-content: center;
-  }
-  div.infobox-content {
-  	padding: 0.5em;
-  }
-  div.infobox-column {
-  	display: flex;
-    flex-flow: column nowrap;
-    width:100%
-  }
-  div.infobox-container {
-  	margin-top: 5em;
-    width: 100%;
-    display: flex;
-    flex-flow: row nowrap;
-  }
-  
+
 </style>
 
 <div class="infobox-container">
 	<div class="infobox-column">
 		<div class="infobox">
-    	<div class="infobox-header"><center>Test<center></div>
+    	<div class="infobox-header" style="background-color: blue;"><center>Test<center></div>
       <div class="infobox-content">Some content goes here!</div>
     </div>
   	<div class="infobox">
-    	<div class="infobox-header"><center>Test<center></div>
+    	<div class="infobox-header" style="background-color: red;"><center>Test<center></div>
 			<div class="infobox-content">Some content goes here!</div>
 		</div>
 	</div>
   <div class="infobox-column">
 		<div class="infobox">
-    	<div class="infobox-header"><center>Test<center></div>
+    	<div class="infobox-header" style="background-color: green;"><center>Test<center></div>
 			<div class="infobox-content">Some content goes here!</div>
 		</div>
   	<div class="infobox">
-    	<div class="infobox-header"><center>Test<center></div>
+    	<div class="infobox-header" style="background-color: orange;"><center>Test<center></div>
 			<div class="infobox-content">Some content goes here!</div>
 		</div>
 	</div>
