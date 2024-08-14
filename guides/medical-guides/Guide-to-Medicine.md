@@ -2,7 +2,7 @@
 title: Guide to Medicine
 description: All you need to start out as a doctor or field medic.
 published: false
-date: 2024-08-14T11:30:50.018Z
+date: 2024-08-14T14:40:46.246Z
 tags: medical, guide, medical guide, work in progress
 editor: markdown
 dateCreated: 2024-08-12T07:53:01.066Z
@@ -149,7 +149,7 @@ The following are a list of organ and what happens when they are dead, or destro
 | Kidneys  | Inability to regenerate blood and allowing toxin to build up | Stomach  | Inability to digest food or take nutrients by mouth |
 | Appendix  | Nothing, the appendix is functionless | Bone     | Loss of the limb or body part |
 | Blood vessel | Lack of bloodflow to the limb or body part | Nerve | Loss of [NSA](/guides/medical-guides/Guide-to-Medicine#neural-system-accumulation) and function of the limb or body part |
-| Muscle   | Loss of function of the limb or body part. | |
+| Muscle   | Loss of function of the limb or body part. | |{.no-table-head}
 
 * It has to be noted that, out of all organs, bones are unaffected by the lack of bloodflow and oxygen.
 
