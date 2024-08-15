@@ -2,7 +2,7 @@
 title: Psionics
 description: Making a deal with the devil...
 published: false
-date: 2024-08-14T15:15:36.821Z
+date: 2024-08-15T13:53:39.591Z
 tags: guide, lore
 editor: markdown
 dateCreated: 2024-08-14T14:49:46.728Z
@@ -16,6 +16,8 @@ If you've ever ventured down into Deep Maintenance, you've probably encountered 
 So what makes a Psionic a Psionic? Cancer. A benign tumor that grows in their brain, to be precise. The Soteria Institute is capable of culturing and implanting these tumors, but they all still link back to the Dreaming King regardless. For most psions, they were "gifted" the tumor by the Dreaming King, and some may even refer to their tumors as their Ascended Flesh.
 
 For reasons unknown, the tumor violently rejects any sort of implants or augmentations in their host, forcefully ejecting even the simplest death alarm implants out of the body. Many psions have taken this in stride, and claim that they are maintaining the purity of their body, however other observers have noted that they are merely coping.
+
+Ironically however, Nanogates and Cruciforms *will* forcefully (and safely) kill the psionic tumor, resulting in the psion losing their powers and turning back into a normal (but augmented) person. It should also be noted that cruciforms will *painfully* reject any attempt at a psion using their powers on them, in addition to shielding their host from telepathy.
 
 # Powers
 > This section is transcribed from the Sojourn wiki.
