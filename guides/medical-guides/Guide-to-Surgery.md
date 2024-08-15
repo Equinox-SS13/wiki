@@ -2,7 +2,7 @@
 title: Guide to Surgery
 description: All about becoming a master surgeon.
 published: false
-date: 2024-08-14T09:39:24.407Z
+date: 2024-08-15T08:43:09.357Z
 tags: medical, guide, medical guide, work in progress
 editor: markdown
 dateCreated: 2024-08-13T10:44:34.104Z
@@ -47,6 +47,8 @@ dateCreated: 2024-08-13T10:44:34.104Z
 ### Implant and Organ Extraction
 
 ### Foreign Object Removal
+
+### Shrapnel Removal
 
 ### Damaged Tissue and Necrosis Removal
 
