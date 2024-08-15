@@ -2,7 +2,7 @@
 title: Guide to Power
 description: Powering the Colony 101
 published: true
-date: 2024-08-13T12:22:08.025Z
+date: 2024-08-15T13:50:13.675Z
 tags: guide, engineering, engineering guide
 editor: markdown
 dateCreated: 2024-08-13T09:16:35.670Z
@@ -65,7 +65,9 @@ The very first thing you must do is hit the Detect Connected Turbines button to 
 
 ![](/ingame_screenshots/hydrodam3.png)
 
-Afterwards, simply open the floodgates and you will begin generating power.
+Afterwards, simply open the floodgates and you will begin generating power. Note that this will eventually drain the reservoir, and this will cause the floodgates to automatically close on their own. A notification on the radio will be sent to remind you when the reservoir has filled back up to full.
+
+In addition, the turbines will occasionally get clogged with trash. Using a crowbar to clear out clogs will spawn a trash pile that you can break down. Using a multitool to clear out clogs will simply reset it without spawning a trash pile.
 
 ## The Diesel Generators
 
