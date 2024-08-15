@@ -1,9 +1,9 @@
 ---
 title: Psionics
 description: Making a deal with the devil...
-published: true
-date: 2024-08-15T13:57:38.548Z
-tags: guide, lore, other guide
+published: false
+date: 2024-08-15T14:06:59.416Z
+tags: guide, lore
 editor: markdown
 dateCreated: 2024-08-14T14:49:46.728Z
 ---
@@ -11,13 +11,15 @@ dateCreated: 2024-08-14T14:49:46.728Z
 So, you've elected to play as a Psionic, or perhaps you're just curious about those weirdoes running around melting other people's brains. Fear not, for this page will get you a general idea of what a Psionic is!
 
 # Lore
-If you've ever ventured down into Deep Maintenance, you've probably encountered some weird entities. And if you were extra unlucky, you might have ran into the Hound and the Dreaming King Himself. Unfortunately for all Psionics, He is the source of their powers. Every Psionic is inevitably linked to the Dreaming King, and merely borrow His powers for their petty uses.
+If you've ever ventured down into Deep Maintenance, you've probably encountered some weird entities. And if you were extra unlucky, you might have ran into the Hound and the Dreaming King Himself. Unfortunately for all Psionics, He is the source of their powers. Every Psionic is inevitably linked to the Dreaming King, and merely borrow His powers for their petty uses. This also means that He and His Hound can and will strip away your psionic powers if you choose to defy Them. His pawns, the various ghastly entities roaming Deep Maintenance are also all capable of temporarily dampening your Cognition and thus weakening your psionic capabilities by injecting you with Cebrenal (Think: Opposite of Cerebrix) upon hitting you.
 
-So what makes a Psionic a Psionic? Cancer. A benign tumor that grows in their brain, to be precise. The Soteria Institute is capable of culturing and implanting these tumors, but they all still link back to the Dreaming King regardless. For most psions, they were "gifted" the tumor by the Dreaming King, and some may even refer to their tumors as their Ascended Flesh.
+So what makes a Psionic a Psionic? Cancer. A benign tumor that grows in their brain, to be precise. The Soteria Institute is capable of culturing and implanting enhanced versions of these tumors, but they all still link back to the Dreaming King regardless, no matter how much SI tries to claim otherwise in their marketing materials. For most psions, they were "gifted" the tumor by the Dreaming King, and some may even refer to their tumors as their Ascended Flesh.
 
 For reasons unknown, the tumor violently rejects any sort of implants or augmentations in their host, forcefully ejecting even the simplest death alarm implants out of the body. Many psions have taken this in stride, and claim that they are maintaining the purity of their body, however other observers have noted that they are merely coping.
 
 Ironically however, Nanogates and Cruciforms *will* forcefully (and safely) kill the psionic tumor, resulting in the psion losing their powers and turning back into a normal (but augmented) person. It should also be noted that cruciforms will *painfully* reject any attempt at a psion using their powers on them, in addition to shielding their host from telepathy.
+
+Many Psionics have taken to ingesting Cerebrix in one form or another to fuel their psionic powers. Cerebrix is a curious chemical compound made from a mixture of psilocybin and various other substances that directly stimulates the tumor's link to the Dreaming King. Side effects are extremely varied from psion to psion. In its raw form however, it is highly addictive and psions may develop a physical dependence on it. When packaged into an inhaler, aerosolized Cerebrix appears to have less crippling side effects compared to the raw chemical.
 
 # Powers
 > This section is transcribed from the Sojourn wiki.
