@@ -1,8 +1,8 @@
 ---
 title: Guide to Medicine
 description: All you need to start out as a doctor or field medic.
-published: false
-date: 2024-08-15T10:02:18.358Z
+published: true
+date: 2024-08-15T10:02:31.540Z
 tags: medical, guide, medical guide, work in progress
 editor: markdown
 dateCreated: 2024-08-12T07:53:01.066Z
