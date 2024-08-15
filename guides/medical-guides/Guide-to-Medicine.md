@@ -2,7 +2,7 @@
 title: Guide to Medicine
 description: All you need to start out as a doctor or field medic.
 published: true
-date: 2024-08-15T10:02:31.540Z
+date: 2024-08-15T10:07:02.935Z
 tags: medical, guide, medical guide, work in progress
 editor: markdown
 dateCreated: 2024-08-12T07:53:01.066Z
@@ -143,7 +143,7 @@ Also referred to as "cloneloss", which can be caused by genetics instability cau
 
 Genetics damage reduces your overall health, a patient with 30 genetics damage and 100 base health will have a max health of 70. Additionally, genetics damage causes tumor growth which, if left untreated can become severely lethal.
 
-* Tumors are divided into two types, each slowly progressing from a plasm stage till it is fully grown.
+* Tumors are divided into two types, each slowly progressing from a plasm stage till it is fully grown. See more in the [tumor section here](/guides/medical-guides/Guide-to-Medicine#Tumors).
   * Benign tumor once fully grown will cause the limb to be less effective, but does not spread or cause serious damage.
   * Malignant tumor is the more serious version of this, it will slowly kill the organ off before spreading to other organs.
 * [Rezadone]() and [Ryetalyn]() treats genetics damage, and additionally removes both types of tumor.
