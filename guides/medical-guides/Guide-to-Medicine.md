@@ -2,7 +2,7 @@
 title: Guide to Medicine
 description: All you need to start out as a doctor or field medic.
 published: false
-date: 2024-08-14T14:42:27.152Z
+date: 2024-08-15T10:02:18.358Z
 tags: medical, guide, medical guide, work in progress
 editor: markdown
 dateCreated: 2024-08-12T07:53:01.066Z
@@ -89,7 +89,25 @@ Below **70%**, the person starts to suffer from <span style="color: cyan;">oxylo
 * Bleeding can be stopped by using gauze, brute treatment kit, or any medicine with blood-clotting property such as [Quickclot]() or [Bicardine]().
 * Bleeding can also be manually stopped by hand. Target the person's limb that is bleeding, `reinforced GRAB` + `HELP intent click` on the person.
 
-Blood can be regained naturally over time with rest and food, but in severe case of blood loss, use [transfusion]() of saline or the appropriate bloodtype.
+Blood can be regained naturally over time with rest and food, but in severe case of blood loss, use [transfusion](/guides/medical-guides/Guide-to-Medicine#intravenous-therapy-iv) of saline or the appropriate bloodtype.
+
+### Blood Type
+
+Different people will have different blood type ranging from -O to +AB. Some blood types are compatible with other, but those that do not cannot be transfused into the patient otherwise risking blood toxicity.
+
+`This should be read left to right, as in blood type to patient`
+
+| Can be transferred to... |-O|+O|-A|+A|-B|+B|-AB|+AB|
+| -  | - | - | - | - | - | - | - | - |
+| <center>-O</center> | Y | Y | Y | Y | Y | Y | Y | Y |
+| <center>+O</center> | * | Y | * | Y | * | Y | * | Y |
+| <center>-A</center> | * | * | Y | Y | * | * | Y | Y |
+| <center>+A</center> | * | * | * | Y | * | * | * | Y |
+| <center>-B</center> | * | * | * | * | Y | Y | Y | Y |
+| <center>+B</center> | * | * | * | * | * | Y | * | Y |
+| <center>-AB</center> | * | * | * | * | * | * | Y | Y |
+| <center>+AB</center> | * | * | * | * | * | * | * | Y |
+
 
 
 ## Fractures
@@ -158,6 +176,7 @@ The following are a list of organ and what happens when they are dead, or destro
 Although not an actual, physical damage by itself, pain will make injuries much more difficult to manage. A patient who is in pain will be unable to focus on task at hand as well, be slowed down, collapses, drop whatever may be on their hand, and even black out unconscious at time.
 * Pain can be managed by using painkillers and other opioids, be careful of [NSA](/guides/medical-guides/Guide-to-Medicine#neural-system-accumulation).
 * To mediate the pain for surgery, the patient can be put to sleep by means of [anesthesia](/guides/medical-guides/Guide-to-Surgery#preparing-the-patient) or [Soporific]().
+* If the pain is too high, a patient may black out unconscious for a period of time.
 
 ---
 
@@ -186,6 +205,18 @@ If you have been provided a medical HUD interface, a visible graphical visualiza
 * <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth1.gif width="64" height="10" class="sub health-indicator">: less than 5% health</div>
 * <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth0.gif width="64" height="10" class="sub health-indicator">: less than 0%, this is also known as "in critical stage"</div>
 * <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth-100.gif width="64" height="10" class="sub health-indicator">: the patient is dead</div>
+
+#### Heart Rate
+Additionally, another way of seeing if a person is stable or not is to look at their heart rate. Heart rates are measured in Beats Per Minute or `bpm` on the scanner. 
+* The average healthy bpm is around 80 bpm, anything lower than 60 or higher than 100 bpm are abnormal.
+* This method is still highly unreliable, since a lot of chemicals affect the heart rate, including some types of drugs or smokes.
+
+#### Body Temperature
+Although not a general indicator of something, body temperature can tell us if someone is dead, affected by chemicals, or is currently on-fire or burning from inside out. This is also present on the medical scanner.
+* A body temperature of 0 degrees means death, or that the person is not an organic being.
+* A low body temperature is a good indicator of poison, or otherwise toxin dispensed by various spiders within the colony.
+* A high body temperature is a good indicator that someone is, or was previously, set on fire. Additionally some toxin will cause this.
+
 
 ### Diagnosis
 
@@ -236,23 +267,77 @@ This makes the difference between newly deceased person and one that deceased fo
 
 Despite death, resustication is always possible. A timer is started on death which determines when their brain decay and when resustication is not possible without surgical intervention.
 * Past 15 minutes, the brain starts to decay and take damage.
-* Past 30 minutes, resustication is not possible with out [surgical intervention](https://wiki.bluespace.engineer/e/en/guides/medical-guides/Guide-to-Surgery#resustication-preparation).
+* Past 30 minutes, resustication is not possible with out [surgical intervention](/guides/medical-guides/Guide-to-Surgery#resustication-preparation) by applying [nanopaste]() to repair the brain.
 
 ### Stasis
 
 There is, however, a way to completely halt the degradation of patient's health and practically stabilizing them by stopping all their bodily function. 
 
 This is called stasis, and it works to stop a patient in critical stages from death as well as stopping body from rotting past resustication timer. There are two way to put someone in a stasis.
-* [Cryogenics tube](https://wiki.bluespace.engineer/en/guides/medical-guides/Guide-to-Medicine#cryogenics-tube) when set up correctly and paired with [Cryoxadone]() or [Cronexidone]() can be used to put someone in an indefinite stasis state.
-* Disposable [stasis bag](https://wiki.bluespace.engineer/en/guides/medical-guides/Guide-to-Medicine#stasis-bag) can be used to store someone inside, this effects slowly wane off eventually, and should be used for transport.
+* [Cryogenics tube](/guides/medical-guides/Guide-to-Medicine#cryogenics-tube) when set up correctly and paired with [Cryoxadone]() or [Cronexidone]() can be used to put someone in an indefinite stasis state.
+* Disposable [stasis bag](/guides/medical-guides/Guide-to-Medicine#stasis-bag) can be used to store someone inside, this effects slowly wane off eventually, and should be used for transport.
 
 # Administering Medicine
 
+There are a multitude of ways to administrate medicine, each with its own complication, pros, and drawbacks. As a general note, when administering medicine, you yourself should not be panicking, and precaution or confirmation should be made before the administration.
+
 ## Oral, Injection, and Touch
+
+Medicine comes commonly in three forms; pills, bottles, and coating within gauzes. 
+
+### Oral Application
+
+This refers to the act of taking a pill, sipping medicine from a bottle, or otherwise eating food injected with chemicals. The chemical goes to the stomach, where it slowly absorbs into the blood, before it is processed within the body. 
+
+This is called metabolism, and each medicine will have a different metabolism rate. In general, the absorbtion rate of the stomach is slower than how fast the body actually process. 
+
+Essentially, you're creating a bottle neck where medicine is slowly introduced into blood. This is useful for a few situation
+1. Oral application is extremely quick and easy, requiring no skill or training.
+2. Oral application allows for medicine to be absorbed slower, lessening the risk of [overdose](/guides/medical-guides/Guide-to-Medicine#overdosing) and the rate of which [NSA](/guides/medical-guides/Guide-to-Medicine#neural-system-accumulation) is gained.
+
+However, oral application also comes with some downsides.
+1. The medicine is less effective overall, since it can only be processed as fast as the stomach can absorb it.
+2. Occasionally, the total dosage needed isn't even near the overdose threshold at all, costing time and raising [NSA](/guides/medical-guides/Guide-to-Medicine#neural-system-accumulation) if another chemical needs to be introduced soon after.
+3. Pills are harder to manage dosage wise, requiring a [chem master] to produce exclusively.
+
+### Injection
+
+This refers to the act of injecting someone with medicine into the bloodstream using some types of [syringe](/guides/medical-guides/Guide-to-Medicine#syringe), needles, or [IV drip](/guides/medical-guides/Guide-to-Medicine#intravenous-therapy-iv). This is generally the most common way of administering medicine.
+
+For syringes and most other types of injectors, the dosage administrated is usually in 5s at a time. Most of these equipment barring the [autoinjector]() requires some basic knowledge of biology.
+1. Injection dosage can be easily managed in 5 at a time, making it more flexible than pills.
+2. Injection allows the chemical to go directly into the bloodstream, shortening the time it takes for the chemical to be processed.
+
+Downsides for injection is low, but not uncommon.
+1. It is very easy to accidentally over-inject someone with medicine, causing an [overdose](/guides/medical-guides/Guide-to-Medicine#overdosing).
+2. The ease of administering and the speed of which medicine is injected allow for multiple medicine to be quickly administered full-amount at the same time, causing high [NSA](/guides/medical-guides/Guide-to-Medicine#neural-system-accumulation) rates.
+
+### Touch-based Application
+
+The rarest of the three, touch-based application refers to medicine that works better or exclusively works when it comes in contact with skin. You're generally going to find this in the form of gauze soaked with antibiotic, and much more rarely via liquid splashing.
+
+## Overdosing
+
+Overdosing is when a certain chemical type accumulates much more than the body can process, with a numbered maximum threshold before an overdose counted in unit `u`. Overdosing can cause toxin build up, organ poisoning via accumulation, or even strong side effects in some medicine.
+* Generally you want to avoid overdosing someone as much as you can, unless you know what you're doing.
+* In stronger stimulants and medicine, this could mean organ damage or death, or a build up of pain and toxin.
+
+Each chemicals have different side effects from overdosing, some medication overdose are even desirable as it makes them stronger despite the side effect. For more guide on each chemicals overdose threshold, see [Guide to Chemistry](/guides/medical-guides/Guide-to-Chemistry).
 
 ## Neural System Accumulation
 
+Neural System Accumulation or NSA refers to the ability of the body to handle storng chemicals or multiple chemicals at the same time. With a general baseline of `100` and a display of `0/100` on the medical scanner.
+
+NSA are raised when chemicals are injected into the body, each coming with different NSA count and stacking if more chemicals are in the body at the same time. A person cannot have 6 different chemicals running at the same time without some side effects.
+* NSA is lowered when the patient loses their nerve organ to damage, effectively halving the amount of chemical they can process at one time.
+* An NSA count that is above the patient's limit will slowly cause pain, vomit, hallucination, progressing into bloodied cough, heart attack, and paralysis if an extreme amount of NSA is reached.
+
 ## Intravenous Therapy (IV)
+
+Intravenous Therapy, or IV, is the process of slowly administering blood or medicine through gravity-assisted needle. The patient has to be attached to an [IV bag]() hanging on the [IV stand](). This allows them to have `1u` of medicine or blood injected into them at a time, over time.
+
+This is the most common way of giving blood to the patient, and can be done by `left clicking` on the IV stand with the IV bag of choice before `left clicking` and `dragging` the IV stand onto the patient next to it. 
+* Be careful not to have them move or the needle will be rippedo ut painfull!.
 
 
 ---
@@ -313,17 +398,74 @@ Once treated, internal burns will left a scarring of [necrosed tissues](/guides/
 
 Poisoning can be cured by [cutting out the affected tissue](/guides/medical-guides/Guide-to-Surgery#damaged-tissue-and-necrosis-removal), [brute treatment kit surgery](/guides/medical-guides/Guide-to-Surgery#internal-organ-repair), or using antitoxin such as [Dylovene]() or stronger.
 * Pustule makes the organ slightly bigger, filling up the space within the limb.
-* Minor poisoning makes the organ much less efficient, requiring
+* Minor poisoning makes the organ much less efficient, requiring more blood, oxygen, and nutrient.
+* Accumulation causes much more pain than the other two.
+
+Heavy poisoning are exclusively caused by an overdose of strong medicine or drugs, inorganic compound, and plasma toxicity. Only rarely will you see heavy poisoning, but it is a great indication that something was greatly mis-handled. 
+
+Heavy poisoning of all type causes pain, makes organs much less efficient, and cause them to bloat and take more space. Eventually, heavy poisoning will kill the organ.
+* Toxin accumulation and chemical poisoning are noted with the type of toxin or chemical that is poisoning the organ.
+* Only organs that are targeted by the medicine will be affected by heavy poisoning, such as [Imidazoline]() overdose causing poisoning in the eyes.
+* Heavy poisoning caused by plasma, or plasma toxicity, can be cured using [Carthatoline]().
+* Outside of plasma toxicity, no current method is available for curing heavy poisoning, and an [organ transplant](/guides/medical-guides/Guide-to-Surgery#organ-transplant) is required.
 
 ## Foreign Objects
 
+Foreign objects refer to inorganic or otherwise foreign objects inside one's body that may be unwanted or actively causing harm. There are three types in general; implants, shrapnels, and biological.
+
+### Implants
+Implants can be wanted or unwanted, by default, implants will show up on the [body scanner](/guides/medical-guides/Guide-to-Medicine#body-scanner), but the specifics will require opening the patient up to examine.
+  * Core implants, such as psionic organ, nanogate, and cruciforms, are always detailed on the body scanner, requiring no further opening.
+  * Some implants are helpful, such as death alarm, freedom, etc. while others are cause of alarm, mainly the "[Excelsior]()" mindslave implant.
+  * Implants can be removed via [surgery](/guides/medical-guides/Guide-to-Surgery#implant-installationeand-extraction).
+
+### Shrapnels
+Shrapnels are extremely dangerous debris caused by lodged bullets or explosions from fragmentation mine or grenade. These are metal in nature, and will cause extreme harm in the person until it is removed.
+  * Any limbs can be affected by lodged shrapnel, the shrapnel damages the internal organ of any person moving around with them lodged inside. [Splint](/guides/medical-guides/Guide-to-Medicine#splint) and [roller bed](/guides/medical-guides/Guide-to-Medicine#roller-bed) is heavily recommended when transporting the patient.
+  * Shrapnel can be removed using [shrapnel removal surgery](/guides/medical-guides/Guide-to-Surgery#shrapnel-removal).
+
+### Other Foreign Objects
+Sometimes you'll run across different type of nasty, and strangely horrifying foreign objects in your patient's body. Whether it is an active cluster of unknown egg sac, a live spider crawling under their skin, or strange pulsing mass, you must be prepared to remove them.
+  * Foreign objects are usually extremely dangerous and harmful, requiring [surgery](/guides/medical-guides/Guide-to-Surgery#foreign-object-removal) in order to get rid of the object.
+  * Althought atypical but possible... some human-made object can be accidentally or purposefully sealed inside of one's body too.
+
+
 ## Tumors
 
+<span style="color: salmon;">Tumors</span> are a result of unstable cells mutating from [genetics damage](/guides/medical-guides/Guide-to-Medicine#genetics-damage). Tumors start slow, but can potentially spread everywhere and kill your patient.
+* There are two types of tumors; benign which is not lethal yet still harmful, and malignant which is extremely dangerous.
+  * A fully developed benign tumor will not kill you, but cause the limb and organ to be much less functional.
+  * A fully developed malignant tumor will start killing your organ, spreading once it has killed an organ.
+* Tumors start slowly from a polyp stage, slowly developing into a full grown tumor after a period of time.
+  * They may also be seen as neoplasma or strange growth.
+* Tumors will continue to grow, even when the patient is dead. This makes leaving a tumor growing in a corpse without stasis a **very** bad idea.
+
+Tumors can be treated in one of the following ways.
+* [Manual surgical incision on the organ](/guides/medical-guides/Guide-to-Surgery#tumor-removal).
+* [Peridaxon](), [Hyronalin](), and [Cryoxadone]() will get rid of all tumors in the polyp stage.
+* [Rezadone](), [Ryetalin](), and [Cronexidone]() will get rid of all tumors in the fully grown stage.
+
+
 ## Bone Wounds
+
+Bone wounds are types of [damage to the bone](/guides/medical-guides/Guide-to-Medicine#fractures), this may not be fractures but simply damages that causes constant pain to the patient. All types of bone fixing requires [surgery](/guides/medical-guides/Guide-to-Surgery#bone-setting-and-repair).
+* Bone damage caused by blunt application of force may take shape in burising, sprained ligament, or dislocation, and will require the use of [bone setter]().
+* Bone damage caused by sharp weapons may take shape in perforation, cavitation, puncture, laceration, avulsion, or chipped tissue, and will require the use of [osseous tape]() or other adhesives.
+  * Both types of bone damages can be repaired like other organs using a brute treatment kit.
+  * [Ossisine]() works to mend the bones in this stage.
+* Genuine fracture, aka the breaking and detachment of two bone pieces, however, require the use of [bone gel]() or the overdosing effect of [Ossisine](). As mentioned before, this will damage internal organs without the use of splint.
+
+## Organ Scarring
+
+Organ scarring is an effect caused mostly by overdosing on stimulants and other strong toxins. By it self it does not spread, but cause pain and damages the organ. An organ may be spotted with scar tissues, which is different from [necrosis](/guides/medical-guides/Guide-to-Medicine#necrosis).
+* The only treatment currently is a strong does of [Trypsin]().
 
 ---
 
 # Medical Equipment
+
+> This area is currently Work in Progress.
+{.is-warning}
 
 ## Necessary Equipment
 
