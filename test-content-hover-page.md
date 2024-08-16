@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2024-08-16T12:38:39.510Z
+date: 2024-08-16T12:59:48.743Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-12T11:52:42.843Z
@@ -21,4 +21,4 @@ Multi-line content!!
 ### Test123
 
 
-<p class="tw-text-2xl tw-bg-white tw-text-black">Ignore pls</p>
+<p class="text-2xl bg-white text-black">Ignore pls</p>
