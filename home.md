@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-08-14T13:49:32.619Z
+date: 2024-08-16T11:30:07.379Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-07T22:41:18.531Z
@@ -30,7 +30,7 @@ dateCreated: 2024-08-07T22:41:18.531Z
 		<div class="infobox">
     	<div class="infobox-header" style="background-color: blue;"><center>New to Equinox?<center></div>
       <div class="infobox-content">
-        <span>Check out our <a href="#">getting started</a> guide!</span>
+        <span class="text-red-600">Check out our <a href="#">getting started</a> guide!</span>
         </br>Some more content could go here!
         </br>How about a list?
         <list>
