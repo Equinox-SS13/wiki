@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-08-16T17:05:52.645Z
+date: 2024-08-16T17:06:37.794Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-07T22:41:18.531Z
@@ -73,11 +73,7 @@ dateCreated: 2024-08-07T22:41:18.531Z
   border-style: solid;
   border-color: #333 transparent transparent transparent
 }
-div.container:has(> div.page-header-section),
-div.page-col-sd,
-hr:has(+ div.container > div.layout) {
-  display: none
-}
+
 div.layout:has(> div.page-col-content) {
   justify-content: center
 }
