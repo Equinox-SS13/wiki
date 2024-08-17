@@ -2,7 +2,7 @@
 title: Guide to Power
 description: Powering the Colony 101
 published: true
-date: 2024-08-17T18:02:33.446Z
+date: 2024-08-17T18:05:02.884Z
 tags: guide, engineering, engineering guide
 editor: markdown
 dateCreated: 2024-08-13T09:16:35.670Z
@@ -16,7 +16,7 @@ There are also other alternatives to power than listed here such as [solars](htt
 
 # Introduction to Engineering
 
-![](/diagrams_maps_etc/engineeringlayout.png){.align-center .rounded-xl}
+![](/diagrams_maps_etc/engineeringlayout.png){.align-center}
 
 <center>Familiarize yourself with the layout of your workplace.</center>
 
