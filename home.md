@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-08-17T18:06:39.884Z
+date: 2024-08-17T18:07:06.317Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-07T22:41:18.531Z
@@ -18,7 +18,7 @@ dateCreated: 2024-08-07T22:41:18.531Z
 <strong>Welcome to Equinox, a Space Station 13 codebase forked off Sojourn which, itself, was forked off Eris.</strong>
 </center>
 
-<div class="flex(& sm:row,col) space(y-4,sm:y-0,sm:x-4) mt-4">
+<div class="flex(& sm:row,col) space(y-2,sm:y-0,sm:x-2) mt-4">
 	<div class="w-full flex(& col) space-y-4">
 		<div class="w-full rounded-xl border(2 white solid)">
     	<header class="rounded-t-xl bg-blue-600"><center>New to Equinox?<center></header>
