@@ -2,7 +2,7 @@
 title: Guide to Power
 description: Powering the Colony 101
 published: true
-date: 2024-08-17T18:00:07.262Z
+date: 2024-08-17T18:02:33.446Z
 tags: guide, engineering, engineering guide
 editor: markdown
 dateCreated: 2024-08-13T09:16:35.670Z
