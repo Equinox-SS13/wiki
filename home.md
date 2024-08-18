@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-08-17T18:07:06.317Z
+date: 2024-08-18T19:31:55.328Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-07T22:41:18.531Z
@@ -23,8 +23,7 @@ dateCreated: 2024-08-07T22:41:18.531Z
 		<div class="w-full rounded-xl border(2 white solid)">
     	<header class="rounded-t-xl bg-blue-600"><center>New to Equinox?<center></header>
       <div class="p-2">
-        <span class="text-red-600">Check out our <a href="#">getting started</a> guide!</span>
-        </br>Some more content could go here!
+        </br>Some content could go here!
         </br>How about a list?
         <list>
           <li>Some item!</li>
