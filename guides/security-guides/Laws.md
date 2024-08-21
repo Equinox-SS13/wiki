@@ -2,12 +2,14 @@
 title: Law
 description: The rules you need to follow, or break.
 published: true
-date: 2024-08-21T01:22:09.502Z
+date: 2024-08-21T01:29:26.168Z
 tags: guide, security guide, space law
 editor: markdown
 dateCreated: 2024-08-21T01:22:09.502Z
 ---
 
+#This page is a WORK IN PROGRESS. - SIGMA
+#TO ADD - privacy rights, disrespect for the dead, a section on blocking or obstruction of areas, sentence reducers/enhancers, and escaping at least.
 # Space Law
 
 Space Law, Corporate Regulations, Company Mandates, Oragnaizational Rules. Whatever name you use for a collection of group regulations, everyone is bound by a collection of standardized rules and regulations. As [[INSERT JOB TITLE HERE]], your job is to ensure that these are followed and punish people who are not following them. 
