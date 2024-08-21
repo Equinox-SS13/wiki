@@ -2,7 +2,7 @@
 title: Law
 description: The rules you need to follow, or break.
 published: true
-date: 2024-08-21T01:29:26.168Z
+date: 2024-08-21T01:29:42.591Z
 tags: guide, security guide, space law
 editor: markdown
 dateCreated: 2024-08-21T01:22:09.502Z
@@ -62,7 +62,7 @@ The Regulations are broken up into levels of severity. Less severe crimes are pu
     <td>Insubordination</td>
     <td>Deriliction of Duty</td>
     <td>Aiding and Abetting</td>
-    <td>-</td>
+    <td>Treason</td>
     <td>-</td>
   </tr>
   <tr>
