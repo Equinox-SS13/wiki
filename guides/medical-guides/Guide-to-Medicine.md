@@ -2,7 +2,7 @@
 title: Guide to Medicine
 description: All you need to start out as a doctor or field medic.
 published: true
-date: 2024-08-15T10:07:02.935Z
+date: 2024-08-22T04:13:28.747Z
 tags: medical, guide, medical guide, work in progress
 editor: markdown
 dateCreated: 2024-08-12T07:53:01.066Z
@@ -141,9 +141,9 @@ Radiation level is directly treated  by injecting the patient [Hyronalin]() or [
 
 Also referred to as "cloneloss", which can be caused by genetics instability caused by some organisms or genetics project failure. Newly cloned subjects will also come out of their vat with this. Genetics damage shows up on the medical scanner, but a [body scanner](/guides/medical-guides/Guide-to-Medicine#body-scanner) is needed to learn the specifics.
 
-Genetics damage reduces your overall health, a patient with 30 genetics damage and 100 base health will have a max health of 70. Additionally, genetics damage causes tumor growth which, if left untreated can become severely lethal.
+Genetics damage reduces your overall health, a patient with 30 genetics damage and 100 base health will have a max health of 70. Additionally, genetics damage causes [tumor growth](/guides/medical-guides/Guide-to-Medicine#Tumors) which, if left untreated can become severely lethal.
 
-* Tumors are divided into two types, each slowly progressing from a plasm stage till it is fully grown. See more in the [tumor section here](/guides/medical-guides/Guide-to-Medicine#Tumors).
+* [Tumors](/guides/medical-guides/Guide-to-Medicine#Tumors) are divided into two types, each slowly progressing from a plasm stage till it is fully grown.
   * Benign tumor once fully grown will cause the limb to be less effective, but does not spread or cause serious damage.
   * Malignant tumor is the more serious version of this, it will slowly kill the organ off before spreading to other organs.
 * [Rezadone]() and [Ryetalyn]() treats genetics damage, and additionally removes both types of tumor.
@@ -205,6 +205,8 @@ If you have been provided a medical HUD interface, a visible graphical visualiza
 * <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth1.gif width="64" height="10" class="sub health-indicator">: less than 5% health</div>
 * <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth0.gif width="64" height="10" class="sub health-indicator">: less than 0%, this is also known as "in critical stage"</div>
 * <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth-100.gif width="64" height="10" class="sub health-indicator">: the patient is dead</div>
+
+Additionally, the health HUD also display other information for the person, such as whether they are bleeding, if they are infected with a virus, for example. This still shouldn't be fully relied on, as the best way to check someone is with a [health scan](/guides/medical-guides/Guide-to-Medicine#health-scanner).
 
 #### Heart Rate
 Additionally, another way of seeing if a person is stable or not is to look at their heart rate. Heart rates are measured in Beats Per Minute or `bpm` on the scanner. 
@@ -321,16 +323,27 @@ The rarest of the three, touch-based application refers to medicine that works b
 Overdosing is when a certain chemical type accumulates much more than the body can process, with a numbered maximum threshold before an overdose counted in unit `u`. Overdosing can cause toxin build up, organ poisoning via accumulation, or even strong side effects in some medicine.
 * Generally you want to avoid overdosing someone as much as you can, unless you know what you're doing.
 * In stronger stimulants and medicine, this could mean organ damage or death, or a build up of pain and toxin.
+* In the case that an overdose happens, the person must be purged of the chemical via use of a [sleeper](/guides/medical-guides/Guide-to-Medicine#sleeper) or [purging chemicals]() immediately otherwise they will suffer from the side effects.
 
 Each chemicals have different side effects from overdosing, some medication overdose are even desirable as it makes them stronger despite the side effect. For more guide on each chemicals overdose threshold, see [Guide to Chemistry](/guides/medical-guides/Guide-to-Chemistry).
+
+## Addiction
+
+Addiction is caused by a prolonged use or overdosing of certain chemicals. Certain drugs, medicine, stimulants, and even toxin has a chance to cause addiction. 
+* While under an addiction, the body may suffer some stat debuffs, complications, or even struggle in some otherwise normal tasks.
+* A good way to quickly remove an addiction is through the use of [Addictol]() or quickly purging any addicting chemicals left in the body via the use of a [sleeper](/guides/medical-guides/Guide-to-Medicine#sleeper) or various [purging chemicals]().
 
 ## Neural System Accumulation
 
 Neural System Accumulation or NSA refers to the ability of the body to handle storng chemicals or multiple chemicals at the same time. With a general baseline of `100` and a display of `0/100` on the medical scanner.
 
 NSA are raised when chemicals are injected into the body, each coming with different NSA count and stacking if more chemicals are in the body at the same time. A person cannot have 6 different chemicals running at the same time without some side effects.
-* NSA is lowered when the patient loses their nerve organ to damage, effectively halving the amount of chemical they can process at one time.
 * An NSA count that is above the patient's limit will slowly cause pain, vomit, hallucination, progressing into bloodied cough, heart attack, and paralysis if an extreme amount of NSA is reached.
+* NSA is dramatically lowered when the patient loses their nerve organ to damage, effectively halving the amount of chemical they can process at one time.
+* NSA can be raised or lowered with the [Vivification]() stat and the [Cognition]() skill, making each person different in terms of their NSA threshold.
+* A higher NSA threshold additionally gives the person more chance to become addicted to addicting reagent, while a lower NSA threshold person is less likely to.
+
+A good way to quickly lower someone's NSA count is by removing chemicals within their blood, this can be through the use of a [sleeper](/guides/medical-guides/Guide-to-Medicine#sleeper) or various [purging chemicals]().
 
 ## Intravenous Therapy (IV)
 
