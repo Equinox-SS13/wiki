@@ -2,7 +2,7 @@
 title: Guide to Sanity
 description: Sanity, Insight, Drugs, and Cheese
 published: true
-date: 2024-08-22T18:10:17.704Z
+date: 2024-08-22T18:13:47.724Z
 tags: guide, starter guide, sanity
 editor: markdown
 dateCreated: 2024-08-22T18:09:21.289Z
@@ -24,6 +24,8 @@ Clicking on this image will bring up a UI window.
 Your sanity regenerates slowly over time. However, you can influence its regeneration through your actions and your environment. Clean and brightly lit areas don't necessarily raise your sanity any faster, but they stop it from decreasing as quickly. 
 
 You can actively gain sanity through a variety of means. Most of these are things that feel nice to do, such as eating food, drinking drinks (especially alcoholic ones), and talking to people. Other things like passive mobs (cows, cats, chickens, etc.) and holoplants and decorations can passively increase your sanity gain over time. Smoking also slowly increases your sanity. Certain church powers, psionic powers, or perks can also increase your sanity or make regaining it easier.
+
+Sometimes you may receive a personal objective. These appear in your notes. Completing this objective will reward you with 20 insight points, plus whatever other reward the objective offers. See the [[Objectives]] page for more information.
 
 ## Losing Sanity
 
