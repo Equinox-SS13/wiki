@@ -2,20 +2,20 @@
 title: Keyboard Shortcuts
 description: A quick reference list to all keyboard shortcuts for non-legacy-control players.
 published: true
-date: 2024-08-22T05:30:07.714Z
+date: 2024-08-22T05:30:38.828Z
 tags: guide, starter guide
 editor: markdown
 dateCreated: 2024-08-21T11:57:58.541Z
 ---
 
-Keyboard Hot keys
+# Keyboard Hotkeys
 
 Space Station 13 comes with two major control options; legacy and hotkey.
 * Legacy control is the default control. In this mode, the game respond to commands using the `arrow keys`, using mouse clicks, and the legacy chat bar beneath the chat box to type out actions.
 * Hotkey control can be activated by pressing `TAB` key, removing your pointer from the legacy chat bar and enabling hotkey mode. Here you can use a multitude of keys to perform actions.
 
 
-# Hotkey-mode Controls
+## Hotkey-mode Controls
 These are hotkey-mode specific controls, requiring the activation of the mode using `TAB` to function.
 
 |		Key			|				Control					|		Key					|				Control				|
@@ -37,7 +37,7 @@ These are hotkey-mode specific controls, requiring the activation of the mode us
 |   4       | Sets harm-intent      | Ctrl + Click| Alternative interaction	
 | Shift + X | Wield item 						| Alt + Click| Access storage / Alternative interaction / Firemode Toggle 
 
-# Normal Hotkey Controls
+## Normal Hotkey Controls
 This does not require the hotkey mode to be on, which means that this works by default with the legacy control mode.
 
 |		Key			|				Control					|		Key					|				Control				|
@@ -56,7 +56,7 @@ This does not require the hotkey mode to be on, which means that this works by d
 | F3				| Say										| END						| Throw
 | F4				| Emote									|
 
-# Numpad Targeting
+## Numpad Targeting
 Numpad number can be used in both modes to quickly target different part of the limb respective of the numpad's number positioning as seen here.
 
 ![numpadtargeting.png](/numpadtargeting.png)
