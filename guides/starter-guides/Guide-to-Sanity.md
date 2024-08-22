@@ -2,7 +2,7 @@
 title: Guide to Sanity
 description: Sanity, Insight, Drugs, and Cheese
 published: true
-date: 2024-08-22T18:57:53.614Z
+date: 2024-08-22T19:48:24.053Z
 tags: guide, starter guide, sanity
 editor: markdown
 dateCreated: 2024-08-22T18:09:21.289Z
@@ -43,17 +43,34 @@ If your sanity hits zero, you'll suffer a breakdown. Breakdowns represent the st
 Breakdowns come in three flavors, positive, neutral, and negative. Unmodified, the chance for a positive breakdown is 20% and the chance for a negative is 30%. Certain perks can modify this chance. 
 
 ## Positive Breakdowns
-
-TABLE
+Positive breakdowns will show up in blue, bold text in your chatbox. All positive breakdowns restore 100 sanity on firing. Below is a list of positive breakdowns, their effects, duration, and display text.
+| Breakdown | Effect | Duration | Display Text | Notes
+|:----------|:-------|:---------|:--------
+| Absolute Concentration | Restore sanity to maximum, immune to sanity gain/loss | 20 Minutes | Mind turning inward, enlightnment, not phased anymore. | NONE
+| Adaptation | Increases positive breakdown chance by 10 percent and decreases negative breakdown chance by 5 percent, +20 maximum sanity. | Permanent | Feeling used to this, mentally prepared, or a step ahead. | NONE 
+| A Lesson Learned | All stats except Anatomy increase by 1-3 points. | Permanent | Feeling like you've leraned from your experience or past mistakes, things making more sense | NONE
+| Determination | Gives you shock resist. | 10 Minutes | Feeling invincible, unstoppable, or a rush of adenaline. | Prevents you from reaching the "having trouble keeping their eyes open" stage of pain.
+| Stalwart | Heal 25 brute, 10 clone, 25 burn, and 45 oxygen damage, injected with 5 units of Tramadol | Instant | Enduring or not feeling pain, feeling like you can take on the world. | Must be at below at least 30 health to trigger. 
 
 ## Neutral Breakdowns
-
-TABLE
+Neutral breakdowns display in bold red text in your chatbox. All neutral breakdowns restore 25 Sanity on completion unless stated otherwise. 
+| Breakdown | Effect | Duration | Display Text | Notes
+|:----------|:-------|:---------|:--------
+| Desire for Chrome | Makes you want a robotic augment. | Permanent until augment acquired. | Flesh is Weak. | Restores 60 Sanity and rewards 30 Insight on receiving an augmentation. Any robotic organ or augment counts. 
+| False Nostalgy | Requests that you visit a non-maintenance location. | 10 Minutes | Remember your last time in..., you were always happy in..., ... reminds you of the hunt, etc. | Grants 10 Insight and restores 50 Sanity on visiting said area.
+| New Heights | A craving to do drugs of any kind. | 10 Minutes | You want to do drugs, the world turns stale and grey, reach for a new horizon. | Grants 25 Insight and restores 80 Sanity when your NSA reaches 100. 
+| Kleptomania | Causes you to pick up items you are standing near. | 5 Minutes | A need to hold or take something. | Restores 50 Sanity on completion.
+| Signs | Makes you say random sanity messages. | 30 Minutes | Feeling hidden thruths revealed, your mind or the universe speaking to you. | Restores 70 Sanity and rewards 5 Insight. 
 
 ## Negative Breakdowns
-
-TABLE
-
+Negative breakdowns will show in bold red text in your chatbox and have an accompanying sound effect. All negative breakdowns restore 25 sanity on Sompletion, unless otherwise specified, so be prepared to run to safety or potentially suffer another one. 
+| Breakdown | Effect | Duration | Display Text | Notes
+|:----------|:-------|:---------|:--------
+| Delusion | Hearing epxlosions and alarms at random.  | 1 Minute | Your brain screaming at you, sounds warping, voices in your head. | Restores 50 sanity on completion
+| Downward Spiral | Decreases positive breakdown chance by 10 percent and increases negative breakdown chance by 20 percent, -20 max sanity. | Permanent | Feeling like there's no point, not wanting to go on, turning grey, best days gone forever. | Restores 50 Sanity after completion.
+| The Fabric | Replaces people and mobs with strange symbols, prevents you from understanding their speech or speaking yourself. | 3 Minutes | Feelign secrets, understanding somethign you shouldn't, or climbing a tower. | You can still emote while in this state. Use this to roleplay as best you can!
+| Power Hungry | Reduces your electrical resistance to 0 (Siemens coefficient) and makes you want to receive an electric shock. | 15 Minutes | Wanting to receive an electric shock, pain and numbness and wanting to feel something. | Successfully being shocked grants 20 insight, restores 80 Sanity regardless of if the shock occurred.
+| Glassification | Forces you to see through other people's point of view. | 2 Minutes | Your mind expands. |  Restores 40 Sanity on completion.
 
 
 # Insight
