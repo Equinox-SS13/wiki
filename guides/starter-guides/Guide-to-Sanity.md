@@ -2,7 +2,7 @@
 title: Guide to Sanity
 description: Sanity, Insight, Drugs, and Cheese
 published: true
-date: 2024-08-22T18:09:21.289Z
+date: 2024-08-22T18:09:50.591Z
 tags: guide, starter guide, sanity
 editor: markdown
 dateCreated: 2024-08-22T18:09:21.289Z
@@ -29,7 +29,7 @@ You can actively gain sanity through a variety of means. Most of these are thing
 
 Sanity is lost in a variety of ways. Taking damage or feeling pain will drain sanity based on the amount of damage you've taken in that hit or the amount of pain you're feeling. Being in dirty areas, especially areas covered in blood or gibs, also drains your sanity at a rate proportional to how dirty the room is. Darkness also causes slow sanity loss. Seeing someone near you die also causes sanity loss, unless you have the Nihilist perk. 
 
-Sanity loss from body damage (brute and burn) is less than that caused by psionic damage or effects, which is less than that caused by seeign a dead body, which is less than that caused by shock damage. 
+Sanity loss from body damage (brute and burn) is less than that caused by psionic damage or effects, which is less than that caused by seeing a dead body, which is less than that caused by shock damage. 
 
 You can mitigate sanity loss directly by having a higher Vigilance stat.
 
