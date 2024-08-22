@@ -2,7 +2,7 @@
 title: Guide to Sanity
 description: Sanity, Insight, Drugs, and Cheese
 published: true
-date: 2024-08-22T18:13:47.724Z
+date: 2024-08-22T18:57:53.614Z
 tags: guide, starter guide, sanity
 editor: markdown
 dateCreated: 2024-08-22T18:09:21.289Z
