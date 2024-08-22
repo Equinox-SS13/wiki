@@ -2,7 +2,7 @@
 title: Guide to Sanity
 description: Sanity, Insight, Drugs, and Cheese
 published: true
-date: 2024-08-22T19:58:27.533Z
+date: 2024-08-22T23:27:31.628Z
 tags: guide, starter guide, sanity
 editor: markdown
 dateCreated: 2024-08-22T18:09:21.289Z
@@ -10,13 +10,13 @@ dateCreated: 2024-08-22T18:09:21.289Z
 
 # Guide to Sanity
 Equinox code, because it's based on Eris/Sojurncode, has a rather in-depth sanity system. This is represented by a HUD icon on the right side of your screen.
-[[INSERT IMAGE HERE]]
+![eye.png](/eye.png)
 
 Clicking on this image will bring up a UI window.
 
-[[INSERT UI WINDOW]]
+![sanity_window.png](/sanity_window.png)
 
-[[EXPLAIN UI WINDOW]]
+At the top is your Sanity bar. Below that is your Insight bar. At the bottom is your Resting Bar.
 
 
 # Sanity
