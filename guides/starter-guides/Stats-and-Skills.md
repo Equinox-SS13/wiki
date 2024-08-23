@@ -2,7 +2,7 @@
 title: Stats and Skills
 description: The ability of your character to perform.
 published: false
-date: 2024-08-23T16:45:35.517Z
+date: 2024-08-23T17:44:56.620Z
 tags: guide, starter guide, stats and skills
 editor: markdown
 dateCreated: 2024-08-23T16:45:35.517Z
@@ -16,23 +16,23 @@ Stats are numeric values that signify your character's skill in various areas. B
 
 * There are three knowledge stats: `Mechanical`, `Cognition`, and `Biology`. This usually refer to the ability of the person to perform an intellectual task.
 * There are three physical stats: `Robustness`, `Vigilance`, and `Toughness`. This usually reflect a person's combat performance or ability to exert themselves in the face of odds.
-* Additionally, there are two health-related "skills": `Anatomy` and `Vivification`. This directly affects a person's physical health.
+* Additionally, there are two health-related "skills": `Anatomy` and `Vivification`. These reflect a person's overall healthiness.
 
-These stats can be temporarily altered and raised by [gaining insight and leveling up](/guides/starter-guides/Sanity-and-Insight) and reset every round. While the stats of a character at the start of the round generally determined by their role in the colony combined with their background and species.
-* At the character creation menu, each species, homeworld, background, and upbringing can be selected to raise or lower your characters stat and [perks]() at the start of the round.
-* The role or job of your character additionally determine the stat and [perks]() received at the start of the round.
-* 15 points are also given to a character at the character creation menu, these can be assigned or unassigned to each stats with `Cognition` taking half as much point and `Anatomy` taking 5 points each.
+These stats can be temporarily altered and raised by [gaining insight and leveling up](/guides/starter-guides/Sanity-and-Insight) and reset at the end of every round. The stats of a character at the start of the round generally determined by their role in the colony combined with their background and species.
+* At the [character creation menu](), each species, homeworld, background, and upbringing can be selected to raise or lower your characters stat and [perks]() at the start of the round.
+* The role or job of your character determines additional stats and [perks]() received at the start of the round.
+* 15 points are also given to a character at the character creation menu. You can assign these points to raise stats, with `Cognition` taking half as much point and `Anatomy` taking 5 points each. Stats can also be lowered to gain additional points.
 	* Stats can be negative at round start, whether by selecting a background with negative stat or putting up to -10 into each stat respectively to reassign them somewhere else.
-* [Post Revival Sickness]() additionally drastically reduce all stats permanently after a death.
+* [Post Revival Sickness]() drastically reduces all stats permanently after being revived from death.
 
 ## Stat Level
-Within the game, stats and skills are protrayed with more nebulous language without the use of specific [perks]() or other source of information such as the *employment record*.
+Within the game, stats and skills are portrayed with more nebulous language without the use of specific [perks]() or other source of information such as the *employment record*.
 
 Additionally, the default max stat level is `150` or `Grand Mastery`, but can be raised further with certain perks.
 
 
-| - | - | - | - | 
-| Higher Understanding | > 200 |
+| - | - | - | - 
+| Higher Understanding | > 200 | - | - 
 | Theoretical Understanding | > 150 | Basic | > 15
 | Grand Mastery | > 120 | Untrained | > 7
 | Skill Mastery | > 100 | Misinformed | < -1
@@ -43,7 +43,7 @@ Additionally, the default max stat level is `150` or `Grand Mastery`, but can be
 
 # Stat
 
-The following are what each stats handle respectively.
+Each stat is used for different things. The uses for each stat, both generally and at high levels, are explained below.
 
 ## Mechanical (MEC)
 All things mechanical, building, and fixing.
@@ -51,7 +51,7 @@ All things mechanical, building, and fixing.
 ### General Use
 | - | - | 
 | Mechanical Tools | Anything requiring a tool, such as wrenching, screwdriving, etc. Additionally makes the tools last longer.
-| Crafting | Appliances, airlocks, furnitures, modifications, even [working with and repairing guns]().
+| Crafting | Appliances, airlocks, furnitures, modifications, and even [working with and repairing guns]().
 | Robot and Mech | Maintaining, crafting, repairing, and operating on robots and mechs.
 | Construction | Boosts the chance of success and speed of repairs, disassembling, and construction.
 | Modification | Boosts the chance of success and speed of modifying and removing modifications from tools and guns.
@@ -73,7 +73,7 @@ Everything technological and smart, or practical and general.
 | Crafting | Computers, computer parts, and various other tools and weapons. Includes simple assemblies igniters and timers.
 | Medical Equipment | Allows using medical machines and equipment such as the chemical dispensers, body scanner, health scanner, syringes, etc.
 | Pulsing Tools | Faster and better chance of tools with pulsing quality like the multitool. Allowing better chances of disarming active mines and hacking locks.
-| [Psionic](/guides/other-guides/Psionics) | As a Psion, it increases your maximum Psi Points and your Cognitive Potential (Psi points regeneration)
+| [Psionics](/guides/other-guides/Psionics) | If you are a Psion, it increases your maximum Psi Points and your Cognitive Potential (Psi points regeneration)
 | Drone Repairs | Full repair of a non-functional (dead) Nanobot from a Nanogate implant, or Custom-made Drones using multitool.
 | Genetics | Allows the use of Xenogenetics machines like the Xenofauna Genetics Pulper. At higher level allows the use of Vat Control Console, Belvoix Genetic Analyzer, and Belvoix Xenofauna Cloning Vat.
 | Tripping | Reducing your chance of tripping on underplating if running (`VIG` also helps with this).
@@ -104,5 +104,33 @@ Knowledge of the body and its inner workings.
 * Increasing the value of Cauterizing, Clamping, Retracting, Bone setting, Cutting and Bone grafting qualities of a psionic-summoned tools.
 
 ## Robustness (ROB)
-Any disciple of martial-arts knows how to defend themselves.
+Any disciple of martial-arts knows how to defend themselves, by hand or with a toolbox.
 
+| - | - |
+| placeholder | placeholder |
+
+## Toughness (TGH)
+
+Your ability to withstand pain and damage.
+
+| - | - |
+| placeholder | placeholder |
+
+## Vigilance (VIG)
+
+Staying sane and shooting guns.
+
+| - | - |
+| placeholder | placeholder |
+
+## Vivification (VIV)
+DRUGS! Both pharmeceutical and "pharmeceutical". 
+
+Vivification directly increases your NSA (Neural Systems Accumulation), which directly affects how many drugs you can take at the same time without having side effects. Both pharmeceutical drugs like bicardine, tricordizine, and dylovene AND street drugs like cherry drops, space drugs, and mindbreaker toxin add to your NSA.
+
+## Anatomy (ANA)
+Take a beating. 
+
+Each point in Anatomy increases your maximum health.
+> As of August 23, 2024, Anatomy is currently bugged and is only increasing your maximum health by one point per point of Anatomy. 
+{.is-warning}
