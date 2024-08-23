@@ -2,7 +2,7 @@
 title: Guide to Chemistry
 description: Reagents galore!
 published: true
-date: 2024-08-23T20:57:22.535Z
+date: 2024-08-23T21:04:33.337Z
 tags: medical guide, chemistry, reagent
 editor: markdown
 dateCreated: 2024-08-21T22:00:28.753Z
@@ -64,6 +64,7 @@ So you want to synthisize some medicines? Well, you have come to the right place
 | Dylovene | - 1 part Silicon<br> - 1 part Potassium<br> - 1 part Ammonia<br> | Otherwise known as Anti-Toxin, Dylovene's primary function is to heal Toxin damage. It also treats effects from poisons, specifically drowsyness and hallucinations. Finally, it purges out some of the common poisons that are encountered in maintenance. | 0 | 0.2u/s in blood,<br> 0.1u/s in stomach | 30u | If a patient is overdosing, they will recieve "Dylovene Accumilation" wounds in their blood vessels. This type of poisoning is not currently curable outside of replacing the organ entirely. |
 | Dexalin | - 2 part Acetone<br> - 0.1 part Iron<br> - 5u Phoron (Catalyst)<br> - no Water<br> | Dexalin heals Oxygen damage, reduces the amount of oxygen loss per tick, and purges Lexorin, a poison that causes oxygen loss.| 5 | 0.2u/s in blood,<br> 0.1u/s in stomach | 30u | ---- |
 | Tricordrazine | - 1 part Inaprovaline<br> - 1 part Dylovene<br> | Tricordrazine slowly heals Brute, Burn, Toxin, and Oxygen damages, and slows bleeding slightly. | 15 | 0.2u/s in blood,<br> 0.1u/s in stomach | 30u | Overdosing on Tricordrazine is supposed to deal damage to one's liver and blood vessels, but the function to do so is currently broken. |
+| Cryoxadone | - 1 part Dexalin Plus<br> - 1 part Water<br> - 1 part Acetone<br> - Temp from 90c to 45c<br> | As long as the patient's body temperature is below 170 celcius, it will effectively heal all basic forms of damage, slows bleeding, cures infections, and cures benign tumors. The most common way to reach these tempertures is to place the patient in an activated cryopod. | 5 | 0.2u/s in blood,<br> 0.1u/s in stomach | 30u | Cryoxadone affects dead people, allowing cryopods to heal the deceased. |
 | ---- | ------ | ------ | --- | ---------- | -------- |
 ## Advanced Medicines
 
