@@ -2,7 +2,7 @@
 title: Guide to Character Creation
 description: How to Make Spaceman?
 published: true
-date: 2024-08-23T19:52:13.156Z
+date: 2024-08-23T20:17:05.137Z
 tags: guide, starter guide, character creation
 editor: markdown
 dateCreated: 2024-08-23T19:52:13.156Z
@@ -57,7 +57,6 @@ The Records section covers your Medical, Employment, and Security records. Think
 The background section contains four categories: Career, Ethnicity, Homeworld, and Upbringing. Each of these subsections provides additional stat bonuses and perks. The bonuses for each will be listed below. For a detailed explanation of Stats, see the [Guide to Stats](/guides/starter-guides/Stats-and-Skills), and for more informaition on Perks, see the [Guide to Perks](/guides/other-guides/Perks). Each selection will have some information on what you receive when you select it as well. 
 
 #### Careers
-
 | Name | Bio | Mec | Cog | Rob | Tgh | Vig | Perk |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | Entrepeneur | 3 | 3 | 10 | -4 | -4 | -3 | Market Professional
@@ -79,11 +78,10 @@ The background section contains four categories: Career, Ethnicity, Homeworld, a
 
 
 #### Ethnicities
-
-| Name | Species | Bio | Mec | Cog | Rob | Tgh | Vig | Perk | Notes|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+| Name | Species | Bio | Mec | Cog | Rob | Tgh | Vig | Perk | Notes |
+|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-------|
 | Aral (Magenta) | Aulvae | 6 | 0 | 0 | 0 | 6 | 0 | NONE | NONE
-| Aram (Red) | Aulvae0 | 0 | 0 | 0 | 12 | 0 | 0 | NONE | NONE
+| Aram (Red) | Aulvae | 0 | 0 | 0 | 12 | 0 | 0 | NONE | NONE
 | Aren (Cyan) | Aulvae | 12 | 0 | 0 | 0 | 0 | 0 | NONE | NONE
 | Arul (Yellow) | Aulvae | 0 | 0 | 0 | 0 | 0 | 12 | NONE | NONE
 | Arul (Violet) | Aulvae | 0 | 0 | 16 | 0 | 0 | 0 | NONE | NONE
@@ -186,4 +184,52 @@ Upbringings are open to all species unless noted.
 | Umbral | 0 | 0 | 0 | 0 | 0 | 5 | Nightcrawler | NONE
 | Wealthy | 5 | 5 | 5 | -5 | -5 | -5 | Noble | Gives you a roundstart [Oddity](/guides/starter-guides/Oddities) weapon. Don't lose it.
 
+### Skills
+You also have 15 Stat Points to put towards editing your skills even more. You can adjust your skills from -10 to 15, and you gain one additional point for each point you assign a stat below zero. For example, setting your BIO to -10 gives you 10 additional points. 
 
+COG costs only 1/2 skill point per level, so setting your COG to 15 will take 8 points (7.5 rounded up). ANA costs 5 points per level, so reducing your ANA by 1 will grant you another 5 points, and raising it by 1 will cost 5 points. 
+
+## Occupation
+
+![occupation_character_screen_new.png](/occupation_character_screen_new.png)
+This screen allows you to pick your jobs on roundstart! Click a job's title to potentially access alternate job titles and click the [?] box for more information, including job stats and perks. 
+
+The game takes your preferences in the following order. If you have a Low Priority job set, the game will try and place you in any open Medium Priority jobs first. If you have any High Priority jobs set, the game will try and place you in those jobs before trying for Medium Jobs. Selecting NEVER will never place you in that job. If you have any Command jobs set, those will be considered before any other jobs you have set to the same priority. You can set any number of jobs to medium 
+and low, and only one job may be set to high. 
+
+Click "Return to lobby if preference unavailable" to select to either return to the lobby if none of your preferences are open, select a random job if none of your preferences are open, or spawn as a Colonist if none of your preferences are available. 
+
+Some jobs are species/implant/age locked. If you see [Setup Restricted], you need to change your implants to access that job. [Age Restricted] means you need to change your character's age. [Species restricted] means you need to change your species. 
+
+## Roles
+![roles_character_screen_new.png](/roles_character_screen_new.png)
+
+On this page, you set your availability for antagonist roles. On the left, select "Yes" if you want to be considered for each type of antagonist, and select "Never" if you do not want to be selected. Please see the [Guide to Antagonists]() for explanations of each role. 
+
+The right side of the screen provides your Antagonist Uplink prority. The uplink will try and place your uplink in the top option first, then the middle, then the bottom.
+
+Exploitable information is information available to any antagonists who wish to check it. This is a good place to put Roleplay Hooks for antagonists to use, like family members, vulnerabilities of your character (emotional or physical), and more! 
+
+## Matchmaking
+![matchmaking_character_screen_new.png](/matchmaking_character_screen_new.png)
+
+Matchmaking allows you to randomly match with other players to create connections. These are not mandatory, but they can provide an interesting, random dynamic to certain relationships. If you choose to opt in, you will be considered for matching with other people depending on what specific options you opt into. If you do not opt in, you will not be considered for matchmaking. 
+
+## Loadout
+![loadout_character_screen_new.png](/loadout_character_screen_new.png)
+In the Loadout screen, you select equipment that your character will spawn with. This equipment is in addition to any other equipment you are provided by your job, perks, species, and backgrounds, if available. Each item has a point cost, and you have a total of 10 points across all categories to spend. Some items are locked to certain occupations, and these will be shown by either <span style = "color:red"> red </span> text if unavailable to your current job, or <span style = "color:green"> green </span> text if available. Faction gear is always locked to the associated department. 
+
+## Global
+![global_pref_screen_character_new.png](/global_pref_screen_character_new.png)
+The global tab alows you to change your global preference settings. On thel eft, you can change your UI style and color, your cient FPS, and your TGUI (another UI style used intermittently, gotta love Space Station 13) theme. you can also change the keys required to do visible, custom, and audible emotes, talk on the radio, and use specific languages.
+
+Your PersonalAI role settings are also found here, and worl like normal character names, descriptions, roles, and OOC notes. 
+
+The right side is dedicated to what you can see, your UI, and a bunch of other options. Please read through them before changing things. 
+
+## Laws
+![laws_screen_character_new.png](/laws_screen_character_new.png)
+The last tab shows if your species has any laws, and if they do, what they are. This is most often shown when you select the "Cyborg" or "AI" occupations. Otherwise, like above, it will show you that you have no laws. This does not mean you don't have to follow any laws, but that your actions are instead bound by [Space Law](/guides/security-guides/Laws) and not inbuilt restrictions on your behavior. 
+
+# Entering the Game
+Once you're satisfied with your character, records, augments, loadout, background, and occupation, click join game! If the round hasn't started yet, the button will instead show a choice between [Ready] and [Not Ready]. Clicking ready will spawn you in the game world once the round starts proper. It also shows the character and job you're playing on the top right of the screen, in the Status tab. Enjoy your round!  
