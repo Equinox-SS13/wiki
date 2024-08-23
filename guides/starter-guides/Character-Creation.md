@@ -2,7 +2,7 @@
 title: Guide to Character Creation
 description: How to Make Spaceman?
 published: true
-date: 2024-08-23T20:17:05.137Z
+date: 2024-08-23T21:00:43.743Z
 tags: guide, starter guide, character creation
 editor: markdown
 dateCreated: 2024-08-23T19:52:13.156Z
