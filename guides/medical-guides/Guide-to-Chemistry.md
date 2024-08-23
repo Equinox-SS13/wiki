@@ -2,7 +2,7 @@
 title: Guide to Chemistry
 description: Reagents galore!
 published: true
-date: 2024-08-23T21:14:30.262Z
+date: 2024-08-23T21:19:28.932Z
 tags: medical guide, chemistry, reagent
 editor: markdown
 dateCreated: 2024-08-21T22:00:28.753Z
@@ -67,6 +67,7 @@ So you want to synthisize some medicines? Well, you have come to the right place
 | Cryoxadone | - 1 part Dexalin Plus<br> - 1 part Water<br> - 1 part Acetone<br> - Temp from 90c to 45c<br> | As long as the patient's body temperature is below 170 celcius, it will effectively heal all basic forms of damage, slows bleeding, cures infections, and cures benign tumors. The most common way to reach these tempertures is to place the patient in an activated cryopod. | 5 | 0.2u/s in blood,<br> 0.1u/s in stomach | 30u | Cryoxadone affects dead people, allowing cryopods to heal the deceased. |
 | Paracetamol | - 1 part Inaprovaline<br> - 1 part Ethanol<br> - 1 part Acetone<br> | Paracetamol provides a good amount of pain reduction. | -10 | 0.1u/s in blood,<br> 0.05u/s in stomach | 60u | Overdosing on Paracetamol will give the patient a drugged visual effect. |
 | Tramatol | - 1 part Paracetamol<br> - 1 part Water<br> - 1 part Sugar<br> | Tramatol provides a superior pain relief to Paracetamol. | 40 | 0.1u/s in blood,<br> 0.05u/s in stomach | 30u | Overdosing on Tramatol will give the patient a drugged visual effect, slow them down, and occasionally stun them. |
+| Hyronalin | - 1 part Radium<br> - 1 part Dylovene<br> | Hyronalin effectively reduces the radiation levels in the patient, while also curing benign tumors. | 15 | 0.05u/s in blood,<br> 0.025u/s in stomach | 30u | ---- |
 | ---- | ------ | ------ | --- | ---------- | -------- |
 ## Advanced Medicines
 
