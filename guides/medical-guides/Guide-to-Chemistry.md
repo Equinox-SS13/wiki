@@ -2,7 +2,7 @@
 title: Guide to Chemistry
 description: Reagents galore!
 published: true
-date: 2024-08-23T20:39:12.854Z
+date: 2024-08-23T20:48:25.107Z
 tags: medical guide, chemistry, reagent
 editor: markdown
 dateCreated: 2024-08-21T22:00:28.753Z
@@ -62,7 +62,8 @@ So you want to synthisize some medicines? Well, you have come to the right place
 | Bicardine | - 1 part Inaprovaline<br> - 1 part Carbon<br> - no Sugar<br> | Bicardine heals a decent amount of Brute damage, and slows bleeding. | 15 | 0.2u/s in blood,<br> 0.1u/s in stomach | 30u | ---- |
 | Kelotane | - 1 part Silicon<br> - 1 part Carbon<br> | Kelotane heals a decent amount of Burn damage. | 10 | 0.2u/s in blood,<br> 0.1u/s in stomach | 30u | ---- |
 | Dylovene | - 1 part Silicon<br> - 1 part Potassium<br> - 1 part Ammonia<br> | Otherwise known as Anti-Toxin, Dylovene's primary function is to heal Toxin damage. It also treats effects from poisons, specifically drowsyness and hallucinations. Finally, it purges out some of the common poisons that are encountered in maintenance. | 0 | 0.2u/s in blood,<br> 0.1u/s in stomach | 30u | If a patient is overdosing, they will recieve "Dylovene Accumilation" wounds in their blood vessels. This type of poisoning is not currently curable outside of replacing the organ entirely. |
-| Dexalin | - 2 part Acetone<br> - 0.1 part Iron<br> - 5u Phoron (Catalyst)<br> - no Water<br> | Kelotane heals a decent amount of Burn damage. | 10 | 0.2u/s in blood,<br> 0.1u/s in stomach | 30u | ---- |
+| Dexalin | - 2 part Acetone<br> - 0.1 part Iron<br> - 5u Phoron (Catalyst)<br> - no Water<br> | Dexalin heals Oxygen damage, reduces the amount of oxygen loss per tick, and purges Lexorin, a poison that causes oxygen loss.| 5 | 0.2u/s in blood,<br> 0.1u/s in stomach | 30u | ---- |
+| Kelotane | - 1 part Silicon<br> - 1 part Carbon<br> | Kelotane heals a decent amount of Burn damage. | 10 | 0.2u/s in blood,<br> 0.1u/s in stomach | 30u | ---- |
 | ---- | ------ | ------ | --- | ---------- | -------- |
 ## Advanced Medicines
 
