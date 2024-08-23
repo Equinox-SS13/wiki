@@ -2,7 +2,7 @@
 title: Guide to Chemistry
 description: Reagents galore!
 published: true
-date: 2024-08-23T21:44:19.931Z
+date: 2024-08-23T22:00:14.828Z
 tags: medical guide, chemistry, reagent
 editor: markdown
 dateCreated: 2024-08-21T22:00:28.753Z
@@ -58,7 +58,7 @@ So you want to synthisize some medicines? Well, you have come to the right place
 ## Basic Medicines
 | Name | Recipe | Usage | NSA | Metabolism | Overdose | Notes |
 | :--- | :----- | :---- | :-- | :--------- | :------- | :---- |
-| Inaprovaline | - 1 part Acetone<br> - 1 part Carbon<br> - 1 part Sugar<br>  | Inaprovaline provides various small affects that help stablize the patient. It provides a little pain relief, reduces oxygen loss slightly, and a slows bleeding slightly. | -5 | 0.1u/s in blood, 0.05u/s in stomach | 60u | ---- |
+| Inaprovaline | - 1 part Acetone<br> - 1 part Carbon<br> - 1 part Sugar<br>  | Inaprovaline provides various small affects that help stablize the patient. It provides a little pain relief, reduces oxygen loss slightly, and a slows bleeding slightly. | -5 | 0.1u/s in blood, 0.05u/s in stomach | 60u | Due to it's stabilization properties, Inaprovaline can effectively treat burned tissue. |
 | Bicardine | - 1 part Inaprovaline<br> - 1 part Carbon<br> - no Sugar<br> | Bicardine heals a decent amount of Brute damage, and slows bleeding. | 15 | 0.2u/s in blood,<br> 0.1u/s in stomach | 30u | ---- |
 | Kelotane | - 1 part Silicon<br> - 1 part Carbon<br> | Kelotane heals a decent amount of Burn damage. | 10 | 0.2u/s in blood,<br> 0.1u/s in stomach | 30u | ---- |
 | Dylovene | - 1 part Silicon<br> - 1 part Potassium<br> - 1 part Ammonia<br> | Otherwise known as Anti-Toxin, Dylovene's primary function is to heal Toxin damage. It also treats effects from poisons, specifically drowsyness and hallucinations. Finally, it purges out some of the common poisons that are encountered in maintenance. | 0 | 0.2u/s in blood,<br> 0.1u/s in stomach | 30u | If a patient is overdosing, they will recieve "Dylovene Accumilation" wounds in their blood vessels. This type of poisoning is not currently curable outside of replacing the organ entirely. |
