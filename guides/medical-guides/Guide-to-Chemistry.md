@@ -2,7 +2,7 @@
 title: Guide to Chemistry
 description: Reagents galore!
 published: true
-date: 2024-08-23T21:19:28.932Z
+date: 2024-08-23T21:44:19.931Z
 tags: medical guide, chemistry, reagent
 editor: markdown
 dateCreated: 2024-08-21T22:00:28.753Z
@@ -68,6 +68,8 @@ So you want to synthisize some medicines? Well, you have come to the right place
 | Paracetamol | - 1 part Inaprovaline<br> - 1 part Ethanol<br> - 1 part Acetone<br> | Paracetamol provides a good amount of pain reduction. | -10 | 0.1u/s in blood,<br> 0.05u/s in stomach | 60u | Overdosing on Paracetamol will give the patient a drugged visual effect. |
 | Tramatol | - 1 part Paracetamol<br> - 1 part Water<br> - 1 part Sugar<br> | Tramatol provides a superior pain relief to Paracetamol. | 40 | 0.1u/s in blood,<br> 0.05u/s in stomach | 30u | Overdosing on Tramatol will give the patient a drugged visual effect, slow them down, and occasionally stun them. |
 | Hyronalin | - 1 part Radium<br> - 1 part Dylovene<br> | Hyronalin effectively reduces the radiation levels in the patient, while also curing benign tumors. | 15 | 0.05u/s in blood,<br> 0.025u/s in stomach | 30u | ---- |
+| Spaceacillin | - 1 part Silicon<br> - 1 part Carbon<br> | Spaceacillin cures the majority of infections within the body, and slightly heals Toxin damage. | -5 | 0.1u/s in blood,<br> 0.05u/s in stomach | 30u | Spaceacillin is able to affect dead patients. |
+| Quickclot | - 1 part Kelotane<br> - 1 part Croneoxadone<br> | Slows down bleeding by a signifigant amount, and can potentially cure most internal wounds caused by Brute damage. | -5 | 0.1u/s in blood,<br> 0.05u/s in stomach | 5u | Overdosing on Quickclot makes the patient completely immune to bleeding. To cure the internal wounds, the patient should be overdosing on Quickclot. |
 | ---- | ------ | ------ | --- | ---------- | -------- |
 ## Advanced Medicines
 
