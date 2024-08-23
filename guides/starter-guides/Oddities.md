@@ -2,7 +2,7 @@
 title: Oddities
 description: Gaining Perks and Targeted Stat Gain
 published: true
-date: 2024-08-23T16:09:10.483Z
+date: 2024-08-23T16:13:17.209Z
 tags: guide, other guide, sanity, oddities
 editor: markdown
 dateCreated: 2024-08-23T16:09:10.483Z
@@ -67,7 +67,7 @@ The next thing contained in an oddity's stat description is, apropriately, the s
 
 ### Anomalies
 
-The last line of text in an oddity's description is potentially an anomaly. Some oddities might not have anomalies. If one does, however, it will say so at the bottom of the oddity's description in <span style='color:#d0b050;'>orange</span> text. If the strange thing you found has such text, congratulations! The oddity you found has a perk attached. For a full list of perks, please see the 
+The last line of text in an oddity's description is potentially an anomaly. Some oddities might not have anomalies. If one does, however, it will say so at the bottom of the oddity's description in <span style='color:#d0b050;'>orange</span> text. If the strange thing you found has such text, congratulations! The oddity you found has a perk attached. For a full list of perks, please see the [Guide to Perks](/guides/other-guides/Perks).  
 
 
 ## Artists
