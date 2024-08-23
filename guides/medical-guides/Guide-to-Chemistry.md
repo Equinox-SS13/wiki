@@ -2,7 +2,7 @@
 title: Guide to Chemistry
 description: Reagents galore!
 published: true
-date: 2024-08-21T22:07:27.207Z
+date: 2024-08-23T20:39:12.854Z
 tags: medical guide, chemistry, reagent
 editor: markdown
 dateCreated: 2024-08-21T22:00:28.753Z
@@ -56,12 +56,14 @@ So you want to synthisize some medicines? Well, you have come to the right place
 - Water	
 
 ## Basic Medicines
-| Name | Recipe | Description | Usage | NSA | Metabolism | Overdose |
-| :--- | :----- | :---------- | :---- | :-- | :--------- | :------- |
-| Inaprovaline | - 1 part Acetone<br> - 1 part Carbon<br> - 1 part Sugar<br> | Inaprovaline is a weak yet broad synaptic stimulant and cardiostimulant. Commonly used to stabilize patients in critical condition. | Inaprovaline provides various small affects that help stablize the patient. It provides a little pain relief, reduces oxygen loss slightly, and a slows bleeding slightly. | -5 | 0.1u/s in blood, 0.05u/s in stomach | 60u |
-| Bicardine | - 1 part Inaprovaline<br> - 1 part Carbon<br> - Without the presence of Sugar<br> | Bicaridine is an analgesic medication and can be used to treat blunt trauma. | Bicardine heals a decent amount of Brute damage, and slows bleeding. | 15 | 0.2u/s in blood,<br> 0.1u/s in stomach | 30u |
-| Kelotane | - 1 part Silicon<br> - 1 part Carbon<br> | Kelotane is a drug used to treat burns. | Kelotane does exactly what it says on the tin. It heals a decent amount of Burn damage. | 10 | 0.2u/s in blood,<br> 0.1u/s in stomach | 30u |
-| ---- | ------ | ----------- | ------ | --- | ---------- | -------- |
+| Name | Recipe | Usage | NSA | Metabolism | Overdose | Notes |
+| :--- | :----- | :---- | :-- | :--------- | :------- | :---- |
+| Inaprovaline | - 1 part Acetone<br> - 1 part Carbon<br> - 1 part Sugar<br>  | Inaprovaline provides various small affects that help stablize the patient. It provides a little pain relief, reduces oxygen loss slightly, and a slows bleeding slightly. | -5 | 0.1u/s in blood, 0.05u/s in stomach | 60u | ---- |
+| Bicardine | - 1 part Inaprovaline<br> - 1 part Carbon<br> - no Sugar<br> | Bicardine heals a decent amount of Brute damage, and slows bleeding. | 15 | 0.2u/s in blood,<br> 0.1u/s in stomach | 30u | ---- |
+| Kelotane | - 1 part Silicon<br> - 1 part Carbon<br> | Kelotane heals a decent amount of Burn damage. | 10 | 0.2u/s in blood,<br> 0.1u/s in stomach | 30u | ---- |
+| Dylovene | - 1 part Silicon<br> - 1 part Potassium<br> - 1 part Ammonia<br> | Otherwise known as Anti-Toxin, Dylovene's primary function is to heal Toxin damage. It also treats effects from poisons, specifically drowsyness and hallucinations. Finally, it purges out some of the common poisons that are encountered in maintenance. | 0 | 0.2u/s in blood,<br> 0.1u/s in stomach | 30u | If a patient is overdosing, they will recieve "Dylovene Accumilation" wounds in their blood vessels. This type of poisoning is not currently curable outside of replacing the organ entirely. |
+| Dexalin | - 2 part Acetone<br> - 0.1 part Iron<br> - 5u Phoron (Catalyst)<br> - no Water<br> | Kelotane heals a decent amount of Burn damage. | 10 | 0.2u/s in blood,<br> 0.1u/s in stomach | 30u | ---- |
+| ---- | ------ | ------ | --- | ---------- | -------- |
 ## Advanced Medicines
 
 ## Unique Medicines
