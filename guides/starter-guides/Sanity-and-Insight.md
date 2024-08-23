@@ -2,7 +2,7 @@
 title: Sanity and Insight
 description: Sanity, Insight, Drugs, and Cheese
 published: true
-date: 2024-08-23T15:46:02.700Z
+date: 2024-08-23T16:11:39.595Z
 tags: guide, starter guide, sanity, insight
 editor: markdown
 dateCreated: 2024-08-22T18:09:21.289Z
@@ -32,12 +32,12 @@ Sometimes you may receive a personal objective. These appear in your notes. Comp
 
 ## Losing Sanity
 
-Sanity is lost in a variety of ways as follows;
-* Taking damage or feeling pain will drain sanity overtime based on the amount of damage you've taken in that hit or the amount of pain you're feeling. 
-* Being in dirty areas, especially areas covered in blood or gibs, also drains your sanity at a rate proportional to how dirty the room is. 
-* Darkness also causes slow sanity loss the longer you are in the dark without any light.
-* Certain fauna and enemies will drain sanity depending on the type of hostile creature.
-* Seeing corpses or someone near you die also causes sanity loss unless you have the Nihilist perk. 
+Sanity is lost in a variety of ways, including but not limited to:
+* Taking damage or feeling pain will drain sanity over time based on the amount of damage you've taken in that hit or the amount of pain you're feeling. 
+* Being in dirty areas, especially areas covered in blood or gibs, will drain your sanity at a rate proportional to how dirty the room is. 
+* Darkness also causes slow sanity loss the longer you are in the dark. Stepping into a lit area will slow this drain down and reset it.
+* Certain fauna and enemies will drain sanity when seen, with the rate of the drain dependent on the type of creature.
+* Seeing corpses or someone near you die also causes sanity loss, unless you have the Nihilist [perk](guide to perks) Seeing someone with the Terrible Fate perk die will cause even larger sanity loss. 
 
 Sanity loss from body damage (brute and burn) is less than that caused by [psionic damage or effects](/guides/other-guides/Psionics), which is less than that caused by seeing a dead body, which is less than that caused by shock damage. 
 
