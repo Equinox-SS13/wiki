@@ -2,7 +2,7 @@
 title: Guide to Character Creation
 description: How to Make Spaceman?
 published: true
-date: 2024-08-24T14:01:12.608Z
+date: 2024-08-24T14:04:29.881Z
 tags: guide, starter guide, character creation
 editor: markdown
 dateCreated: 2024-08-23T19:52:13.156Z
@@ -82,11 +82,12 @@ The background section contains four categories: Career, Ethnicity, Homeworld, a
 | Product of Nepotism | 0 | 0 | 0 | 0 | 0 | 0 | Nepotism
 </details>
 
-
-
-
+<details>
+  <summary>
 
 #### Ethnicities
+  </summary>
+
 | Name | Species | Bio | Mec | Cog | Rob | Tgh | Vig | Perk | Notes |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-------|
 | Aral (Magenta) | Aulvae | 6 | 0 | 0 | 0 | 6 | 0 | NONE | NONE
@@ -146,8 +147,14 @@ The background section contains four categories: Career, Ethnicity, Homeworld, a
 | Non-Lethal Model | Synthetic | 0 | 0 | 0 | 20 | 5 | 20 | NONE | Blackshield Synthetic only, inbuilt taser provided.
 | Scholar Chassis | Synthetic | 25 | 25 | 35 | 0 | 0 | 0 | NONE | NONE
 | Veteran Chassis | 0 | 0 | 0 | 32 | 10 | 32 | NONE | NONE
+</details>
+
+<details>
+  <summary>
 
 #### Homeworlds
+  </summary>
+
 Homeworlds are open to all species unless noted.
 | Name | Bio | Mec | Cog | Rob | Tgh | Vig | Perk | Notes|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -170,9 +177,14 @@ Homeworlds are open to all species unless noted.
 | Thalatta | 0 | 5 | 0 | -5 | 0 | 5 | NONE | NONE
 | The Forgotten Empire | 4 | 4 | 4 | 4 | 4 | 4 | NONE | Mycus only.
 | Wanderer's Armada | 0 | 0 | 4 | 0 | 4 | 4 | NONE | NONE
+</details>
 
+<details>
+  <summary>
 
 #### Upbringings
+  </summary>
+
 Upbringings are open to all species unless noted.
 | Name | Bio | Mec | Cog | Rob | Tgh | Vig | Perk | Notes|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -192,7 +204,8 @@ Upbringings are open to all species unless noted.
 | Refugee | 0 | 0 | 0 | 0 | 0 | 0 | Space Asshole | NONE
 | Umbral | 0 | 0 | 0 | 0 | 0 | 5 | Nightcrawler | NONE
 | Wealthy | 5 | 5 | 5 | -5 | -5 | -5 | Noble | Gives you a roundstart [Oddity](/guides/starter-guides/Oddities) weapon. Don't lose it.
-
+</details>
+  
 ### Skills
 You also have 15 Stat Points to put towards editing your skills even more. You can adjust your skills from -10 to 15, and you gain one additional point for each point you assign a stat below zero. For example, setting your BIO to -10 gives you 10 additional points. 
 
