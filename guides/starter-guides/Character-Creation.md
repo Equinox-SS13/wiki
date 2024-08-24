@@ -2,7 +2,7 @@
 title: Guide to Character Creation
 description: How to Make Spaceman?
 published: true
-date: 2024-08-23T21:00:43.743Z
+date: 2024-08-24T14:01:12.608Z
 tags: guide, starter guide, character creation
 editor: markdown
 dateCreated: 2024-08-23T19:52:13.156Z
@@ -56,7 +56,12 @@ The Records section covers your Medical, Employment, and Security records. Think
 ### Background
 The background section contains four categories: Career, Ethnicity, Homeworld, and Upbringing. Each of these subsections provides additional stat bonuses and perks. The bonuses for each will be listed below. For a detailed explanation of Stats, see the [Guide to Stats](/guides/starter-guides/Stats-and-Skills), and for more informaition on Perks, see the [Guide to Perks](/guides/other-guides/Perks). Each selection will have some information on what you receive when you select it as well. 
 
+<details>
+  <summary>
+  
 #### Careers
+  </summary>
+
 | Name | Bio | Mec | Cog | Rob | Tgh | Vig | Perk |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | Entrepeneur | 3 | 3 | 10 | -4 | -4 | -3 | Market Professional
@@ -75,6 +80,10 @@ The background section contains four categories: Career, Ethnicity, Homeworld, a
 | Former Social Worker | 2 | 0 | 8 | -4 | -4 | 0 | NONE
 | Former Space Contractor | 0 | 4 | -5 | 3 | 3 | 0 | Lungs of Iron
 | Product of Nepotism | 0 | 0 | 0 | 0 | 0 | 0 | Nepotism
+</details>
+
+
+
 
 
 #### Ethnicities
