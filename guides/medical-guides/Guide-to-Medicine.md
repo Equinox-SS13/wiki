@@ -2,7 +2,7 @@
 title: Guide to Medicine
 description: All you need to start out as a doctor or field medic.
 published: true
-date: 2024-08-24T14:25:41.339Z
+date: 2024-08-24T14:32:27.866Z
 tags: medical, guide, medical guide, work in progress
 editor: markdown
 dateCreated: 2024-08-12T07:53:01.066Z
@@ -35,7 +35,7 @@ These are common ways to treat brute damage;
 ### Burn
 <span style="color: orange;">Burn damage</span> are burns and peeling skin or scarring wounds. They make up the <span style="color: orange;">orange</span> number in the medical scanner and can be examined by looking.
 
-* Burns are caused by fire, heat, acid burns, or in some case even [radiation](/guides/medical-guides/Guide-to-Medicine).
+* Burns are caused by fire, heat, acid burns, or in some case even [radiation](#radiation).
 * Burns may cause damage to [internal organs](#internal-burns) and lead to [infection](#infection), or even [necrosis](#necrosis).
 
 These are common ways to treat burn damage;
