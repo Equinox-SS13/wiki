@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2024-08-24T15:11:40.980Z
+date: 2024-08-24T15:34:55.237Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-12T11:52:42.843Z
@@ -30,28 +30,6 @@ What you want showing when the dropdown is closed. (***It even supports markdown
 </details>
 ```
 ### Example
-<details>
-  <summary>
-
-What you want showing when the dropdown is closed. (***It even supports markdown!***)
-  </summary>
-  
-  The contents of the dropdown. Yup, this bit _supports markdown too_!
-</details>
-
-
-## Something else
-
-
-<details>
-  <summary>
-
-#### What you want showing when the dropdown is closed. (***It even supports markdown!***)
-  </summary>
-  
-  The contents of the dropdown. Yup, this bit _supports markdown too_!
-</details>
-
 <details>
   <summary>
 
