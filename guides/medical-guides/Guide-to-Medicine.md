@@ -2,7 +2,7 @@
 title: Guide to Medicine
 description: All you need to start out as a doctor or field medic.
 published: true
-date: 2024-08-24T14:19:23.340Z
+date: 2024-08-24T14:23:58.504Z
 tags: medical, guide, medical guide, work in progress
 editor: markdown
 dateCreated: 2024-08-12T07:53:01.066Z
@@ -24,8 +24,8 @@ There are 4 primary damage types within the game, each can be caused by differen
 
 * Brutes are caused by being directly damaged by hostile enemies, stabbed, slashed, or shot at.
 * A high enough brute damage may break bones, damage internal organs, or even dismember limbs.
-* [Bleeding](/guides/medical-guides/Guide-to-Medicine#bloodloss) is usually accompanied alongside brute damage, which causes bloodloss.
-* If left untreated, bruises and cuts can lead to [infection](/guides/medical-guides/Guide-to-Medicine#infection).
+* [Bleeding](#bloodloss) is usually accompanied alongside brute damage, which causes bloodloss.
+* If left untreated, bruises and cuts can lead to [infection](#infection).
 
 These are common ways to treat brute damage;
 * Using a gauze or brute treatment kit on the affected limb. This also stops bleeding.
@@ -36,7 +36,7 @@ These are common ways to treat brute damage;
 <span style="color: orange;">Burn damage</span> are burns and peeling skin or scarring wounds. They make up the <span style="color: orange;">orange</span> number in the medical scanner and can be examined by looking.
 
 * Burns are caused by fire, heat, acid burns, or in some case even [radiation](/guides/medical-guides/Guide-to-Medicine).
-* Burns may cause damage to [internal organs](/guides/medical-guides/Guide-to-Medicine#internal-burns] and lead to [infection](/guides/medical-guides/Guide-to-Medicine#infection), or even [necrosis](/guides/medical-guides/Guide-to-Medicine#necrosis).
+* Burns may cause damage to [internal organs](#internal-burns) and lead to [infection](#infection), or even [necrosis](#necrosis).
 
 These are common ways to treat burn damage;
 * Using an ointment or burn treatment kit on the affected limb.
@@ -53,7 +53,7 @@ Toxins can be caused bydifferent reasons such as;
 * Using harmful chemicals, drugs, or overdosing.
 * Touching toxic or biohazard substances.
 * Breathing in harmful gases such as roach gas or plasma gas.
-* Toxins, poisons, and overdose also comes with an affect on one's [Neural System Accumulation](/guides/medical-guides/Guide-to-Medicine#neural-system-accumulation).
+* Toxins, poisons, and overdose also comes with an affect on one's [Neural System Accumulation](#neural-system-accumulation).
 
 
 These are common ways to treat toxin damage;
@@ -64,18 +64,18 @@ These are common ways to treat toxin damage;
 ### Oxyloss
 <span style="color: cyan;">Oxyloss</span>, or suffocation, refers to the <span style="color: cyan;">blue</span> number in the medical scanner. This is hypoxia or lack of oxygen to the brain. It is crucial to the patient, as they are truly dead when their brain dies from direct damage or lack of oxygen. 
 
-The lack of oxygen also ususally paired with [blood loss](/guides/medical-guides/Guide-to-Medicine#bloodloss) which in severe cases will start killing organs if left for too long.
+The lack of oxygen also ususally paired with [blood loss](#bloodloss) which in severe cases will start killing organs if left for too long.
 
 Oxyloss can be caused by different reasons such as;
 * Lack of breathable air in the environment or internal tank.
 * Specific poison, toxins, or other chemical effects.
-* [Bloodloss aka bleeding](/guides/medical-guides/Guide-to-Medicine#bloodloss), or lack of blood which disallow oxygen to be transferred to the brain.
+* [Bloodloss aka bleeding](#bloodloss), or lack of blood which disallow oxygen to be transferred to the brain.
 * Dead, damaged, or missing lungs, or a lack of heart disallowing blood to be pumped to the brain.
 
 There are a few ways to mediate or treat oxyloss;
 * [Inapprovaline]() included in the emergency autoinjector, although this only stop it from going worse.
 * [Tricordrazine](), [Dexalin]() and [Dexalin plus](), which treats oxyloss damage, but does not stop what is causing the damage.
-* [Stopping bleeding](/guides/medical-guides/Guide-to-Medicine#bloodloss) and provide [blood transfusion](), repair lungs and relevant organs, removing the toxin in the patient, or making sure the environment is breathable again.
+* [Stopping bleeding](#bloodloss) and provide [blood transfusion](), repair lungs and relevant organs, removing the toxin in the patient, or making sure the environment is breathable again.
 
 
 # Other Types of Injury
@@ -89,7 +89,7 @@ Below **70%**, the person starts to suffer from <span style="color: cyan;">oxylo
 * Bleeding can be stopped by using gauze, brute treatment kit, or any medicine with blood-clotting property such as [Quickclot]() or [Bicardine]().
 * Bleeding can also be manually stopped by hand. Target the person's limb that is bleeding, `reinforced GRAB` + `HELP intent click` on the person.
 
-Blood can be regained naturally over time with rest and food, but in severe case of blood loss, use [transfusion](/guides/medical-guides/Guide-to-Medicine#intravenous-therapy-iv) of saline or the appropriate bloodtype.
+Blood can be regained naturally over time with rest and food, but in severe case of blood loss, use [transfusion](#intravenous-therapy-iv) of saline or the appropriate bloodtype.
 
 ### Blood Type
 
@@ -114,11 +114,11 @@ Different people will have different blood type ranging from -O to +AB. Some blo
 
 Fractures refer to cracks or breakage of the bone in a person's limb or body. This is usually caused by excessive brute damage. Fractures are painful and, in breakage case, if left unattended will damage internal organs. Extreme breakage may be spotted by examining the patient.
 
-To learn the specifics of the location of the fracture, a [body scanner machine](/guides/medical-guides/Guide-to-Medicine#body-scanner) is required, or using [body inspection method](/guides/medical-guides/Guide-to-Medicine#inspecting-limb)
+To learn the specifics of the location of the fracture, a [body scanner machine](#body-scanner) is required, or using [body inspection method](#inspecting-limb)
 
-* Any form of fractures can be mediated from getting worse or damaging internal organs with the use of a [splint](/guides/medical-guides/Guide-to-Medicine#splint).
+* Any form of fractures can be mediated from getting worse or damaging internal organs with the use of a [splint](#splint).
 * Fractures are treated by the means of [surgery]() or medicine with bone-mending property such as [Ossisine]().
-* To see the specifics of damage types to the bone and how to treat them, see [bone damage](https://wiki.bluespace.engineer/e/en/guides/medical-guides/Guide-to-Medicine#bone-damage)
+* To see the specifics of damage types to the bone and how to treat them, see [bone damage](https://wiki.bluespace.engineer/e/en#bone-damage)
 
 ### Dislocation
 Not an actual fracture, but sometimes the patient's limb may be dislocated, causing a lot of pain and incapacitating the limb.
@@ -129,7 +129,7 @@ Not an actual fracture, but sometimes the patient's limb may be dislocated, caus
 
 Radiation refers to the level of radiation a person has been afflicted with. This is usually counted in percentage level in the medical scanner which starts from 0% and can go beyond 100%. A radiation level abot 50% is unsafe, and gets progressively more severe. 
 
-The patient will exhibit burning of their skin across their body, hairloss, and even [genetics damage](/guides/medical-guides/Guide-to-Medicine#genetics) which causes tumor growth in higher radiation levels alongside high level of pain. Radiation can occur in a few ways;
+The patient will exhibit burning of their skin across their body, hairloss, and even [genetics damage](#genetics) which causes tumor growth in higher radiation levels alongside high level of pain. Radiation can occur in a few ways;
 * Being within the proximity of radioactive substances, such as the [Supermatter](), [Kaiser roach]()'s radioactive spit, [Ameridians](), radioactive waste, and even other highly irradiated matters.
 * Being hit or damaged by radioactive projectiles caused by weapons or hostile entities.
 
@@ -139,11 +139,11 @@ Radiation level is directly treated  by injecting the patient [Hyronalin]() or [
 
 ## Genetics Damage
 
-Also referred to as "cloneloss", which can be caused by genetics instability caused by some organisms or genetics project failure. Newly cloned subjects will also come out of their vat with this. Genetics damage shows up on the medical scanner, but a [body scanner](/guides/medical-guides/Guide-to-Medicine#body-scanner) is needed to learn the specifics.
+Also referred to as "cloneloss", which can be caused by genetics instability caused by some organisms or genetics project failure. Newly cloned subjects will also come out of their vat with this. Genetics damage shows up on the medical scanner, but a [body scanner](#body-scanner) is needed to learn the specifics.
 
-Genetics damage reduces your overall health, a patient with 30 genetics damage and 100 base health will have a max health of 70. Additionally, genetics damage causes [tumor growth](/guides/medical-guides/Guide-to-Medicine#Tumors) which, if left untreated can become severely lethal.
+Genetics damage reduces your overall health, a patient with 30 genetics damage and 100 base health will have a max health of 70. Additionally, genetics damage causes [tumor growth](#Tumors) which, if left untreated can become severely lethal.
 
-* [Tumors](/guides/medical-guides/Guide-to-Medicine#Tumors) are divided into two types, each slowly progressing from a plasm stage till it is fully grown.
+* [Tumors](#Tumors) are divided into two types, each slowly progressing from a plasm stage till it is fully grown.
   * Benign tumor once fully grown will cause the limb to be less effective, but does not spread or cause serious damage.
   * Malignant tumor is the more serious version of this, it will slowly kill the organ off before spreading to other organs.
 * [Rezadone]() and [Ryetalyn]() treats genetics damage, and additionally removes both types of tumor.
@@ -153,7 +153,7 @@ Genetics damage reduces your overall health, a patient with 30 genetics damage a
 
 ## Organ Damage
 
-Organ damage refers to any types of damage applied to the organ directly. In some cases this is a flat damage, in other cases it may be a [wound type](/guides/medical-guides/Guide-to-Medicine#internal-wounds) that requires very specific medicine or [surgery steps]().
+Organ damage refers to any types of damage applied to the organ directly. In some cases this is a flat damage, in other cases it may be a [wound type](#internal-wounds) that requires very specific medicine or [surgery steps]().
 * In general, all organs (excluding the bone) can be healed with [Peridaxon]()
 * Specific organs can be healed using special medicine, such as [Imidazoline]() repairing the eyes, or [Respirodaxon]() for the lungs. Specifics of which you can find [here]().
 * Once an organ is dead, it is considered damaged beyond repair and will not function and needs to be replaced via [surgery](). This is also very painful.
@@ -166,7 +166,7 @@ The following are a list of organ and what happens when they are dead, or destro
 | Lungs    | Inability to breath oxygen, causing death of other organs | Liver    | Inability to process chemicals and allowing toxin to build up |
 | Kidneys  | Inability to regenerate blood and allowing toxin to build up | Stomach  | Inability to digest food or take nutrients by mouth |
 | Appendix  | Nothing, the appendix is functionless | Bone     | Loss of the limb or body part |
-| Blood vessel | Lack of bloodflow to the limb or body part | Nerve | Loss of [NSA](/guides/medical-guides/Guide-to-Medicine#neural-system-accumulation) and function of the limb or body part |
+| Blood vessel | Lack of bloodflow to the limb or body part | Nerve | Loss of [NSA](#neural-system-accumulation) and function of the limb or body part |
 | Muscle   | Loss of function of the limb or body part. | |{.no-table-head}
 
 * It has to be noted that, out of all organs, bones are unaffected by the lack of bloodflow and oxygen.
@@ -206,7 +206,7 @@ If you have been provided a medical HUD interface, a visible graphical visualiza
 * <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth0.gif width="64" height="10" class="sub health-indicator">: less than 0%, this is also known as "in critical stage"</div>
 * <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth-100.gif width="64" height="10" class="sub health-indicator">: the patient is dead</div>
 
-Additionally, the health HUD also display other information for the person, such as whether they are bleeding, if they are infected with a virus, for example. This still shouldn't be fully relied on, as the best way to check someone is with a [health scan](/guides/medical-guides/Guide-to-Medicine#health-scanner).
+Additionally, the health HUD also display other information for the person, such as whether they are bleeding, if they are infected with a virus, for example. This still shouldn't be fully relied on, as the best way to check someone is with a [health scan](#health-scanner).
 
 #### Heart Rate
 Additionally, another way of seeing if a person is stable or not is to look at their heart rate. Heart rates are measured in Beats Per Minute or `bpm` on the scanner. 
@@ -225,10 +225,10 @@ Although not a general indicator of something, body temperature can tell us if s
 In general, examining a person by looking will tell you a lot about their condition. Occasionally however, further steps are needed to diagnose the patient outside of what you see and hear.
 
 #### Health Scanner
-A handheld [health analyzer](/guides/medical-guides/Guide-to-Medicine#health-analyzer) can be used to give a lot of information on the patient, this includes things one cannot see or hear such as blood level, toxin level, what and how much chemical is in the patient's blood, radiation damage, and even genetics damage.
+A handheld [health analyzer](#health-analyzer) can be used to give a lot of information on the patient, this includes things one cannot see or hear such as blood level, toxin level, what and how much chemical is in the patient's blood, radiation damage, and even genetics damage.
 
 #### Full-body Scan
-A [body scanner](/guides/medical-guides/Guide-to-Medicine#body-scanner) can give the most detailed explanation of the patients state compared to a health analyzer down to each individual bones and organs. This is extremely useful as a medical personnel to be able to determine the next cause of treatment.
+A [body scanner](#body-scanner) can give the most detailed explanation of the patients state compared to a health analyzer down to each individual bones and organs. This is extremely useful as a medical personnel to be able to determine the next cause of treatment.
 
 #### Inspecting Limb
 A manual inspection of the patients limb by `passive GRAB` + `HELP intent click` on the targeted limb. This is timely but allows the inspector to tell if the limb has any damage, broken bones, or wounds.
@@ -246,7 +246,7 @@ A quick examine or diagnosis should be performed by now to determine if they nee
 * Stop all bleeding using a gauze, brute treatment kit, or Quickclot.
 * If a patient is gasping for air, everyone has an emergency injector within their supply box, use it.
 * Splint the affected limb where [sharpnel](/guides/medical-guides/Guide-to-Surgery) or bone fracture is located.
-* If a [stasis bag](h/guides/medical-guides/Guide-to-Medicine#stasis-bag) is available, it might be a good idea to use them on a critically injured patient to stop them from getting worse.
+* If a [stasis bag](#stasis-bag) is available, it might be a good idea to use them on a critically injured patient to stop them from getting worse.
 * An initial treatment using available medical supply may be wise, as it extends the time you have to transport the person.
 
 ### Movement Methods
@@ -255,7 +255,7 @@ In the case that a person is able to walk still and conscious, using the `PULL` 
 
 However, this gets complicated when a person becomes dead, incapacitated, or unconscious. By performing a `PULL` option on the injured at this stage, dragging them along the floor will make wounds worse and cause constant brute damage to them.
 * Using a roller bed or a movable office chair will allow for safe and quick transport of the patient.
-* Putting them in a bag (such as body bag or [stasis bag](/guides/medical-guides/Guide-to-Medicine#stasis-bag)) will also work.
+* Putting them in a bag (such as body bag or [stasis bag](#stasis-bag)) will also work.
 * Using a `GRAB intent` option will cause you to slow down a bit, but this is considered safe if no option is available.
 
 
@@ -276,8 +276,8 @@ Despite death, resustication is always possible. A timer is started on death whi
 There is, however, a way to completely halt the degradation of patient's health and practically stabilizing them by stopping all their bodily function. 
 
 This is called stasis, and it works to stop a patient in critical stages from death as well as stopping body from rotting past resustication timer. There are two way to put someone in a stasis.
-* [Cryogenics tube](/guides/medical-guides/Guide-to-Medicine#cryogenics-tube) when set up correctly and paired with [Cryoxadone]() or [Cronexidone]() can be used to put someone in an indefinite stasis state.
-* Disposable [stasis bag](/guides/medical-guides/Guide-to-Medicine#stasis-bag) can be used to store someone inside, this effects slowly wane off eventually, and should be used for transport.
+* [Cryogenics tube](#cryogenics-tube) when set up correctly and paired with [Cryoxadone]() or [Cronexidone]() can be used to put someone in an indefinite stasis state.
+* Disposable [stasis bag](#stasis-bag) can be used to store someone inside, this effects slowly wane off eventually, and should be used for transport.
 
 # Administering Medicine
 
@@ -295,24 +295,24 @@ This is called metabolism, and each medicine will have a different metabolism ra
 
 Essentially, you're creating a bottle neck where medicine is slowly introduced into blood. This is useful for a few situation
 1. Oral application is extremely quick and easy, requiring no skill or training.
-2. Oral application allows for medicine to be absorbed slower, lessening the risk of [overdose](/guides/medical-guides/Guide-to-Medicine#overdosing) and the rate of which [NSA](/guides/medical-guides/Guide-to-Medicine#neural-system-accumulation) is gained.
+2. Oral application allows for medicine to be absorbed slower, lessening the risk of [overdose](#overdosing) and the rate of which [NSA](#neural-system-accumulation) is gained.
 
 However, oral application also comes with some downsides.
 1. The medicine is less effective overall, since it can only be processed as fast as the stomach can absorb it.
-2. Occasionally, the total dosage needed isn't even near the overdose threshold at all, costing time and raising [NSA](/guides/medical-guides/Guide-to-Medicine#neural-system-accumulation) if another chemical needs to be introduced soon after.
+2. Occasionally, the total dosage needed isn't even near the overdose threshold at all, costing time and raising [NSA](#neural-system-accumulation) if another chemical needs to be introduced soon after.
 3. Pills are harder to manage dosage wise, requiring a [chem master] to produce exclusively.
 
 ### Injection
 
-This refers to the act of injecting someone with medicine into the bloodstream using some types of [syringe](/guides/medical-guides/Guide-to-Medicine#syringe), needles, or [IV drip](/guides/medical-guides/Guide-to-Medicine#intravenous-therapy-iv). This is generally the most common way of administering medicine.
+This refers to the act of injecting someone with medicine into the bloodstream using some types of [syringe](#syringe), needles, or [IV drip](#intravenous-therapy-iv). This is generally the most common way of administering medicine.
 
 For syringes and most other types of injectors, the dosage administrated is usually in 5s at a time. Most of these equipment barring the [autoinjector]() requires some basic knowledge of biology.
 1. Injection dosage can be easily managed in 5 at a time, making it more flexible than pills.
 2. Injection allows the chemical to go directly into the bloodstream, shortening the time it takes for the chemical to be processed.
 
 Downsides for injection is low, but not uncommon.
-1. It is very easy to accidentally over-inject someone with medicine, causing an [overdose](/guides/medical-guides/Guide-to-Medicine#overdosing).
-2. The ease of administering and the speed of which medicine is injected allow for multiple medicine to be quickly administered full-amount at the same time, causing high [NSA](/guides/medical-guides/Guide-to-Medicine#neural-system-accumulation) rates.
+1. It is very easy to accidentally over-inject someone with medicine, causing an [overdose](#overdosing).
+2. The ease of administering and the speed of which medicine is injected allow for multiple medicine to be quickly administered full-amount at the same time, causing high [NSA](#neural-system-accumulation) rates.
 
 ### Touch-based Application
 
@@ -323,7 +323,7 @@ The rarest of the three, touch-based application refers to medicine that works b
 Overdosing is when a certain chemical type accumulates much more than the body can process, with a numbered maximum threshold before an overdose counted in unit `u`. Overdosing can cause toxin build up, organ poisoning via accumulation, or even strong side effects in some medicine.
 * Generally you want to avoid overdosing someone as much as you can, unless you know what you're doing.
 * In stronger stimulants and medicine, this could mean organ damage or death, or a build up of pain and toxin.
-* In the case that an overdose happens, the person must be purged of the chemical via use of a [sleeper](/guides/medical-guides/Guide-to-Medicine#sleeper) or [purging chemicals]() immediately otherwise they will suffer from the side effects.
+* In the case that an overdose happens, the person must be purged of the chemical via use of a [sleeper](#sleeper) or [purging chemicals]() immediately otherwise they will suffer from the side effects.
 
 Each chemicals have different side effects from overdosing, some medication overdose are even desirable as it makes them stronger despite the side effect. For more guide on each chemicals overdose threshold, see [Guide to Chemistry](/guides/medical-guides/Guide-to-Chemistry).
 
@@ -331,7 +331,7 @@ Each chemicals have different side effects from overdosing, some medication over
 
 Addiction is caused by a prolonged use or overdosing of certain chemicals. Certain drugs, medicine, stimulants, and even toxin has a chance to cause addiction. 
 * While under an addiction, the body may suffer some stat debuffs, complications, or even struggle in some otherwise normal tasks.
-* A good way to quickly remove an addiction is through the use of [Addictol]() or quickly purging any addicting chemicals left in the body via the use of a [sleeper](/guides/medical-guides/Guide-to-Medicine#sleeper) or various [purging chemicals]().
+* A good way to quickly remove an addiction is through the use of [Addictol]() or quickly purging any addicting chemicals left in the body via the use of a [sleeper]() or various [purging chemicals]().
 
 ## Neural System Accumulation
 
@@ -343,7 +343,7 @@ NSA are raised when chemicals are injected into the body, each coming with diffe
 * NSA can be raised or lowered with the [Vivification]() stat and the [Cognition]() skill, making each person different in terms of their NSA threshold.
 * A higher NSA threshold additionally gives the person more chance to become addicted to addicting reagent, while a lower NSA threshold person is less likely to.
 
-A good way to quickly lower someone's NSA count is by removing chemicals within their blood, this can be through the use of a [sleeper](/guides/medical-guides/Guide-to-Medicine#sleeper) or various [purging chemicals]().
+A good way to quickly lower someone's NSA count is by removing chemicals within their blood, this can be through the use of a [sleeper](#sleeper) or various [purging chemicals]().
 
 ## Intravenous Therapy (IV)
 
@@ -372,7 +372,7 @@ Internal wounds have stages of progress, which takes the place of a number like 
 * Blunt wounds occur as a result of bruises caused by blunt objects and non-penetrating rounds. They appear in the form of rupture, internal hemorrhage, or contusion.
   * Blunt wound can be healed using [brute treatment kit surgery](/guides/medical-guides/Guide-to-Surgery#internal-organ-repair), or medicine with brute healing or blood clotting property.
 * Sharp wounds are caused by bladed weapons or penetrating rounds. They appear in the form of perforation, cavitation, gored tissue, laceration, deep gash, or ripped tissue.
-  * If left untreated, a sharp wound will start to [swell](/guides/medical-guides/Guide-to-Medicine#swelling) before turning into an [infection](/guides/medical-guides/Guide-to-Medicine#infection).
+  * If left untreated, a sharp wound will start to [swell](#swelling) before turning into an [infection](#infection).
   * Sharp wounds require either [brute treatment kit surgery](/guides/medical-guides/Guide-to-Surgery#internal-organ-repair) or medicine with a stronger brute healing or blood clotting property.
 
 ### Swelling
@@ -385,16 +385,16 @@ Internal wounds have stages of progress, which takes the place of a number like 
 
 ### Internal Burns
 
-<span style="color: orange;">Burn wounds</span> are caused by excessive burn damage. This will cause internal burns on the organ or limb, progressing into an [infection](/guides/medical-guides/Guide-to-Medicine#infection) if left untreated.
+<span style="color: orange;">Burn wounds</span> are caused by excessive burn damage. This will cause internal burns on the organ or limb, progressing into an [infection](#infection) if left untreated.
 * Internal burns take the form of scorched tissue, charred tissued, or incinerated flesh.
 * Internal burns can be stabilized using [Inapprovaline](), but this does not treat it.
 * Internal burns can be treated before it becomes infected using [burn treatment kit surgery](/guides/medical-guides/Guide-to-Surgery#internal-organ-repair), [cutting out the damaged tissue](/guides/medical-guides/Guide-to-Surgery#damaged-tissue-and-necrosis-removal), or [Trypsin]().
 
-Once treated, internal burns will left a scarring of [necrosed tissues](/guides/medical-guides/Guide-to-Medicine#necrosis), which will need to be treated further.
+Once treated, internal burns will left a scarring of [necrosed tissues](#necrosis), which will need to be treated further.
 
 ### Necrosis
 
-<span style="color: grey;">Necrosis</span> are divided into two types; damaged tissues which slowly progress into necrosis. Both of which causes pain for the patient and if left untreated, will progress into an [infection](/guides/medical-guides/Guide-to-Medicine#infection).
+<span style="color: grey;">Necrosis</span> are divided into two types; damaged tissues which slowly progress into necrosis. Both of which causes pain for the patient and if left untreated, will progress into an [infection](#infection).
 * Necrosis takes the form of damaged tissue and necrotizing tissue for the respective levels.
 * Like internal burns, necrosis can be stabilized using [Inapprovaline](), but this does not treat it.
 * Like internal burns, necrosis can be treated using [necrosis removal surgery](/guides/medical-guides/Guide-to-Surgery#damaged-tissue-and-necrosis-removal) or [Trypsin]().
@@ -427,14 +427,14 @@ Heavy poisoning of all type causes pain, makes organs much less efficient, and c
 Foreign objects refer to inorganic or otherwise foreign objects inside one's body that may be unwanted or actively causing harm. There are three types in general; implants, shrapnels, and biological.
 
 ### Implants
-Implants can be wanted or unwanted, by default, implants will show up on the [body scanner](/guides/medical-guides/Guide-to-Medicine#body-scanner), but the specifics will require opening the patient up to examine.
+Implants can be wanted or unwanted, by default, implants will show up on the [body scanner](#body-scanner), but the specifics will require opening the patient up to examine.
   * Core implants, such as psionic organ, nanogate, and cruciforms, are always detailed on the body scanner, requiring no further opening.
   * Some implants are helpful, such as death alarm, freedom, etc. while others are cause of alarm, mainly the "[Excelsior]()" mindslave implant.
   * Implants can be removed via [surgery](/guides/medical-guides/Guide-to-Surgery#implant-installationeand-extraction).
 
 ### Shrapnels
 Shrapnels are extremely dangerous debris caused by lodged bullets or explosions from fragmentation mine or grenade. These are metal in nature, and will cause extreme harm in the person until it is removed.
-  * Any limbs can be affected by lodged shrapnel, the shrapnel damages the internal organ of any person moving around with them lodged inside. [Splint](/guides/medical-guides/Guide-to-Medicine#splint) and [roller bed](/guides/medical-guides/Guide-to-Medicine#roller-bed) is heavily recommended when transporting the patient.
+  * Any limbs can be affected by lodged shrapnel, the shrapnel damages the internal organ of any person moving around with them lodged inside. [Splint](#splint) and [roller bed](#roller-bed) is heavily recommended when transporting the patient.
   * Shrapnel can be removed using [shrapnel removal surgery](/guides/medical-guides/Guide-to-Surgery#shrapnel-removal).
 
 ### Other Foreign Objects
@@ -445,7 +445,7 @@ Sometimes you'll run across different type of nasty, and strangely horrifying fo
 
 ## Tumors
 
-<span style="color: salmon;">Tumors</span> are a result of unstable cells mutating from [genetics damage](/guides/medical-guides/Guide-to-Medicine#genetics-damage). Tumors start slow, but can potentially spread everywhere and kill your patient.
+<span style="color: salmon;">Tumors</span> are a result of unstable cells mutating from [genetics damage](#genetics-damage). Tumors start slow, but can potentially spread everywhere and kill your patient.
 * There are two types of tumors; benign which is not lethal yet still harmful, and malignant which is extremely dangerous.
   * A fully developed benign tumor will not kill you, but cause the limb and organ to be much less functional.
   * A fully developed malignant tumor will start killing your organ, spreading once it has killed an organ.
@@ -461,7 +461,7 @@ Tumors can be treated in one of the following ways.
 
 ## Bone Wounds
 
-Bone wounds are types of [damage to the bone](/guides/medical-guides/Guide-to-Medicine#fractures), this may not be fractures but simply damages that causes constant pain to the patient. All types of bone fixing requires [surgery](/guides/medical-guides/Guide-to-Surgery#bone-setting-and-repair).
+Bone wounds are types of [damage to the bone](#fractures), this may not be fractures but simply damages that causes constant pain to the patient. All types of bone fixing requires [surgery](/guides/medical-guides/Guide-to-Surgery#bone-setting-and-repair).
 * Bone damage caused by blunt application of force may take shape in burising, sprained ligament, or dislocation, and will require the use of [bone setter]().
 * Bone damage caused by sharp weapons may take shape in perforation, cavitation, puncture, laceration, avulsion, or chipped tissue, and will require the use of [osseous tape]() or other adhesives.
   * Both types of bone damages can be repaired like other organs using a brute treatment kit.
@@ -470,7 +470,7 @@ Bone wounds are types of [damage to the bone](/guides/medical-guides/Guide-to-Me
 
 ## Organ Scarring
 
-Organ scarring is an effect caused mostly by overdosing on stimulants and other strong toxins. By it self it does not spread, but cause pain and damages the organ. An organ may be spotted with scar tissues, which is different from [necrosis](/guides/medical-guides/Guide-to-Medicine#necrosis).
+Organ scarring is an effect caused mostly by overdosing on stimulants and other strong toxins. By it self it does not spread, but cause pain and damages the organ. An organ may be spotted with scar tissues, which is different from [necrosis](#necrosis).
 * The only treatment currently is a strong does of [Trypsin]().
 
 ---
