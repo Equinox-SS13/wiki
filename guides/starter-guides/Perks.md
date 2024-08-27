@@ -2,7 +2,7 @@
 title: List of Perks
 description: Abilities, education, knowledge, and extraordinary talents.
 published: true
-date: 2024-08-27T09:25:49.430Z
+date: 2024-08-27T18:04:02.622Z
 tags: guide, work in progress, starter guide
 editor: markdown
 dateCreated: 2024-08-23T16:12:37.602Z
@@ -31,18 +31,39 @@ There are two times in character creation where you can choose your perks. The f
 
 These perks are granted to you based on your species. A table of them is listed below. 
 
-| Name | Description | Effect | Species
+| Species | Perk Name | Description | Effect |
 |:-----|:------|:-------
-| Aulvae Decohesion Syndrome | You've recently been returned to cohesion via the use of high-energy toxins which have left your form in a semi-stable state. | You take 30% more brute and burn damage and lose 30 points from Toughness and Vigilance but gain 30 points in Robustness for 30 minutes.
-| Chem Addict | You've been an addict all your life, for whatever piss poor reason you've told yourself. Your body is able to handle a variety of drugs, more than the average person, but you get easily addicted to all of them. | You are twice as likely to become addicted to chemicals and drugs, but you gain +20 NSA. | Sablekyne (Maunkyne)
-| Folken Healing Young
-| Folken Oddity Reroll
-| Mycus Mushroom Follower
-| Mycus Slime Follower
-| Opifex Backup 
-| Opifex Combat
-| Opifex Medical
-
+| Akula | Iron Flesh | Akula scales are not only tough and resistant to damage but exceptionally skilled at naturally forcing out embedded objects that somehow punch through. You'll never get a bullet nor object stuck inside when hit. | Completely prevents projectiles and other objects from embedding in you when hit. You never receive embedded shrapnel from being shot either. 
+| Akula | Reckless Frenzy | Your body is powerful and strong when you succumb to instinct, but doing so leaves you without much higher reasoning for a short time. The rush of chemicals is also highly addictive and often times will leave your body weaker for a short time. | Activate to inject yourself with 5 units of Robustitol, an otherwise-unobtainable chemical that increases your Tgh and Rob by *60* while reducing your other stats by *100* for a few minutes. After this time, your Tgh and Rob will be reduced by 15 for a few minutes as you recover. 15 minute cooldown.  
+| Aulvae | Aulvae Decohesion Syndrome | You've recently been returned to cohesion via the use of high-energy toxins which have left your form in a semi-stable state. | You take 30% more brute and burn damage and lose 30 points from Toughness and Vigilance but gain 30 points in Robustness for 30 minutes.
+| Cindarite | Purge Toxins | You force your body to begin the process of removing toxins from your blood. All toxins, addictions, and stimulants are slowly purged while any toxin damage to your liver or body is healed but the effect leaves you exhausted. | Activate to inject yourself with 5 units of Cindpetamol, an otherwise-unobtainable chemical that provides strong antitoxin capabilities at the cost of slowdown and organ damage. 15 minute cooldown. 
+| Cindarite | Second Skin | Cindarites, be they bunker born or spacers, are used to wearing bulky enviromental suits. This life time of being acclimated to heavy clothing has become a second skin for many, allowing you to remove clothing instantly and never suffer slowdown from heavy armor. | Prevents you from being slowed down by clothing or armor. 
+| Cindarite | Uncanny Resilience | Your body is adept not only at curing toxins and regulating its blood flow but also fighting off infections and disease in any form. All infections within you are slowly cured and diseases progression slowed if not outright cured, similar to as if you were injected with spaceacillin. Severe infections or late stage diseases may still need additional medical aid and this cannot restore necrotic tissue. | Activate to inject yourself with 5 units of Cindacillin, an otherwise-unobtainable chemical that functions identically to [Spaceacillin](/guides/medical-guides/Guide-to-Chemistry). 30 minute cooldown. 
+| Folken | Folken Healing Young 
+| Folken | Folken Oddity Reroll
+| Human | Diverse Culture | Sol Fed conquering the stars led to almost every human having diverse knowledge of different languages. | Activate this perk to learn another language. Stacks with Linguist.
+| Human | Inspiring Battlecry | Activate to give allies nearby that can hear you +10 Tgh, Rob, and Vig for 2 minutes. 30 minute cooldown. 
+| Human | Tenacity | Humans were always resilient, not letting anything or anyone to get in way of their goals. Due to this your body is way more adapted to anything thrown it's way letting you push onward for just a little bit longer than others. | You can take 20 more damage before entering hardcrit (being knocked unconscious by damage.)
+| Human | Will to Survive | Your determination to survive and push on takes precedent before your other instincs making you ignore some of your pain and letting your body recover faster. | Activate to inject yourself with 5 units of Adrenol, an otherwise-unobtainable chemical. This provides a good painkiller and heals a decent amount of most damage types. 10 minute cooldown. 
+| Kriosan | Enhance Senses | You're a predator at heart and have the senses to match, for a short time your body toughens and your aim improves drastically as your senses enhance. | Activate to inject yourself with 5 units of Kriotol, an otherwise-unobtainable chemical that grants you +10 Tgh and +20 Vig, grants enhanced vision in the dark, quickens your pulse, and quickens your movement speed slightly for a few minutes. 15 minute cooldown. 
+| Kriosan | Instinctual Skill | All kriosans understand the dynamics of shooting, to such a degree that guns are more extensions to one's hand than weapon. You take no penalty when firing any range weapon one handed. | Reduces your recoil by 40% and reduces your recoil buildup by 50%. 
+| Marqua | Adapted Nervous System | A mar'qua's nervous system has long since adapted to the use of stimulants, chemicals, and different toxins. You can handle a wide variety of chemicals before showing any side effects and you'll never become addicted. | You cannot become addicted to chemicals and you gain +300 NSA (400 before other modifiers.) 
+| Marqua | Inspired Intellect | Even the most humble Mar'qua is capable of study and extrapolation, your natural intellect allows you to become gain inspiration more easily. | You gain 1.5 times as much inspiration as others before other modifiers.
+| Marqua | Sudden Brilliance | Use this to center your thoughts and increase all your mental abilities. | Injects you with 10 units of Marquatol, an otherwise-unobtainable chemical that increases your Bio, Cog, and Mec by 15 points for about 10 minutes. 15 minute cooldown. 
+| Mycus | Mycus Mushroom Follower
+| Mycus | Mycus Slime Follower
+| Naramad | Adrenaline Burst | Naramads are built for extreme speed, be it for charging forward and retreating back. | Activate to inject yourself with 5 units of Naratonin, an otherwise-unobtainable chemical that provides + 25 Tgh and Rob, quickens your pulse, and significantly increases your movement speed for a few minutes. 15 minute cooldown. 
+| Naramad | Hydration Reliance | Naramad have adapted biology heavily reliant on the intake of fluids, in particular clean clear water. Drinking purified water, even tap water, heals your body slowly, as if you drank tricordizine! | Drinking water heals oxygen and organ damage, and provides minor antitoxin and blood clotting capabilities. 
+| Naramad | Born Warrior | No matter their background all naramadi are capable bringing any object to bear as a weapon, be it bladed or blunt. Unlike other races your grip is iron and you'll never lose your weapon through embedding it in an enemy. | You will never embed your weapon in opponents when you hit them with it. 
+| Opifex | Opifex Backup 
+| Opifex | Opifex Combat
+| Opifex | Opifex Medical
+| Opifex | Smuggled Tools | You retrieve your custom made quality tools hidden on your person somewhere, along with the opifex-made black webbing vest that holds them. As every opifex is told, never go anywhere without your kit. This kit is also yours alone and a specialized suite of tools, unless you're upgrading to new tools you should not ever sell or give these away. | Provides you a toolbelt full of advanced tools and wire, as well as a knife. 12 hour cooldown, so it is only usually usable once per round.  
+| Sablekyne | Last Stand | As a sablekyne your body is a tank, through will and biology you can ignore pain entirely for a short amount of time. | Activate this perk to inject yourself with 10 units of Sabledone, an otherwise-unobtainable chemical that works as an incredibly strong painkiller and heals stun/pain damage. 15 minute cooldown. 
+| Sablekyne | Bone Plated | All sablekyne are covered in bone-like plating across various parts of the body, this layer of natural armor along the shins, thighs, fore-arms, and shoulders allow you to absorb impacts better than anyone, adding a further tolerance to pain. | 
+| Sablekyne | Brawny Build | All sablekyne are stocky and built wide, your brawny build and low center of gravity gives you exceptional balance. Few beasts can knock you down and not even the strongest men can push you over. | Makes you unable to be knocked over or pushed over by mobs or players. Cannot be pushed past. 
+| Sablekyne (Maunkyne) | Chem Addict | You've been an addict all your life, for whatever piss poor reason you've told yourself. Your body is able to handle a variety of drugs, more than the average person, but you get easily addicted to all of them. | You are twice as likely to become addicted to chemicals and drugs, but you gain +20 NSA. 
+| Sablekyne | 
 
 ## Background Perks
 
@@ -53,7 +74,7 @@ These perks are granted to you based on your species. A table of them is listed 
 | Exact Values | Unlike most people you can fully visualize your own stats, owing to your greater grasp of the concepts. This is in addition to knowing exactly how likely you were to fail after failing some tasks. This ability does not extend to medical matters, wounds, or similar. | Instead of seeing text like "a moderate chance of success", you will instead see the exact percentage. Additionally, you can see your own stats exactly. 
 | Idealist | A day may come when the courage of men fails, when we forsake our friends and break all bonds of fellowship. But it is not this day. This day you fight! Your Insight gain is faster when you are around sane people and they will recover sanity when around you. When you are around people that are low on health or sanity, you will take sanity damage. | You take sanity damage while around people at less than 30 health or less than 50 sanity. However, you gain 2% more insight for each person near you that you can see. People around you also regenerate sanity a little bit faster. 
 | Linguist | Having dedicated time to learn foreign tongues, you find yourself knowing an extra language. Be it from your upbringing or schooling, you're fluent in one more language than the average person! | Using the perk in-round allows you to select one more language to know, then removes the perk. You keep the language for the whole round. 
-| Natural Style | Due to your intense training and upbringing you already know how to use the sheath arts, as well as how to handle the mind. All melee weapons that attack at range have a little bit extra reach when you wield them. | You take more sanity damage from environmental effects, but have +50 max sanity (150 before any other modifiers.) Additionally, all melee weapons that have range have +1 range and some deal additional damage. 
+| Natural Style | Due to your intense training and upbringing you already know how to use the sheath arts, as well as how to handle the mind. All melee weapons that attack at range have a little bit extra reach when you wield them. | You take more sanity damage from environmental effects, but have +50 max sanity (150 before any other modifiers.) Additionally, all melee weapons that have range have +1 range and sweeping and ranged attcks with said weapons deal more damage than normally. 
 | Noble | You came from a wealthy family of high stature, able to achieve a high education and spent most of your life capable of relaxing. Start with an heirloom weapon, higher chance to be on contractor contracts and removed sanity cap. Stay clear of filth and danger. | You start the round or spawn in with a moderately powerful [Oddity](/guides/starter-guides/Oddities) weapon. However, you are more likely to show up on antagonist objectives and can lose more sanity per second from environmental sources than other people. 
 | Psionic Attunement | You have, through practice or innate talent, mastered your psionic abilities to such a degree that you have greater control of the negative side effects of your powers. Whenever you use a psionic power that has a negative side effects, you take only half the penalties a psion normally would. Equally, some lesser powers like telepathic projection and telekinetic prowess no longer cost essence to use. | Minor psychic powers like telepathic projection and telekenetic prowess cost 0 essence to use. Some powers that heal you or grant uses of items heal more of grant more items. 
 | Psionic Harmony | You have achieved inner harmony, your balance of emotion giving you peace of mind and thus expanding your potential as a psion. With this frame of mind, you retain a higher maximum psi pool than others, increasing your capacity by two. | Grants +2 to yur psionic essence points cap. 
