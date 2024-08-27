@@ -2,7 +2,7 @@
 title: List of Perks
 description: Abilities, education, knowledge, and extraordinary talents.
 published: true
-date: 2024-08-27T21:30:46.190Z
+date: 2024-08-27T21:31:58.213Z
 tags: guide, work in progress, starter guide
 editor: markdown
 dateCreated: 2024-08-23T16:12:37.602Z
@@ -16,7 +16,7 @@ There are two times in character creation where you can choose your perks. The f
 
 ## Career Perks 
 | Name | Description | Effect
-|:-----|:------|:-------|:-------
+|:-----|:------|:-------
 | Chemical Contraband | For reasons either fair or foul, you know how to easily identify certain kinds of illegal chemical contraband. | Allows you to see illegal reagents easly in containers, such as drugs, stimulants, etc.
 | Fast Fingers | Nothing is safe around your hands. You are a true kleptomaniac. Taking items off others makes no sound or prompts, provided its in their pockets, hands, or their ears. It's also quicker and you can slip pills into drinks unnoticed. | Allows you to take items out of peoples' hands, ear slots, and pockets without broadcasting it to chat.
 | Lungs of Iron | You need less oxygen to survive. | You only take half as much damage from low oxygen (oxyloss.)
@@ -30,9 +30,14 @@ There are two times in character creation where you can choose your perks. The f
 ## Species Perks
 
 These perks are granted to you based on your species. A table of them is listed below. Not every species perk is applied to every member of a species. Your species-specific background will apply one of three options depending on the background you select. See the [species page]() for more information.
+<detail>
+  <summary>
+    Species Perk and Description Table
+    
+  </summary>
 
 | Species | Perk Name | Description | Effect |
-|:-----|:------|:-------
+|:-----|:------|:-------|:-------
 | Akula | Iron Flesh | Akula scales are not only tough and resistant to damage but exceptionally skilled at naturally forcing out embedded objects that somehow punch through. You'll never get a bullet nor object stuck inside when hit. | Completely prevents projectiles and other objects from embedding in you when hit. You never receive embedded shrapnel from being shot either. 
 | Akula | Reckless Frenzy | Your body is powerful and strong when you succumb to instinct, but doing so leaves you without much higher reasoning for a short time. The rush of chemicals is also highly addictive and often times will leave your body weaker for a short time. | Activate to inject yourself with 5 units of Robustitol, an otherwise-unobtainable chemical that increases your Tgh and Rob by *60* while reducing your other stats by *100* for a few minutes. After this time, your Tgh and Rob will be reduced by 15 for a few minutes as you recover. 15 minute cooldown.  
 | Aulvae | Adaptive Anatomy | As a being of living flux you can burn spare calories to momentarily temper your physical attributes. | Boosts Rob, Tgh, and Vig by 45 for 1 minute. 10 minute cooldown. Costs 200 nutrition to use. 
@@ -77,6 +82,7 @@ These perks are granted to you based on your species. A table of them is listed 
 | Sablekyne | Brawny Build | All sablekyne are stocky and built wide, your brawny build and low center of gravity gives you exceptional balance. Few beasts can knock you down and not even the strongest men can push you over. | Makes you unable to be knocked over or pushed over by mobs or players. Cannot be pushed past. 
 | Sablekyne | Chem Addict | You've been an addict all your life, for whatever piss poor reason you've told yourself. Your body is able to handle a variety of drugs, more than the average person, but you get easily addicted to all of them. | You are twice as likely to become addicted to chemicals and drugs, but you gain +20 NSA. 
 
+ </detail>
 
 ## Background Perks
 
