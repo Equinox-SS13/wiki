@@ -1,9 +1,9 @@
 ---
-title: Guide to Character Creation
-description: How to Make Spaceman?
+title: Character Creation
+description: Making your very own character on Equinox.
 published: true
-date: 2024-08-24T14:04:29.881Z
-tags: guide, starter guide, character creation
+date: 2024-08-27T09:19:00.339Z
+tags: guide, starter guide
 editor: markdown
 dateCreated: 2024-08-23T19:52:13.156Z
 ---
