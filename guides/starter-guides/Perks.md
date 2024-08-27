@@ -2,7 +2,7 @@
 title: List of Perks
 description: Abilities, education, knowledge, and extraordinary talents.
 published: true
-date: 2024-08-27T20:52:29.935Z
+date: 2024-08-27T21:03:20.297Z
 tags: guide, work in progress, starter guide
 editor: markdown
 dateCreated: 2024-08-23T16:12:37.602Z
@@ -29,7 +29,7 @@ There are two times in character creation where you can choose your perks. The f
 
 ## Species Perks
 
-These perks are granted to you based on your species. A table of them is listed below. 
+These perks are granted to you based on your species. A table of them is listed below. Not every species perk is applied to every member of a species. Your species-specific background will apply one of three options depending on the background you select. See the [species page]() for more information.
 
 | Species | Perk Name | Description | Effect |
 |:-----|:------|:-------
@@ -53,7 +53,7 @@ These perks are granted to you based on your species. A table of them is listed 
 | Folken | Folken Healing, Young | As a Folken, you can use the light to heal wounds, standing in areas of bright light will increase your natural regeneration. Due to your comparatively young age, you heal faster than other Folken. | You heal 1 damage per second when standing in lit areas.
 | Folken | Modify Oddity | You reach into your understanding of this natural world to alter the latent effects of an oddity, enhancing the properties it has. | Activate to randomize the strength of an oddity's stats, between 1 and the current strength + 3. 45 minute cooldown. 
 | Human | Diverse Culture | Sol Fed conquering the stars led to almost every human having diverse knowledge of different languages. | Activate this perk to learn another language. Stacks with Linguist.
-| Human | Inspiring Battlecry | Activate to give allies nearby that can hear you +10 Tgh, Rob, and Vig for 2 minutes. 30 minute cooldown. 
+| Human | Inspiring Battlecry | Life has taught you that beyond sheer force of will, what made your kind conquer the stars was also a sense of camaraderie and cooperation among your battle brothers and sisters. Your heroic warcry can inspire yourself and others to better performance in combat. | Activate to give allies nearby that can hear you +10 Tgh, Rob, and Vig for 2 minutes. 30 minute cooldown. 
 | Human | Tenacity | Humans were always resilient, not letting anything or anyone to get in way of their goals. Due to this your body is way more adapted to anything thrown it's way letting you push onward for just a little bit longer than others. | You can take 20 more damage before entering hardcrit (being knocked unconscious by damage.)
 | Human | Will to Survive | Your determination to survive and push on takes precedent before your other instincs making you ignore some of your pain and letting your body recover faster. | Activate to inject yourself with 5 units of Adrenol, an otherwise-unobtainable chemical. This provides a good painkiller and heals a decent amount of most damage types. 10 minute cooldown. 
 | Kriosan | Enhance Senses | You're a predator at heart and have the senses to match, for a short time your body toughens and your aim improves drastically as your senses enhance. | Activate to inject yourself with 5 units of Kriotol, an otherwise-unobtainable chemical that grants you +10 Tgh and +20 Vig, grants enhanced vision in the dark, quickens your pulse, and quickens your movement speed slightly for a few minutes. 15 minute cooldown. 
@@ -73,10 +73,10 @@ These perks are granted to you based on your species. A table of them is listed 
 | Opifex | Smuggled Patchkit | Every opifex carries their own personal IFAK stashed somewhere. Being practical is the best option, after all, and the colony is a dangerous place. | Provides you with a ifrst aid kit containing a hypospray and medical supplies. 12 hour cooldown, so it is usually only usable once per round. 
 | Opifex | Smuggled Tools | You retrieve your custom made quality tools hidden on your person somewhere, along with the opifex-made black webbing vest that holds them. As every opifex is told, never go anywhere without your kit. This kit is also yours alone and a specialized suite of tools, unless you're upgrading to new tools you should not ever sell or give these away. | Provides you a toolbelt full of advanced tools and wire, as well as a knife. 12 hour cooldown, so it is usually only usable once per round.  
 | Sablekyne | Last Stand | As a sablekyne your body is a tank, through will and biology you can ignore pain entirely for a short amount of time. | Activate this perk to inject yourself with 10 units of Sabledone, an otherwise-unobtainable chemical that works as an incredibly strong painkiller and heals stun/pain damage. 15 minute cooldown. 
-| Sablekyne | Bone Plated | All sablekyne are covered in bone-like plating across various parts of the body, this layer of natural armor along the shins, thighs, fore-arms, and shoulders allow you to absorb impacts better than anyone, adding a further tolerance to pain. | 
+| Sablekyne | Bone Plated | All sablekyne are covered in bone-like plating across various parts of the body, this layer of natural armor along the shins, thighs, fore-arms, and shoulders allow you to absorb impacts better than anyone, adding a further tolerance to pain. | Currently has no mechanic impact (Aug 27, 2024.)
 | Sablekyne | Brawny Build | All sablekyne are stocky and built wide, your brawny build and low center of gravity gives you exceptional balance. Few beasts can knock you down and not even the strongest men can push you over. | Makes you unable to be knocked over or pushed over by mobs or players. Cannot be pushed past. 
-| Sablekyne (Maunkyne) | Chem Addict | You've been an addict all your life, for whatever piss poor reason you've told yourself. Your body is able to handle a variety of drugs, more than the average person, but you get easily addicted to all of them. | You are twice as likely to become addicted to chemicals and drugs, but you gain +20 NSA. 
-| Sablekyne | 
+| Sablekyne | Chem Addict | You've been an addict all your life, for whatever piss poor reason you've told yourself. Your body is able to handle a variety of drugs, more than the average person, but you get easily addicted to all of them. | You are twice as likely to become addicted to chemicals and drugs, but you gain +20 NSA. 
+
 
 ## Background Perks
 
