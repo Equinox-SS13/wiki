@@ -2,7 +2,7 @@
 title: List of Perks
 description: Abilities, education, knowledge, and extraordinary talents.
 published: true
-date: 2024-08-27T21:31:58.213Z
+date: 2024-08-27T21:32:59.071Z
 tags: guide, work in progress, starter guide
 editor: markdown
 dateCreated: 2024-08-23T16:12:37.602Z
@@ -30,8 +30,9 @@ There are two times in character creation where you can choose your perks. The f
 ## Species Perks
 
 These perks are granted to you based on your species. A table of them is listed below. Not every species perk is applied to every member of a species. Your species-specific background will apply one of three options depending on the background you select. See the [species page]() for more information.
-<detail>
+<details>
   <summary>
+    
     Species Perk and Description Table
     
   </summary>
@@ -82,7 +83,7 @@ These perks are granted to you based on your species. A table of them is listed 
 | Sablekyne | Brawny Build | All sablekyne are stocky and built wide, your brawny build and low center of gravity gives you exceptional balance. Few beasts can knock you down and not even the strongest men can push you over. | Makes you unable to be knocked over or pushed over by mobs or players. Cannot be pushed past. 
 | Sablekyne | Chem Addict | You've been an addict all your life, for whatever piss poor reason you've told yourself. Your body is able to handle a variety of drugs, more than the average person, but you get easily addicted to all of them. | You are twice as likely to become addicted to chemicals and drugs, but you gain +20 NSA. 
 
- </detail>
+ </details>
 
 ## Background Perks
 
