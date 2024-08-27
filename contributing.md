@@ -2,8 +2,8 @@
 title: Guide to Contributing
 description: How to contribute to this wiki.
 published: true
-date: 2024-08-13T07:42:20.747Z
-tags: guide
+date: 2024-08-27T09:28:20.478Z
+tags: wiki contribution
 editor: markdown
 dateCreated: 2024-08-10T19:34:56.088Z
 ---
@@ -44,24 +44,3 @@ Should you at any point wish to move a page to a different path, it is possible 
 
 ### Deleting Pages
 Deleting pages can be done with the page actions modal.
-
----
-
-## Wiki Etiquette and Guidelines
-The following are general etiquettes and guidelines that editors should follow to keep the content consistent and easy to read. This is not an enforced rule, but should be considered as much as possible.
-
-### General Etiquette
-- Follow the server rules and common sense, even if outside of the server.
-  + Page vandalism is not allowed, this includes any addition, removal, or modification that intentionally misrepresent or disruptive in any ways.
-  + Edit wars, spite edit, or bahavior of the similar kind is not to be tolerated.
-- This wiki uses proper American English spelling. Although using British English spelling is fine, do not make edits to correct American English spelling to British English spelling.
-- After performing a major edit, a comment should be stated on discord as to what you did. This allows better communication between the maintainers and contributors.
-- Any edits to lore should be notified to the lore team on discord first. SoP and Law pages are not to be touched without permission.
-
-### General Guidelines
-- It is very important to stay on topic, do not divert from the title. If explanation for something is needed, link to a new article/page.
-- If a page is unfinished, or otherwise work-in-progress, use the function to keep the page unpublished until it is ready.
-- Capitalize special names, proper nounds, or unique places.
-- If a page within the same subcategory (such as species, faction detail, etc.) exists, try to replicate the same base formatting and section topics.
-- Refrain from using existing character's names, real life references, or making random jokes.
-- Refrain from using strikethrough, random bolding, scaled up text, or otherwise random formatting.
