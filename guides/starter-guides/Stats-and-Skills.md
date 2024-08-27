@@ -2,8 +2,8 @@
 title: Stats and Skills
 description: The ability of your character to perform.
 published: false
-date: 2024-08-23T17:44:56.620Z
-tags: guide, starter guide, stats and skills
+date: 2024-08-27T09:22:03.566Z
+tags: guide, starter guide
 editor: markdown
 dateCreated: 2024-08-23T16:45:35.517Z
 ---
