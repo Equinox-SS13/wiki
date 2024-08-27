@@ -2,8 +2,8 @@
 title: Guide to Chemistry
 description: Reagents galore!
 published: true
-date: 2024-08-27T09:23:25.886Z
-tags: guide, medical guide, recipe
+date: 2024-08-27T09:24:54.785Z
+tags: medical, guide, medical guide, recipe
 editor: markdown
 dateCreated: 2024-08-21T22:00:28.753Z
 ---
