@@ -2,8 +2,8 @@
 title: Oddities
 description: Gaining Perks and Targeted Stat Gain
 published: true
-date: 2024-08-23T17:04:38.197Z
-tags: guide, other guide, sanity, oddities
+date: 2024-08-27T09:25:11.820Z
+tags: guide, other guide
 editor: markdown
 dateCreated: 2024-08-23T16:09:10.483Z
 ---
