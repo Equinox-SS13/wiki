@@ -2,8 +2,8 @@
 title: List of Perks
 description: Abilities, education, knowledge, and extraordinary talents.
 published: true
-date: 2024-08-27T09:15:56.649Z
-tags: guide, starter guide, perks
+date: 2024-08-27T09:25:32.486Z
+tags: guide, starter guide
 editor: markdown
 dateCreated: 2024-08-23T16:12:37.602Z
 ---
