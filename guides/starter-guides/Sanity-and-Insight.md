@@ -2,8 +2,8 @@
 title: Sanity and Insight
 description: Sanity, Insight, Drugs, and Cheese
 published: true
-date: 2024-08-23T16:25:37.956Z
-tags: guide, starter guide, sanity, insight
+date: 2024-08-27T09:20:27.860Z
+tags: guides, starter guides
 editor: markdown
 dateCreated: 2024-08-22T18:09:21.289Z
 ---
