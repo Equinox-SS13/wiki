@@ -2,7 +2,7 @@
 title: List of Perks
 description: Abilities, education, knowledge, and extraordinary talents.
 published: true
-date: 2024-08-27T21:03:20.297Z
+date: 2024-08-27T21:30:46.190Z
 tags: guide, work in progress, starter guide
 editor: markdown
 dateCreated: 2024-08-23T16:12:37.602Z
@@ -16,7 +16,7 @@ There are two times in character creation where you can choose your perks. The f
 
 ## Career Perks 
 | Name | Description | Effect
-|:-----|:------|:-------
+|:-----|:------|:-------|:-------
 | Chemical Contraband | For reasons either fair or foul, you know how to easily identify certain kinds of illegal chemical contraband. | Allows you to see illegal reagents easly in containers, such as drugs, stimulants, etc.
 | Fast Fingers | Nothing is safe around your hands. You are a true kleptomaniac. Taking items off others makes no sound or prompts, provided its in their pockets, hands, or their ears. It's also quicker and you can slip pills into drinks unnoticed. | Allows you to take items out of peoples' hands, ear slots, and pockets without broadcasting it to chat.
 | Lungs of Iron | You need less oxygen to survive. | You only take half as much damage from low oxygen (oxyloss.)
