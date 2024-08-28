@@ -2,8 +2,8 @@
 title: Stats and Skills
 description: Skill, knowledge, wisdom, and strength
 published: true
-date: 2024-08-28T10:32:12.404Z
-tags: guide, starter guide, maintenance: needs revision
+date: 2024-08-28T12:23:34.646Z
+tags: guide, starter guide, wiki: needs revision
 editor: markdown
 dateCreated: 2024-08-23T16:45:35.517Z
 ---
