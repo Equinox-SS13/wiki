@@ -2,8 +2,8 @@
 title: Stats and Skills
 description: Skill, knowledge, wisdom, and strength
 published: true
-date: 2024-08-28T10:29:55.824Z
-tags: guide, starter guide
+date: 2024-08-28T10:31:17.232Z
+tags: guide, starter guide, maintenance: needs revision
 editor: markdown
 dateCreated: 2024-08-23T16:45:35.517Z
 ---
@@ -32,7 +32,7 @@ Within the game, stats and skills are portrayed with more nebulous language with
 
 Additionally, the default max stat level is `150` or `Grand Mastery`, but can be raised further with certain perks.
 
-|.|.|.|.|
+| | | | |
 | - | - | - | - |
 | Higher Understanding | > 200 | - | - |
 | Theoretical Understanding | > 150 | Basic | > 15 |
@@ -41,7 +41,7 @@ Additionally, the default max stat level is `150` or `Grand Mastery`, but can be
 | Mastery | > 80 | Inept | < -15
 | Proficient | > 60 | Incompetent | < -20
 | Expert | > 40 | Blundering | < -50
-| Adept | > 25 | Hopeless | <-100 {.no-table-head}
+| Adept | > 25 | Hopeless | <-100 
 
 
 # Stat
@@ -49,6 +49,7 @@ Each stat is used for different things. The uses for each stat, both generally a
 
 ## Mechanical (MEC)
 All things mechanical, building, and fixing.
+| | |
 | - | - | 
 | Mechanical Work | Boost quality and success chance of work requiring a tool, such as wrenching, screwdriving, etc. Additionally makes the tools last longer.
 | Construction | Boosts the chance of success and speed of repairs, disassembling, and construction.
@@ -56,7 +57,7 @@ All things mechanical, building, and fixing.
 | Tinkering | Boosts the chance of success and speed of modifying and removing modifications and augmentations from tools and guns.
 | Machinery | Allows operating specific mechanical machinery like the Matter NanoForge, Bullet Fabricator, and Exosuit Fabricator. 
 | Robot and Mech | Maintaining, crafting, repairing, and operating on robots and mechs.
-| Prosthetic Repairs | Boosts the chance of success and speed of prosthetic repairs and surgery {.no-table-head}
+| Prosthetic Repairs | Boosts the chance of success and speed of prosthetic repairs and surgery 
 
 ### Other Notes
 * At high enough level, allows identifying what each wire does on a given machine or airlock.
@@ -67,6 +68,7 @@ All things mechanical, building, and fixing.
 
 ## Cognition (COG)
 Everything technological and smart, or practical and general.
+| | |
 | - | - | 
 | Computing Devices | Allows reparing, hacking, and operating computing devices and their programs, this also includes some specific consoles like the DNA modifier console, R&D console, or various science tools.
 | Medical Equipment | Allows using medical machines and equipment such as the chemical dispensers, body scanner, health scanner, syringes, etc. if lacking in `BIO`
@@ -76,7 +78,7 @@ Everything technological and smart, or practical and general.
 | Genetics | Allows the use of Xenogenetics machines like the Xenofauna Genetics Pulper. At higher level allows the use of Vat Control Console, Belvoix Genetic Analyzer, and Belvoix Xenofauna Cloning Vat in place of `BIO`
 | [Psionics](/guides/other-guides/Psionics) | If you are a Psion, it increases your maximum Psi Points and your Cognitive Potential (Psi points regeneration)
 | Calibration | Success chance on tinkering with grenades to change timer, calibration of hand-teleporter, and even using Bluespace Harpoon. 
-| Tripping | Reducing your chance of tripping on underplating if running (`VIG` also helps with this). {.no-table-head}
+| Tripping | Reducing your chance of tripping on underplating if running (`VIG` also helps with this). 
 
 ### Other Notes
 * Speeds up the process of collecting spider silk using a silk weaver.
@@ -89,6 +91,7 @@ Everything technological and smart, or practical and general.
 
 ## Biology (BIO)
 Knowledge of the body and its inner workings.
+| | |
 | - | - | 
 | Medical Equipment | Allows using medical machines and equipment such as the chemical dispensers, body scanner, health scanner, syringes, etc. 
 | Surgery | Increases success chance and speed of surgery, also allows certain types of special surgery such as reconstructive or tissue repair.
@@ -97,7 +100,7 @@ Knowledge of the body and its inner workings.
 | Treatment Skill | Reduces the chance of consuming a stack of gauze, ointment, or advanced kits when patching wounds. Also reduce pain caused by performing certain treatments.
 | Chemical Training | Allows detection of reagents in any given container.
 | Butchering | The speed and success chance of butchering a corpse, or cutting up pieces of meat from a creature hanging on a butchering rack.
-| Genetics | Allows the use of Xenogenetics machines like the Xenofauna Genetics Pulper. At higher level allows the use of Vat Control Console, Belvoix Genetic Analyzer, and Belvoix Xenofauna Cloning Vat in place of `COG`. {.no-table-head}
+| Genetics | Allows the use of Xenogenetics machines like the Xenofauna Genetics Pulper. At higher level allows the use of Vat Control Console, Belvoix Genetic Analyzer, and Belvoix Xenofauna Cloning Vat in place of `COG`.
 
 ### Other Notes
 * Increasing the amount of damage healed through the tissue restoration surgical step per use of trauma kit / burn kit.
@@ -107,11 +110,12 @@ Knowledge of the body and its inner workings.
 
 ## Robustness (ROB)
 Any disciple of martial-arts knows how to defend themselves, by hand or with a toolbox.
+| | |
 | - | - |
 | Melee Combat | Increase unarmed melee damage, damage caused by melee weapon including [Psionic](/guides/other-guides/Psionics) melee attacks. Reduce chance to "lose" or embed sharp weapon into the target.
 | Close Quarter | Increase damage caused by [martial art](/guides/other-guides/Martial-Art). Allow for a better disarm and grab skill while increasing the ability to resist out of grabs.
 | Physical Work | Improve speed of any task related prying, hammering, wrenching, and digging; whether by tool or by hand.
-| Heavy Weapon | Improves handling for extremely heavy weapons such as minigun, rocket launcher, and rocket hammer. {.no-table-head} 
+| Heavy Weapon | Improves handling for extremely heavy weapons such as minigun, rocket launcher, and rocket hammer. 
 
 ### Other Notes
 * Allows more metal sheets to be regained from prying them off of airlocks, additionally allow removal of plating using bare hands.
@@ -121,20 +125,22 @@ Any disciple of martial-arts knows how to defend themselves, by hand or with a t
 
 ## Toughness (TGH)
 Your ability to withstand pain and damage.
+| | |
 | - | - |
 | Pain Tolerance | Reduces chance to stumble and fall over when receiving pain or damage from any sources.
 | Blocking | Increase the possiblity of blocking attacks using shields or other weapons with less durability damage applied to the shield.
 | Chem Handling | Reduces addiction chance and lower the knockout of certain chemicals. Additionally lets you handle alcohol better.
 | Manual Labor | Lets you use the manual recharger or manual centrifuge faster.
-| Enduring | [Post Revival Sickness]() affects you less the more `TGH` you have, lowering statloss overall. {.no-table-head}
+| Enduring | [Post Revival Sickness]() affects you less the more `TGH` you have, lowering statloss overall. 
 
 ## Vigilance (VIG)
 Those that possess a keen eye with a gun and nerves of steel to overcome anything.
+| | |
 | - | - |
 | Gun Handling | Allows for more accurate shots, reducing recoil, and increasing damage to the target by hitting precise areas.
 | Dexterity | Increase the speed of climbing over things and avoid tripping.
 | Keen Eye | Helps you identify bloody/oily footsteps and avoid stepping on traps.
-| Strong Will | The more `VIG` you have, the less [sanity](/guides/starter-guides/Sanity-and-Insight#sanity) you lose and more [Insight](/guides/starter-guides/Sanity-and-Insight#insight) gain overall, additionally screaming attacks will affects you less. {.no-table-head}
+| Strong Will | The more `VIG` you have, the less [sanity](/guides/starter-guides/Sanity-and-Insight#sanity) you lose and more [Insight](/guides/starter-guides/Sanity-and-Insight#insight) gain overall, additionally screaming attacks will affects you less. 
 
 # Extra Stats
 
