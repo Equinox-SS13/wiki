@@ -2,8 +2,8 @@
 title: Oddities
 description: Gaining Perks and Targeted Stat Gain
 published: true
-date: 2024-08-27T09:25:11.820Z
-tags: guide, other guide
+date: 2024-08-28T12:35:31.258Z
+tags: guide, other guide, wiki: stub
 editor: markdown
 dateCreated: 2024-08-23T16:09:10.483Z
 ---
@@ -74,5 +74,6 @@ Certain oddities belong to a faction and convey significant meaning to each of t
 
 
 ## Artists Oddities
-
+> [**Stub**](/maintenance/Templates#stub): This article or section is **incomplete** and require more write up or expansion on the content.
+{.is-danger}
 
