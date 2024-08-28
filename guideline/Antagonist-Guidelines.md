@@ -2,13 +2,13 @@
 title: Antagonist Guidelines
 description: General guidelines for playing antagonists on Equinox.
 published: true
-date: 2024-08-28T10:14:11.592Z
-tags: antagonist, rules and guidelines
+date: 2024-08-28T11:50:56.900Z
+tags: antagonist, rules and guidelines, maintenance: needs revision
 editor: markdown
 dateCreated: 2024-08-14T05:25:50.375Z
 ---
 
-> **Needs Revision**: This article may be **outdated or incorrect**, once verified this tag should be removed or replaced with relevant [tags](/maintenance/Template#maintenance-template).
+> [**Needs Revision**](/maintenance/Template#needs-revision): This article or section may be **outdated or incorrect**, once verified this tag should be removed or replaced with relevant [tags](/maintenance/Template#maintenance-template).
 {.is-info}
 
 # About Antagonists
