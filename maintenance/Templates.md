@@ -2,7 +2,7 @@
 title: Wiki Templates
 description: 
 published: true
-date: 2024-08-28T12:20:52.627Z
+date: 2024-08-28T12:23:09.088Z
 tags: wiki contribution
 editor: markdown
 dateCreated: 2024-08-28T12:20:52.627Z
@@ -57,7 +57,7 @@ The following information box is to be used;
 ## Unused
 The category `lore: Unused` is used to mark lore article or sections that are **not canonical**, **unused**, or completely **irrelevent** to the game server.
 
-This is not to be used with pages outlining mechanics, the category [`maintenance: outdated`](/maintenance/Templates#outdated) alongside the reasoning should be applied instead.
+This is not to be used with pages outlining mechanics, the category [`wiki: outdated`](/maintenance/Templates#outdated) alongside the reasoning should be applied instead.
 
 
 > [**Unused Content**](/maintenance/Template#unused): This article or section is considered **non-canonical** and **unused**.
@@ -75,11 +75,11 @@ Maintenance templates are used to mark and organize pages that are incorrect, ou
 
 
 ## Needs Revision
-The category `maintenance: needs revision` is used to mark an article or section that may be incomplete, incorrect, or potentially out-of-date information for review. 
+The category `wiki: needs revision` is used to mark an article or section that may be incomplete, incorrect, or potentially out-of-date information for review. 
 
 For game mechanic articles this means accuracy to the code. For lore articles this means relevancy determined by the lore team.
 * If verified **up to date and relevant**, the category and info box should be removed.
-* If verified **out of date or incorrect**, the category [`maintenance: outdated`](/maintenance/Templates#outdated) and info box alongside reasoning should be assigned.
+* If verified **out of date or incorrect**, the category [`wiki: outdated`](/maintenance/Templates#outdated) and info box alongside reasoning should be assigned.
 * If verified **irrelevant or not current** for lore articles, the following relevant [lore category](/maintenance/Templates#lore-template) and info box should be assigned.
 
 ---
@@ -93,8 +93,8 @@ For game mechanic articles this means accuracy to the code. For lore articles th
 ```
 
 ## Work in Progress
-The category `maintenance: work in progress` is used to mark an article as unfinished or incomplete but is **being worked on actively** by a user which should be specified.
-* If for some reason, the user is no longer working on the article and the article is still incomplete, the category [`maintenance: outdated`](/maintenance/Templates#outdated) or [`maintenance: stub`](/maintenance/Templates#stub) should be used instead.
+The category `wiki: work in progress` is used to mark an article as unfinished or incomplete but is **being worked on actively** by a user which should be specified.
+* If for some reason, the user is no longer working on the article and the article is still incomplete, the category [`wiki: outdated`](/maintenance/Templates#outdated) or [`wiki: stub`](/maintenance/Templates#stub) should be used instead.
 
 ---
 
@@ -107,7 +107,7 @@ The category `maintenance: work in progress` is used to mark an article as unfin
 ```
 
 ## Outdated
-The category `maintenance: outdated` is used to mark an article as **out-of-dated**, **incomplete**, or **not in game**. Alongside the info box and category tag, a reason should be provided on how it is outdated, incomplete, or not currently in the game.
+The category `wiki: outdated` is used to mark an article as **out-of-dated**, **incomplete**, or **not in game**. Alongside the info box and category tag, a reason should be provided on how it is outdated, incomplete, or not currently in the game.
 
 ---
 
@@ -120,10 +120,10 @@ The category `maintenance: outdated` is used to mark an article as **out-of-date
 ```
 
 ## Stub
-The category `maintenance: stub` is used to mark an article that has lacks a majority of the content (including those that has been created and/or linked, but no content has been written). A reason may be provided.
+The category `wiki: stub` is used to mark an article that has lacks a majority of the content (including those that has been created and/or linked, but no content has been written). A reason may be provided.
 * This may be an informal request for an article or section on an information to be created. 
   * Some examples may include writing a section of a mechanic that is linked to another page, but the full section of the mechanic has not been written up yet, or the aformentioned pages that are not currently worked on.
-* If someone has explicitly stated that they're taking on the creation, the category [`maintenance: work in progress`](/maintenance/Templates#work-in-progress) should be used instead (self assignee welcome!).
+* If someone has explicitly stated that they're taking on the creation, the category [`wiki: work in progress`](/maintenance/Templates#work-in-progress) should be used instead (self assignee welcome!).
 
 ---
 
@@ -136,7 +136,7 @@ The category `maintenance: stub` is used to mark an article that has lacks a maj
 ```
 
 ## Broken Page/File
-This category `maintenance: broken page/file` is used to mark a page that may have broken page formatting, broken images, or broken links. No info box is necesssary.
+This category `wiki: broken page/file` is used to mark a page that may have broken page formatting, broken images, or broken links. No info box is necesssary.
 
 ---
 
