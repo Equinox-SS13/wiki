@@ -2,8 +2,8 @@
 title: Wiki Templates
 description: 
 published: true
-date: 2024-08-28T12:30:20.098Z
-tags: wiki contribution
+date: 2024-08-28T12:31:51.224Z
+tags: wiki contribution, locked
 editor: markdown
 dateCreated: 2024-08-28T12:20:52.627Z
 ---
