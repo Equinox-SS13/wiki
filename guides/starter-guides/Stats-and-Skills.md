@@ -2,7 +2,7 @@
 title: Stats and Skills
 description: Skill, knowledge, wisdom, and strength
 published: true
-date: 2024-08-28T10:09:47.396Z
+date: 2024-08-28T10:29:55.824Z
 tags: guide, starter guide
 editor: markdown
 dateCreated: 2024-08-23T16:45:35.517Z
@@ -32,10 +32,10 @@ Within the game, stats and skills are portrayed with more nebulous language with
 
 Additionally, the default max stat level is `150` or `Grand Mastery`, but can be raised further with certain perks.
 
-
-| - | - | - | - 
-| Higher Understanding | > 200 | - | - 
-| Theoretical Understanding | > 150 | Basic | > 15
+|.|.|.|.|
+| - | - | - | - |
+| Higher Understanding | > 200 | - | - |
+| Theoretical Understanding | > 150 | Basic | > 15 |
 | Grand Mastery | > 120 | Untrained | > 7
 | Skill Mastery | > 100 | Misinformed | < -1
 | Mastery | > 80 | Inept | < -15
