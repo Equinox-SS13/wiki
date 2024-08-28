@@ -2,13 +2,13 @@
 title: Guide to Surgery
 description: All about becoming a master surgeon.
 published: true
-date: 2024-08-28T12:25:40.737Z
+date: 2024-08-28T12:25:50.495Z
 tags: medical, guide, medical guide, wiki: stub
 editor: markdown
 dateCreated: 2024-08-13T10:44:34.104Z
 ---
 
-> [**Stub**](/maintenance/Templates#stub): This article or section is **incomplete** and require more write up or expansion on the content. **Reason**: `reasonhere`
+> [**Stub**](/maintenance/Templates#stub): This article or section is **incomplete** and require more write up or expansion on the content. **Reason**:
 {.is-danger}
 
 # Basics of Surgery
