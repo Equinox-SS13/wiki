@@ -2,7 +2,7 @@
 title: Wiki Templates
 description: 
 published: true
-date: 2024-08-28T12:23:09.088Z
+date: 2024-08-28T12:30:20.098Z
 tags: wiki contribution
 editor: markdown
 dateCreated: 2024-08-28T12:20:52.627Z
@@ -31,11 +31,11 @@ An information box is not required for pages marked as canonical. If for any rea
 
 ---
 
-> [**Canonical**](/maintenance/Template#canonical): This section is considered **canonical**, **current**, and **in-use**.
+> [**Canonical**](/maintenance/Templates#canonical): This section is considered **canonical**, **current**, and **in-use**.
 > {.is-success}
 
 ```
-> [**Canonical**](/maintenance/Template#canonical): This section is considered **canonical**, **current**, and **in-use**.
+> [**Canonical**](/maintenance/Templates#canonical): This section is considered **canonical**, **current**, and **in-use**.
 > {.is-success}
 ```
 
@@ -46,11 +46,11 @@ The following information box is to be used;
 
 ---
 
-> [**Planned Content**](/maintenance/Template#planned): This article or section is considered **planned**, **unfinished**, and/or **not yet released** for use.
+> [**Planned Content**](/maintenance/Templates#planned): This article or section is considered **planned**, **unfinished**, and/or **not yet released** for use.
 {.is-info}
 
 ```
-> [**Planned Content**](/maintenance/Template#planned): This article or section is considered **planned**, **unfinished**, and/or **not yet released** for use.
+> [**Planned Content**](/maintenance/Templates#planned): This article or section is considered **planned**, **unfinished**, and/or **not yet released** for use.
 {.is-info}
 ```
 
@@ -60,11 +60,11 @@ The category `lore: Unused` is used to mark lore article or sections that are **
 This is not to be used with pages outlining mechanics, the category [`wiki: outdated`](/maintenance/Templates#outdated) alongside the reasoning should be applied instead.
 
 
-> [**Unused Content**](/maintenance/Template#unused): This article or section is considered **non-canonical** and **unused**.
+> [**Unused Content**](/maintenance/Templates#unused): This article or section is considered **non-canonical** and **unused**.
 {.is-danger}
 
 ```
-> [**Unused Content**](/maintenance/Template#unused): This article or section is considered **non-canonical** and **unused**.
+> [**Unused Content**](/maintenance/Templates#unused): This article or section is considered **non-canonical** and **unused**.
 {.is-danger}
 ```
 
@@ -84,11 +84,11 @@ For game mechanic articles this means accuracy to the code. For lore articles th
 
 ---
 
-> [**Needs Revision**](/maintenance/Template#needs-revision): This article or section may be **outdated or incorrect**, once verified this tag should be removed or replaced with relevant [tags](/maintenance/Template#maintenance-template).
+> [**Needs Revision**](/maintenance/Templates#needs-revision): This article or section may be **outdated or incorrect**, once verified this tag should be removed or replaced with relevant [tags](/maintenance/Templates#maintenance-template).
 {.is-info}
 
 ```
-> [**Needs Revision**](/maintenance/Template#needs-revision): This article or section may be **outdated or incorrect**, once verified this tag should be removed or replaced with relevant [tags](/maintenance/Template#maintenance-template).
+> [**Needs Revision**](/maintenance/Templates#needs-revision): This article or section may be **outdated or incorrect**, once verified this tag should be removed or replaced with relevant [tags](/maintenance/Templates#maintenance-template).
 {.is-info}
 ```
 
