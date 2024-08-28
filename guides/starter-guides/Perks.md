@@ -2,11 +2,14 @@
 title: List of Perks
 description: Abilities, education, knowledge, and extraordinary talents.
 published: true
-date: 2024-08-27T21:32:59.071Z
-tags: guide, work in progress, starter guide
+date: 2024-08-28T12:27:19.072Z
+tags: guide, starter guide, wiki: work in progress
 editor: markdown
 dateCreated: 2024-08-23T16:12:37.602Z
 ---
+
+> [**Work in Progress**](/maintenance/Templates#work-in-progress): This article is **incomplete** and is being **actively worked on** by user: `@sigmasquad`
+{.is-warning}
 
 # Perks
 Perks are abilities granted to your character. They are acquired through a variety of methods, including through [Character Creation](/guides/starter-guides/Character-Creation), through [Oddities](/guides/starter-guides/Oddities), and through your [job](jobs main page). Some perks are passive, either activating on a condition or timer or being always active, and some are active, activating only when you tell them to. 
