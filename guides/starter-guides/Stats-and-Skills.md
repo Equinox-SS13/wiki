@@ -2,13 +2,13 @@
 title: Stats and Skills
 description: Skill, knowledge, wisdom, and strength
 published: true
-date: 2024-08-28T10:31:17.232Z
+date: 2024-08-28T10:32:12.404Z
 tags: guide, starter guide, maintenance: needs revision
 editor: markdown
 dateCreated: 2024-08-23T16:45:35.517Z
 ---
 
-> **Needs Revision**: This article may be **outdated or incorrect**, once verified this tag should be removed or replaced with relevant [tags](/maintenance/Template#maintenance-template).
+> [**Needs Revision**](/maintenance/Template#needs-revision): This article may be **outdated or incorrect**, once verified this tag should be removed or replaced with relevant [tags](/maintenance/Template#maintenance-template).
 {.is-info}
 
 # Overview
