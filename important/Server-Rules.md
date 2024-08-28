@@ -2,14 +2,14 @@
 title: Server Rules
 description: The Rules for Equinox Space Station 13 Server
 published: true
-date: 2024-08-28T10:28:18.201Z
+date: 2024-08-28T10:29:31.164Z
 tags: rules and guidelines
 editor: markdown
 dateCreated: 2024-08-28T10:28:18.201Z
 ---
 
 > It is most important to note that **the rules written on our Discord takes priority over this article**, as articles may not always be up to date with our Discord dealings.
-{.is-danger}
+{.is-warning}
 
 ## Server Rules
 These are rules applied to the game server.
