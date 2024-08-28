@@ -2,15 +2,14 @@
 title: Guide to Chemistry
 description: Reagents galore!
 published: true
-date: 2024-08-27T09:24:54.785Z
-tags: medical, guide, medical guide, recipe
+date: 2024-08-28T12:33:48.708Z
+tags: medical, guide, medical guide, recipe, wiki: work in progress
 editor: markdown
 dateCreated: 2024-08-21T22:00:28.753Z
 ---
 
-> This page is currently under development.
+> [**Work in Progress**](/maintenance/Templates#work-in-progress): This article is **incomplete** and is being **actively worked on** by user: `@awesome4real`
 {.is-warning}
-
 
 # Guide to Chemistry
 So you want to synthisize some medicines? Well, you have come to the right place.
