@@ -2,8 +2,8 @@
 title: Server Rules
 description: The Rules for Equinox Space Station 13 Server
 published: true
-date: 2024-08-28T10:29:31.164Z
-tags: rules and guidelines
+date: 2024-08-28T12:28:01.884Z
+tags: rules and guidelines, locked
 editor: markdown
 dateCreated: 2024-08-28T10:28:18.201Z
 ---
