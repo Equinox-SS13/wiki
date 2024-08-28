@@ -2,7 +2,7 @@
 title: Guide to Combat
 description: To survive on a harsh, cold universe, certain application of force must be utilized.
 published: false
-date: 2024-08-28T12:57:49.825Z
+date: 2024-08-28T15:46:40.090Z
 tags: guide, starter guide, wiki: work in progress
 editor: markdown
 dateCreated: 2024-08-28T12:54:57.098Z
