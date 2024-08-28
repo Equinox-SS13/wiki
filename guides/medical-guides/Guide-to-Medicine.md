@@ -2,15 +2,17 @@
 title: Guide to Medicine
 description: All you need to start out as a doctor or field medic.
 published: true
-date: 2024-08-28T11:47:08.383Z
-tags: medical, guide, medical guide, work in progress, locked
+date: 2024-08-28T12:24:52.517Z
+tags: medical, guide, medical guide, wiki: work in progress
 editor: markdown
 dateCreated: 2024-08-12T07:53:01.066Z
 ---
 
-This is where you'll start learning about the current medical system used on Equinox. The code uses a modified Erismed4 with various new medicines and systems to tackle.
-> The content of this page is subjected to change as development is currently in the work.
+> [**Work in Progress**](/maintenance/Templates#work-in-progress): This article is **incomplete** and is being **actively worked on** by user: `@emilitiaennehrt`
 {.is-warning}
+
+This is where you'll start learning about the current medical system used on Equinox. The code uses a modified Erismed4 with various new medicines and systems to tackle.
+
 
 # Basic Damage Types
 It is first and foremost importnat to note that anyone can be stabilized no matter their condition, this is ultimately up to the equipment at hand and the knowledge that you have. Do not beat yourself up over mistakes trying to learn the game!
