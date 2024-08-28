@@ -2,20 +2,19 @@
 title: Antagonist Guidelines
 description: General guidelines for playing antagonists on Equinox.
 published: true
-date: 2024-08-27T09:18:18.542Z
-tags: rules and guidelines
+date: 2024-08-28T10:14:11.592Z
+tags: antagonist, rules and guidelines
 editor: markdown
 dateCreated: 2024-08-14T05:25:50.375Z
 ---
 
-> This article is ported from the old [Occulus Antagonist Guidelines](https://github.com/Occulus-Server/Occulus-Eris/wiki/Antagonist-Guidelines) and has been modified.
+> **Needs Revision**: This article may be **outdated or incorrect**, once verified this tag should be removed or replaced with relevant [tags](/maintenance/Template#maintenance-template).
 {.is-info}
 
-> This article requires a revision or a partial rewrite by a lore member.
-{.is-warning}
+# About Antagonists
 
-
-Antagonist is one of the hardest, most problematic, and absolutely most rewarding roles to play in this game. By taking up the mantle, you are taking responsibility for the round as well as doing your best to entertain up to thirty other people in a wild, unpredictable, chaotic mess of a game.
+Antagonist is one of the hardest, most problematic, and absolutely most rewarding roles to play in this game. 
+* By taking up the mantle, you are taking responsibility for the round as well as doing your best to entertain up to thirty other people in a wild, unpredictable, chaotic mess of a game.
 
 It's a difficult, but rewarding role. Good antagonists are lauded as people who make the whole game worth playing, while bad ones generate salt and make people want to leave.
 
@@ -65,12 +64,12 @@ Experiment! Do different and interesting new things each time. Cry in despair as
 
 Due to the nature of the game, we have a few additional recommendations involving each type of antagonist.
 
-## Traitor
+## [Traitor]()
 > OOC note; unsure if this still exists functionally when it comes to uplink. Excelsiors, Voidwolves, and Daskvey should be a substitute. - Em
 
 Traitor is the simplest, and most flexible antagonist type. As the baseline there are very few special recommendations around it. That said, the traitor uplink on a PDA is not considered an IC thing. If you see it as a crewmember, simply close the program and ignore it.
 
-## Carrion
+## [Carrion]()
 > OOC note; exists in game, modified, unsure how it works now. - Em
 
 Carrions are not your character! They are a basketball-sized spider in the chest cavity of a person, puppeting the body's movements. While they may steal some traits from their host, ultimately they are not crwemembers nor do they have any reason whatsoever to care about the well-being of the crew.
@@ -82,7 +81,7 @@ Carrions are always hostile. They have killed a member of the crew to infiltrate
 Carrion spiders in the wild are known, visible, hostile wildlife and are free for anyone to destroy on sight. Mindboiler spiders in particular are considered a form of assault.
 * The Carrion when detached, is a clear monster and is fair game to destroy. The "Human" body of a carrion is considered safe to revive once the spider core is gone.
 
-## Occultist
+## [Occultist]()
 > OOC note; I do not believe this is in the game currently. - Em
 
 Occultists are members of the crew who have went insane and acquired strange powers. They are afforded all the protections of being members of the crew. When playing as an Occultist, keep in mind that your character is still themselves... just twisted.
@@ -94,7 +93,7 @@ Occultists should not be subtle. Your character is seeing things, hearing things
 
 Marshal is expected to play a light hand, unless an Occultist starts actively breaking regulations and hurting people. Remember: These are your friends and comrades
 
-## Mercenary
+## [Mercenary]()
 > OOC note; Functionally Sojourn's Outsider with any specific flavors you want, should change name since Outsiders are always available.. - Em
 
 Mercenaries are outside, generally hostile forces that have a vested interest in someone, or something, on the ship.
