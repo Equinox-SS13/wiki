@@ -2,7 +2,7 @@
 title: Wiki Templates
 description: 
 published: true
-date: 2024-08-28T12:31:51.224Z
+date: 2024-08-29T03:40:20.814Z
 tags: wiki contribution, locked
 editor: markdown
 dateCreated: 2024-08-28T12:20:52.627Z
@@ -135,8 +135,8 @@ The category `wiki: stub` is used to mark an article that has lacks a majority o
 {.is-danger}
 ```
 
-## Broken Page/File
-This category `wiki: broken page/file` is used to mark a page that may have broken page formatting, broken images, or broken links. No info box is necesssary.
+## Missing or Broken Page/File
+This category `wiki: broken page` and `wiki: missing files` are used to mark a page that may have broken page formatting, broken images, or broken links. No info box is necesssary.
 
 ---
 
