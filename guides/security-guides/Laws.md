@@ -2,13 +2,18 @@
 title: Law
 description: The rules you need to follow, or break.
 published: true
-date: 2024-08-21T01:29:42.591Z
-tags: guide, security guide, space law
+date: 2024-08-29T05:22:59.166Z
+tags: wiki: work in progress, locked, security, colony law, lore: planned content
 editor: markdown
 dateCreated: 2024-08-21T01:22:09.502Z
 ---
 
-#This page is a WORK IN PROGRESS. - SIGMA
+> [**Work in Progress**](/maintenance/Templates#work-in-progress): This article or section is **incomplete** and is being **actively worked on** by user: `@sigmasquad`
+{.is-warning}
+
+> [**Planned Content**](/maintenance/Templates#planned): This article or section is considered **planned**, **unfinished**, and/or **not yet released** for use.
+{.is-info}
+
 #TO ADD - privacy rights, disrespect for the dead, a section on blocking or obstruction of areas, sentence reducers/enhancers, and escaping at least.
 # Space Law
 
