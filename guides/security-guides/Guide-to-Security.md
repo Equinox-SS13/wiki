@@ -2,8 +2,8 @@
 title: Guide to Security
 description: Anti-Antagonist/Anti-Player Security Guide
 published: true
-date: 2024-08-29T05:25:52.875Z
-tags: guide, security guide, wiki: stub
+date: 2024-08-29T05:46:45.554Z
+tags: guide, security, security guide, wiki: stub
 editor: markdown
 dateCreated: 2024-08-18T22:18:12.725Z
 ---
