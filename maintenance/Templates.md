@@ -2,7 +2,7 @@
 title: Wiki Templates
 description: 
 published: true
-date: 2024-08-29T03:40:20.814Z
+date: 2024-08-29T03:47:33.506Z
 tags: wiki contribution, locked
 editor: markdown
 dateCreated: 2024-08-28T12:20:52.627Z
@@ -147,8 +147,16 @@ These template info box are not used alongside category, but used to signify pag
 > This article is ported directly from [Sojourn Wiki](https://sojourn13.space/wiki/).
 {.is-info}
 
+```
+> This article is ported directly from [Sojourn Wiki](https://sojourn13.space/wiki/).
+{.is-info}
+```
+
 ### [Eris Wiki](https://wiki.cev-eris.com/)
 > This article is ported directly from [Eris Wiki](https://wiki.cev-eris.com/).
 {.is-info}
 
-
+```
+> This article is ported directly from [Eris Wiki](https://wiki.cev-eris.com/).
+{.is-info}
+```
