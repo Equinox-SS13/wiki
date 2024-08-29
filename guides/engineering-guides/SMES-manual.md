@@ -2,8 +2,8 @@
 title: SMES and RCON Manual
 description: Operating and setting power distribution in the colony.
 published: true
-date: 2024-08-29T05:14:30.835Z
-tags: guide, engineering, engineering guide, wiki: needs revision, wiki: missing file, wiki: outdated
+date: 2024-08-29T10:12:17.569Z
+tags: guide, engineering guide, wiki: missing file, wiki: needs revision, wiki: outdated, engineering
 editor: markdown
 dateCreated: 2024-08-29T05:14:30.835Z
 ---
@@ -22,7 +22,7 @@ SMES units may be configured via interface which is opened by left-clicking with
 ![smes_gui.png](/smes_gui.png)
 
 ### Input
-Each SMES needs terminal to operate properly. This terminal allows you to charge the SMES from one power network, and output into another one. By using apropriate controls in the GUI you may set any input value up to certain cap. 
+Each SMES needs a wiring terminal to operate properly. This terminal allows you to charge the SMES from one power network, and output into another one. Typically, the input will be on the wiring terminal one tile south (needs to be on top of a wiring knot), and the output on the wire knot that the SMES unit itself is on top of. By using apropriate controls in the GUI you may set any input value up to certain cap. 
 
 This cap can be increased by upgrading the SMES unit, as [described further in this guide](/guides/engineering-guides/SMES-manual#upgrading-smes). Also, please note that setting larger input than available will cause the SMES to enter "Partially Charging" state. This means the SMES is still charging, but not at set input rate. You may choose from two input options - `OFF` and `AUTO`. 
 
@@ -38,8 +38,8 @@ These are suggested example settings for few SMESs around the station. You may c
 #### Main Station Settings
 | Location | Input | Output | Notes
 | - | - | - | - |
-| Engine Room SMES | 250 kW, Auto | 250kW, Online | This is mostly if you're running an engine like the [Antimatter Engine](/guides/engineering-guides/Guide-to-Power), [TEG](), or [Supermatter](). You want the Engine SMES to be charged to ensure cooling will remain operational. 
-| Main SMES | 1000kW, Auto | 950kw, Online | You may have to lower the input if total power generation is producing less than 750kW. On the other hand, if it's producing more increase input. 
+| Engine Room SMES | 250 kW, Auto | 250kW, Online | Simply leave this one alone. It functions as a redundant, off-grid backup for the engine room to keep the lights on and cooling pumps active for the [Antimatter Engine](/guides/engineering-guides/Guide-to-Power), [TEG](), or [Supermatter](). 
+| Main SMES | 1000kW, Auto | 950kw, Online | You may have to lower the input if total power generation is producing less than 750kW. On the other hand, if it's producing more increase input. Note that you will have to upgrade the SMES with extra coils to hit this output level.
 | Atmospheric SMES | 250kW, Auto | 250kW, Online | Some things, especially pumps, use large amounts of power. This means atmospherics needs a lot of power. 
 
 #### Substation Settings
