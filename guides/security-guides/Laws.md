@@ -2,8 +2,8 @@
 title: Law
 description: The rules you need to follow, or break.
 published: true
-date: 2024-08-29T05:22:59.166Z
-tags: wiki: work in progress, locked, security, colony law, lore: planned content
+date: 2024-08-29T05:45:50.997Z
+tags: security, security guide, wiki: work in progress, locked, colony law, lore: planned content
 editor: markdown
 dateCreated: 2024-08-21T01:22:09.502Z
 ---
