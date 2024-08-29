@@ -2,7 +2,7 @@
 title: Wiki Templates
 description: 
 published: true
-date: 2024-08-29T03:47:33.506Z
+date: 2024-08-29T04:53:36.957Z
 tags: wiki contribution, locked
 editor: markdown
 dateCreated: 2024-08-28T12:20:52.627Z
@@ -98,11 +98,11 @@ The category `wiki: work in progress` is used to mark an article as unfinished o
 
 ---
 
-> [**Work in Progress**](/maintenance/Templates#work-in-progress): This article is **incomplete** and is being **actively worked on** by user: `@usernamehere`
+> [**Work in Progress**](/maintenance/Templates#work-in-progress): This article or section is **incomplete** and is being **actively worked on** by user: `@usernamehere`
 {.is-warning}
 
 ```
-> [**Work in Progress**](/maintenance/Templates#work-in-progress): This article is **incomplete** and is being **actively worked on** by user: `@usernamehere`
+> [**Work in Progress**](/maintenance/Templates#work-in-progress): This article or section is **incomplete** and is being **actively worked on** by user: `@usernamehere`
 {.is-warning}
 ```
 
@@ -111,11 +111,11 @@ The category `wiki: outdated` is used to mark an article as **out-of-dated**, **
 
 ---
 
-> [**Outdated Article**](/maintenance/Templates#outdated): This article is **out-of-date**, **incomplete**, or **not currently in the game**. **Reason**: `reasonhere`
+> [**Outdated Article**](/maintenance/Templates#outdated): This article or section is **out-of-date**, **incomplete**, or **not currently in the game**. **Reason**: `reasonhere`
 {.is-warning}
 
 ```
-> [**Outdated Article**](/maintenance/Templates#outdated): This article is **out-of-date**, **incomplete**, or **not currently in the game**. **Reason**: `reasonhere`
+> [**Outdated Article**](/maintenance/Templates#outdated): This article or section is **out-of-date**, **incomplete**, or **not currently in the game**. **Reason**: `reasonhere`
 {.is-warning}
 ```
 
