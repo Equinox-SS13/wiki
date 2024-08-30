@@ -2,7 +2,7 @@
 title: Internal Security Departmental Lore
 description: The Port Authority
 published: true
-date: 2024-08-30T00:35:54.141Z
+date: 2024-08-30T17:23:00.262Z
 tags: lore, security, internal security
 editor: markdown
 dateCreated: 2024-08-30T00:35:54.141Z
@@ -11,8 +11,8 @@ dateCreated: 2024-08-30T00:35:54.141Z
 # Header
 Lore here!
 
-> Information here is subject to change and has not yet been finalized! Please do not take it as gospel, but as a general direction.
-{.is-warning}
+> [**Planned Content**](/maintenance/Templates#planned): This article or section is considered **planned**, **unfinished**, and/or **not yet released** for use.
+{.is-info}
 
 -	A Port Authority that was required to have the colony set up in the first place. The represent the authority of the government that controls the region of space that the colony is in.
 -	Also able to grant colony citizenship and similar, they’re basically bureaucracy. 
