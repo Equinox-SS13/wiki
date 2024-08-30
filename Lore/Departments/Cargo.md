@@ -2,8 +2,8 @@
 title: Cargo/Service Departmental Lore
 description: Shipping, Receiving, Fueling, Shopping...
 published: true
-date: 2024-08-30T16:18:38.597Z
-tags: lore, cargo, service
+date: 2024-08-30T16:18:53.271Z
+tags: lore, cargo, lore: planned content, service
 editor: markdown
 dateCreated: 2024-08-30T00:39:31.852Z
 ---
