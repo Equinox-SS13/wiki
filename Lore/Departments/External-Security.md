@@ -2,7 +2,7 @@
 title: Colony Militia Departmental Guide
 description: Militia
 published: true
-date: 2024-08-30T00:37:19.627Z
+date: 2024-08-30T17:22:24.190Z
 tags: lore, security, external security
 editor: markdown
 dateCreated: 2024-08-30T00:37:19.627Z
@@ -10,8 +10,8 @@ dateCreated: 2024-08-30T00:37:19.627Z
 
 # Header
 
-> Information here is subject to change and has not yet been finalized! Please do not take it as gospel, but as a general direction.
-{.is-warning}
+> [**Planned Content**](/maintenance/Templates#planned): This article or section is considered **planned**, **unfinished**, and/or **not yet released** for use.
+{.is-info}
 
 
 The colony's external security.
