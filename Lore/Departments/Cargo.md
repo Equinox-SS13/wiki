@@ -2,7 +2,7 @@
 title: Cargo/Service Departmental Lore
 description: Shipping, Receiving, Fueling, Shopping...
 published: true
-date: 2024-08-30T00:39:31.852Z
+date: 2024-08-30T16:18:38.597Z
 tags: lore, cargo, service
 editor: markdown
 dateCreated: 2024-08-30T00:39:31.852Z
@@ -10,8 +10,8 @@ dateCreated: 2024-08-30T00:39:31.852Z
 
 # Header
 
-> Information here is subject to change and has not yet been finalized! Please do not take it as gospel, but as a general direction.
-{.is-warning}
+> [**Planned Content**](/maintenance/Templates#planned): This article or section is considered **planned**, **unfinished**, and/or **not yet released** for use.
+{.is-info}
 
 -	Small company that runs trade on the colony and locally (within the system?)
 -	Feel is basically a starting up cargo division and organizing things. They’re really trying to get brand recognition going and to establish themselves as a larger economic force in the region. Recognizable coloring, etc. 
