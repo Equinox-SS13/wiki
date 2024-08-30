@@ -2,7 +2,7 @@
 title: Keyboard Shortcuts
 description: A quick reference list to all keyboard shortcuts for non-legacy-control players.
 published: true
-date: 2024-08-22T05:30:38.828Z
+date: 2024-08-30T01:46:08.377Z
 tags: guide, starter guide
 editor: markdown
 dateCreated: 2024-08-21T11:57:58.541Z
@@ -24,18 +24,20 @@ These are hotkey-mode specific controls, requiring the activation of the mode us
 | 	W				| Up										|		Q						|	Drop held item
 |		A				| Left									|		E						| Equip held item / unholster weapon from suit slot
 |		S				|	Down									|		R						|	Toggle throw mode
-|		D				| Right									|		V						| Toggle guard mode
+|		D				| Right									|		V						| Toggle guard mode (blocking)
 |		T				| Say										|		C						| Rest
 |		Y				| Whisper								|		X						| Swap hand
-|		5				| Emote						 			|		Z, Y				|	Activate held object
+|		M, 5		| Emote						 			|		Z, Y				|	Activate held object
 |		6				| Subtle emote		  		|		F						|	Cycle intents counter clockwise
 |   O       | OOC Chat							|		G						| Cycle intents clockwise
 |   L       | Local OOC Talk				| 	H						| Unholster from holster
-|   1       |	Sets help-intent			|	Ctrl + Left Click 	| Drag object
-|		2				| Sets disarm-intent		| Shift + Left Click | Examine object
-|   3				|	Sets grab-intent			|	Shift + Middle Click | Point to an object
-|   4       | Sets harm-intent      | Ctrl + Click| Alternative interaction	
-| Shift + X | Wield item 						| Alt + Click| Access storage / Alternative interaction / Firemode Toggle 
+|   1       |	Sets help-intent			|		B						| Resist
+|		2				| Sets disarm-intent		|	Ctrl + Left Click 	| Drag object
+|   3				|	Sets grab-intent			| Shift + Left Click | Examine object
+|   4       | Sets harm-intent      |	Shift + Middle Click | Point to an object
+| Shift + X | Wield item 						| Ctrl + Click| Alternative interaction	
+| Shift + E | Equip to bag					| Alt + Click| Access storage / Alternative interaction / Firemode Toggle 
+| Shift + Q | Equip to suit storage	| Shift + B			| Equip to belt
 
 ## Normal Hotkey Controls
 This does not require the hotkey mode to be on, which means that this works by default with the legacy control mode.
