@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-08-30T07:25:12.590Z
+date: 2024-08-30T11:01:23.142Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-07T22:41:18.531Z
@@ -26,10 +26,10 @@ dateCreated: 2024-08-07T22:41:18.531Z
       <div class="p-2">
         Some content could go here!
         </br>How about a list?
-        <list>
+        <ul class="pt-0">
           <li>Some item!</li>
           <li>Oh cool! Another item!</li>
-        </list>
+        </ul>
       </div>
     </div>
   	<div class="w-full rounded-xl border(2 white solid)">
@@ -48,5 +48,3 @@ dateCreated: 2024-08-07T22:41:18.531Z
 		</div>
 	</div>
 </div>
-        
-
