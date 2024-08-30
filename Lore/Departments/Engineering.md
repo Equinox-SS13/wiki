@@ -2,8 +2,8 @@
 title: Engineering Department Lore
 description: Work in Progress
 published: true
-date: 2024-08-30T00:30:44.072Z
-tags: lore, engineering, factions
+date: 2024-08-30T16:20:10.621Z
+tags: lore, engineering, lore: planned content
 editor: markdown
 dateCreated: 2024-08-30T00:19:34.392Z
 ---
@@ -11,8 +11,8 @@ dateCreated: 2024-08-30T00:19:34.392Z
 # Header
 ToDo: Put Lore Here.
 
-> Information here is subject to change and has not yet been finalized! Please do not take it as gospel, but as a general direction.
-{.is-warning}
+> [**Planned Content**](/maintenance/Templates#planned): This article or section is considered **planned**, **unfinished**, and/or **not yet released** for use.
+{.is-info}
 
 -	A craftsmen’s guild in the traditional sense. Funded by a shadow figure that backs the entire thing. Ordered them to put their headquarters here for unspecified reasons. Now sends requests to the department for “masterpieces” to be sent off (think the cargo radio but random orders, like build me 40 dolomite tables.)
 o	Work on some adminspawn punishments for failing this?
