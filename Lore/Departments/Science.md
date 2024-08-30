@@ -2,7 +2,7 @@
 title: Research Departmental Lore
 description: Lore! 
 published: true
-date: 2024-08-30T00:34:34.781Z
+date: 2024-08-30T17:04:22.645Z
 tags: lore, research, science
 editor: markdown
 dateCreated: 2024-08-30T00:34:34.781Z
@@ -11,8 +11,8 @@ dateCreated: 2024-08-30T00:34:34.781Z
 # Header
 to do: Lore!
 
-> Information here is subject to change and has not yet been finalized! Please do not take it as gospel, but as a general direction.
-{.is-warning}
+> [**Planned Content**](/maintenance/Templates#planned): This article or section is considered **planned**, **unfinished**, and/or **not yet released** for use.
+{.is-info}
 
 -	Main Proposal
 o	Generally accelerationist research coop with goals ranging from “research at all costs, ends justify the means” to “technology is going to improve the lives of everyone!”
