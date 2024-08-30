@@ -2,7 +2,7 @@
 title: Departmental Lore
 description: Lore for Departments
 published: true
-date: 2024-08-30T00:24:57.267Z
+date: 2024-08-30T00:39:53.127Z
 tags: lore
 editor: markdown
 dateCreated: 2024-08-30T00:20:27.101Z
