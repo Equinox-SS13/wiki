@@ -2,7 +2,7 @@
 title: Command Departmental Lore
 description: Put Lore Here
 published: true
-date: 2024-08-30T00:27:59.087Z
+date: 2024-08-30T00:28:26.844Z
 tags: lore, command
 editor: markdown
 dateCreated: 2024-08-30T00:27:59.087Z
@@ -19,8 +19,8 @@ Proposal Information:
 -	Feel: standard command. Bureaucracy and plastic and paper and glass. Not a prefab building. Actual admin building, higher class/importance in the structures. 
 o	Note: Central building in the colony alongside the Port Authority?
 	(put it alongside the landing pad?)
-o	Aion suggestion: Special gun for the Captain that has special flair. 
-	Cato – Maybe they even had insider knowledge that SOMETHING was going to happen in the region. 
+o	Suggestion: Special gun for the Captain that has special flair. 
+	Maybe they even had insider knowledge that SOMETHING was going to happen in the region. 
 -	Proposal 1
 o	Find some way to integrate Orion Capital
 o	Somewhat unstructured at the beginning. Very diplomatic with each other but not part of the Port Authority. 
