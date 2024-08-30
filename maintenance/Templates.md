@@ -2,7 +2,7 @@
 title: Wiki Templates
 description: 
 published: true
-date: 2024-08-29T04:53:36.957Z
+date: 2024-08-30T00:53:13.662Z
 tags: wiki contribution, locked
 editor: markdown
 dateCreated: 2024-08-28T12:20:52.627Z
@@ -55,7 +55,7 @@ The following information box is to be used;
 ```
 
 ## Unused
-The category `lore: Unused` is used to mark lore article or sections that are **not canonical**, **unused**, or completely **irrelevent** to the game server.
+The category `lore: unused` is used to mark lore article or sections that are **not canonical**, **unused**, or completely **irrelevent** to the game server.
 
 This is not to be used with pages outlining mechanics, the category [`wiki: outdated`](/maintenance/Templates#outdated) alongside the reasoning should be applied instead.
 
