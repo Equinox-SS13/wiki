@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-08-30T11:01:23.142Z
+date: 2024-08-30T11:04:24.087Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-07T22:41:18.531Z
@@ -27,8 +27,8 @@ dateCreated: 2024-08-07T22:41:18.531Z
         Some content could go here!
         </br>How about a list?
         <ul class="pt-0">
-          <li>Some item!</li>
-          <li>Oh cool! Another item!</li>
+          <li class="mt-0">Some item!</li>
+          <li class="mt-0">Oh cool! Another item!</li>
         </ul>
       </div>
     </div>
