@@ -2,7 +2,7 @@
 title: Engineering Department Lore
 description: Work in Progress
 published: true
-date: 2024-08-30T16:20:10.621Z
+date: 2024-08-30T16:37:13.688Z
 tags: lore, engineering, lore: planned content
 editor: markdown
 dateCreated: 2024-08-30T00:19:34.392Z
