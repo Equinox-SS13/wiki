@@ -2,8 +2,8 @@
 title: Command Departmental Lore
 description: Put Lore Here
 published: true
-date: 2024-08-30T00:28:26.844Z
-tags: lore, command
+date: 2024-08-30T16:19:24.701Z
+tags: lore, command, lore: planned content
 editor: markdown
 dateCreated: 2024-08-30T00:27:59.087Z
 ---
@@ -11,8 +11,8 @@ dateCreated: 2024-08-30T00:27:59.087Z
 # Header
 Command Lore Goes Here
 
-> Information here is subject to change and has not yet been finalized! Please do not take it as gospel, but as a general direction.
-{.is-warning}
+> [**Planned Content**](/maintenance/Templates#planned): This article or section is considered **planned**, **unfinished**, and/or **not yet released** for use.
+{.is-info}
 
 Proposal Information:
 
