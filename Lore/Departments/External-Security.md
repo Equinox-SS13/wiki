@@ -2,17 +2,38 @@
 title: Colony Militia Departmental Guide
 description: Militia
 published: true
-date: 2024-08-30T17:22:24.190Z
+date: 2024-08-31T17:01:40.099Z
 tags: lore, security, external security
 editor: markdown
 dateCreated: 2024-08-30T00:37:19.627Z
 ---
 
-# Header
+# The Militia
 
-> [**Planned Content**](/maintenance/Templates#planned): This article or section is considered **planned**, **unfinished**, and/or **not yet released** for use.
+Actual department name unknown, placeholder pending naming vote results.
+
+> [**Planned Content**](/maintenance/Templates#planned): This article or section is considered **planned**, **unfinished**, and/or **not yet released** for use. Currently under edit by: Sigmasquad
 {.is-info}
 
+The Militia, also known as [insert names here], is a complicated topic. Nominally, they protect the colony from the horrors crawling out of what used to be the Northern Light, but they also have retained the mantle of protecting the colony from incursions of other dangerous wildlife. 
+
+# History
+
+[The Planet] is very, very hostile. When the colony was in its planning stages, one of the major questions was how the colony was even supposed to *survive* on a planet where massive, invisible, armored, armor-piercing creatures were a mid-level predator? Simple. You ~~shoot the bast-~~ send in a PMC.
+
+The particular group chosen for this operation was the Paladin Martial Contractor Group, an offshoot of the Paragon Corporation. Paladin was sent down to the planet alongside the first buildings to protect the workers as they began to get settled, driving off the more dangerous predators as they approached the colony. Given that [the planet] is fairly out of the way, arms and armor wasn't foremost among Paragon's main concerns when sending Paladin. What was, however, was cost. Paladin was already undersupplied, undermanned, and underarmored for their task, but once the Northern Light crashed, this problem was exacerbated. 
+
+Paladin was almost instantly overrun. They simply weren't prepared for the hordes of hostile creatures emerging from the Northern Light, and their lack of gear, manpower, and morale didn't help. Instead of realizing the colony was lost, however, the denizens of the colony grabbed whatever weapon was close to hand and put the preparation of the colony aside for a time to supplement Paladin's lack of, well, everything. And thus, the Militia was born.
+
+# In the Present
+
+Presently, the Militia is dedicated to protecting the colony from incursion by predators, much like Paladin's initial mission was, but they've also been used as exploration guards, pest control, and have even been considered as protection for excursions into the crashed Northern Light. 
+
+Given that the Militia is comprised of individuals who took it among themselves to defend the colony and an underfunded and nearly-defunct PMC, they rely on what gear they can get. Armor is spread thing, and heavier weapons are nearly nonexistent. Most Militiamembers get by with pistols, SMGs, and similar, while whole-body armor is reserved for the rarest of situations. In a pinch, they *can* call on their parent group, Paragon, but due to the distance and time required to send asistance, this is rare, costly, and not usually granted by Paragon. 
+
+# How Do They See Other Factions?
+
+TBD.
 
 The colony's external security.
 
