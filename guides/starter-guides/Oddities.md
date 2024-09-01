@@ -2,7 +2,7 @@
 title: Oddities
 description: Gaining Perks and Targeted Stat Gain
 published: true
-date: 2024-09-01T07:48:46.872Z
+date: 2024-09-01T07:53:37.241Z
 tags: guide, other guide, wiki: stub
 editor: markdown
 dateCreated: 2024-08-23T16:09:10.483Z
@@ -82,6 +82,7 @@ Certain oddities belong to a faction and convey significant meaning to each of t
 | ![nt_seal.png](/game_sprites/faction-oddities/nt_seal.png) | The Cartographer's Seal | Church of the Absolute | A badge carrying the seal of the Carthographer of the Church, a holy item that gives the person healing aura for all [Cruciform]() bearers nearby.
 | ![rosaria_shield.png](/game_sprites/faction-oddities/rosaria_shield.png) | Rosaria Personal Shield | Church of the Absolute | A personal area shield that consumes faith to use, allowing shooting out while protecting against incoming attacks.
 | ![golden_cup.png](/game_sprites/faction-oddities/golden_cup.png) | Colony Game Trophy | Any Faction | Rarely occuring, this is the prize for winning the monthly competition game between various faction. Raises all stats and gives the [Gunslinger Perk]()
+
 
 
 ## Artists Oddities
