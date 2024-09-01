@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-09-01T09:42:26.413Z
+date: 2024-09-01T10:55:07.963Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-07T22:41:18.531Z
@@ -88,8 +88,11 @@ dateCreated: 2024-08-07T22:41:18.531Z
   </tr>
   <tr>
   	<td><ul>
+      <li><s><a href="/guides/Starter-Guide">Starter Guide</a>
       <li><a href="/guides/starter-guides/Keyboard-Shortcuts">Keyboard Shortcut</a>
       <li><a href="/guides/starter-guides/Character-Creation">Character Creation</a>
+      <li><s><a href="/guides/starter-guides/Roleplay-Guide">Roleplaying Guide</a>
+      <li><s><a href="/guides/starter-guides/Jobs">Job Selection</a>
       <li><a href="/guides/starter-guides/Character-Creation">Combat</a>
       <li><a href="/guides/starter-guides/Stats-and-Skills">Stats and Skill</a>
       <li><a href="/guides/starter-guides/Sanity-and-Insight">Sanity and Insight</a>  
