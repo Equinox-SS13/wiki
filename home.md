@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-09-01T10:55:07.963Z
+date: 2024-09-01T10:57:28.009Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-07T22:41:18.531Z
@@ -88,71 +88,73 @@ dateCreated: 2024-08-07T22:41:18.531Z
   </tr>
   <tr>
   	<td><ul>
-      <li><s><a href="/guides/Starter-Guide">Starter Guide</a>
+      <li><s><a href="/guides/Starter-Guide">Starter Guide</a></s>
       <li><a href="/guides/starter-guides/Keyboard-Shortcuts">Keyboard Shortcut</a>
       <li><a href="/guides/starter-guides/Character-Creation">Character Creation</a>
-      <li><s><a href="/guides/starter-guides/Roleplay-Guide">Roleplaying Guide</a>
-      <li><s><a href="/guides/starter-guides/Jobs">Job Selection</a>
+      <li><s><a href="/guides/starter-guides/Roleplay-Guide">Roleplaying Guide</a></s>
+      <li><s><a href="/guides/starter-guides/Jobs">Job Selection</a></s>
       <li><a href="/guides/starter-guides/Character-Creation">Combat</a>
       <li><a href="/guides/starter-guides/Stats-and-Skills">Stats and Skill</a>
       <li><a href="/guides/starter-guides/Sanity-and-Insight">Sanity and Insight</a>  
       <li><a href="/guides/starter-guides/Perks">Perks</a> 
       </ul>
   	<td><ul>
-      <li><s><a href="/Lore/sop/Medical-SoP">Medical SoP</a>      
+      <li><s><a href="/Lore/sop/Medical-SoP">Medical SoP</a></s>      
       <li><a href="/guides/medical-guides/Guide-to-Medicine">Guide to Medicine</a>
-      <li><s><a href="/guides/medical-guides/Surgery">Surgery</a>
-      <li><s><a href="/guides/medical-guides/Guide-to-Chemistry">Chemistry</a>
-      <li><s><a href="/guides/medical-guides/Guide-to-Cadavers">Cadavers</a>
+      <li><s><a href="/guides/medical-guides/Surgery">Surgery</a></s>
+      <li><s><a href="/guides/medical-guides/Guide-to-Chemistry">Chemistry</a></s>
+      <li><s><a href="/guides/medical-guides/Guide-to-Cadavers">Cadavers</a></s>
       </ul>
     <td><ul>  
-      <li><s><a href="/Lore/sop/Research-SoP">Research SoP</a>   
-      <li><s><a href="/guides/science-guides/Research-and-Development">Research and Development </a></s>
-      <li><s><a href="/guides/science-guides/Robotics">Robotics</a>
-      <li><s><a href="/guides/science-guides/Toxins">Toxins</a>
-      <li><s><a href="/guides/science-guides/Genetics">Genetics</a>
-      <li><s><a href="/guides/science-guides/Xenobiology">Xenobiology</a>
-      <li><s><a href="/guides/science-guides/Xenoarcheology">Xenoarcheology</a>
-      <li><s><a href="/guides/science-guides/Xenoflora">Xenoflora</a>
+      <li><s><a href="/Lore/sop/Research-SoP">Research SoP</a></s>   
+      <li><s><a href="/guides/science-guides/Research-and-Development">Research and Development </a></s></s>
+      <li><s><a href="/guides/science-guides/Robotics">Robotics</a></s>
+      <li><s><a href="/guides/science-guides/Toxins">Toxins</a></s>
+      <li><s><a href="/guides/science-guides/Genetics">Genetics</a></s>
+      <li><s><a href="/guides/science-guides/Xenobiology">Xenobiology</a></s>
+      <li><s><a href="/guides/science-guides/Xenoarcheology">Xenoarcheology</a></s>
+      <li><s><a href="/guides/science-guides/Xenoflora">Xenoflora</a></s>
       </ul>
     <td><ul>
-      <li><s><a href="/guides/engineering-guides/Guide-to-Construction">Construction</a>
-      <li><s><a href="/guides/engineering-guides/Tools-and-Mods">Tools and Modification</a>
+      <li><s><a href="/guides/engineering-guides/Guide-to-Construction">Construction</a></s>
+      <li><s><a href="/guides/engineering-guides/Tools-and-Mods">Tools and Modification</a></s>
       <li><a href="/guides/engineering-guides/Guide-to-Power">Setting Up Power</a>
       <li><a href="/guides/engineering-guides/SMES-Manual">SMES Manual</a>
-      <li><s><a href="/guides/engineering-guides/TEG">TEG</a>
-      <li><s><a href="/guides/engineering-guides/Supermatter">Supematter Engine</a>
-      <li><s><a href="/guides/engineering-guides/Telecomms">Telecommunication</a> 
-      <li><s><a href="/guides/engineering-guides/Atmospherics">Atmospherics</a> 
-      <li><s><a href="/guides/engineering-guides/Guide to Hacking">Guide to Hacking</a> 
+      <li><s><a href="/guides/engineering-guides/TEG">TEG</a></s>
+      <li><s><a href="/guides/engineering-guides/Supermatter">Supematter Engine</a></s>
+      <li><s><a href="/guides/engineering-guides/Telecomms">Telecommunication</a></s> 
+      <li><s><a href="/guides/engineering-guides/Atmospherics">Atmospherics</a></s> 
+      <li><s><a href="/guides/engineering-guides/Guide to Hacking">Guide to Hacking</a></s> 
       </ul>
     <td><ul>
       <li><a href="/Lore/sop/Law">Colony Law</a>
-      <li><s><a href="/guides/security-guides/Guide-to-Security">Security Guide</a> 
-      <li><s><a href="/Lore/sop/General-SoP">General SoP</a>   
-      <li><s><a href="/Lore/sop/Security-SoP">Security SoP</a>
-      <li><s><a href="/guides/security-guides/Guide-to-PvE-Security">External Security Guide</a>
-      <li><s><a href="/guides/security-guides/Gun-Manufacturing">Guide to Armorer</a>
+      <li><s><a href="/guides/security-guides/Guide-to-Security">Security Guide</a></s> 
+      <li><s><a href="/Lore/sop/General-SoP">General SoP</a></s>   
+      <li><s><a href="/Lore/sop/Security-SoP">Security SoP</a></s>
+      <li><s><a href="/guides/security-guides/Guide-to-PvE-Security">External Security Guide</a></s>
+      <li><s><a href="/guides/security-guides/Gun-Manufacturing">Guide to Armorer</a></s>
       </ul>
     <td><ul>  
-      <li><s><a href="/Lore/sop/Cargo-SoP">Cargo SoP</a>
+      <li><s><a href="/Lore/sop/Cargo-SoP">Cargo SoP</a></s>
       <li><a href="/guides/other-guides/Guide-to-Cargo">Guide to Cargo</a>
-      <li><s><a href="/guides/other-guides/Mining">Mining and Refining</a>
-      <li><s><a href="/Lore/sop/Church">Church Testaments</a>
-      <li><s><a href="/guides/other-guides/Church">Guide to Church</a>
-      <li><s><a href="/Lore/sop/Service-SoP">Service SoP</a>
-      <li><s><a href="/Lore/sop/Prospector-SoP">Prospector SoP</a>
-      <li><s><a href="guides/other-guides/AI">Guide to AI</a>        
+      <li><s><a href="/guides/other-guides/Mining">Mining and Refining</a></s>
+      <li><s><a href="/Lore/sop/Church">Church Testaments</a></s>
+      <li><s><a href="/guides/other-guides/Church">Guide to Church</a></s>
+      <li><s><a href="/Lore/sop/Service-SoP">Service SoP</a></s>
+      <li><s><a href="/Lore/sop/Prospector-SoP">Prospector SoP</a></s>
+      <li><s><a href="guides/other-guides/AI">Guide to AI</a></s>        
       </ul>
     <td><ul>  
       <li><s><a href="/guides/other-guides/Oddities">Oddities</a>
       <li><a href="/guides/other-guides/Psionics">Psionic</a>
       <li><s><a href="/guides/other-guides/Cruciform">The Cruciform</a>
-      <li><s><a href="/guides/other-guides/Nanogate">Nanogate</a>
+      <li><s><a href="/guides/other-guides/Nanogate">Nanogate</a></s>
       <li><s><a href="/guides/other-guides/Guide-to-Paperwork">Paperwork</a>
       <li><s><a href="/guides/other-guides/Fauna-List">Creatures and Fauna</a>
-      <li><s><a href="/guides/other-guides/Hydroponics">Hydroponics</a> 
-      <li><s><a href="/guides/other-guides/Hydroponics">Food and Drink Recipe</a> 
+      <li><s><a href="/guides/other-guides/Hydroponics">Hydroponics</a></s> 
+      <li><s><a href="/guides/other-guides/Hydroponics">Food and Drink Recipe</a></s> 
+      <li><s><a href="/guides/other-guides/EVA">EVA Operations</a></s> 
+      <li><s><a href="/guides/other-guides/Mech-and-Rigsuit">Mech and Rigsuit Controls</a></s> 
       </ul>
   </tr>
 
