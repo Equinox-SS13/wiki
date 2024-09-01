@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-09-01T23:22:54.065Z
+date: 2024-09-01T23:23:34.944Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-07T22:41:18.531Z
@@ -147,7 +147,7 @@ dateCreated: 2024-08-07T22:41:18.531Z
     <td><ul>  
       <li><s><a href="/guides/other-guides/Oddities">Oddities</a></s>
       <li><a href="/guides/other-guides/Psionics">Psionic</a>
-      <li><s><a href="/guides/other-guides/Cruciform">The Cruciform</a>
+      <li><s><a href="/guides/other-guides/Cruciform">The Cruciform</a></s>
       <li><s><a href="/guides/other-guides/Nanogate">Nanogate</a></s>
       <li><a href="/guides/other-guides/Guide-to-Paperwork">Paperwork</a>
       <li><a href="/guides/other-guides/Fauna-List">Creatures and Fauna</a>
