@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-09-01T23:25:31.095Z
+date: 2024-09-01T23:29:35.407Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-07T22:41:18.531Z
@@ -152,7 +152,7 @@ dateCreated: 2024-08-07T22:41:18.531Z
       <li><a href="/guides/other-guides/Guide-to-Paperwork">Paperwork</a>
       <li><a href="/guides/other-guides/Fauna-List">Creatures and Fauna</a>
       <li><s><a href="/guides/other-guides/Hydroponics">Hydroponics</a></s> 
-      <li><s><a href="/guides/other-guides/Guide-to-Food-and-Drink">Food and Drink Recipe</a></s> 
+      <li><s><a href="/guides/other-guides/Guide-to-Food-and-Drink">Guide to Cooking and Bartending</a></s> 
       <li><s><a href="/guides/other-guides/EVA">EVA Operations</a></s> 
       <li><s><a href="/guides/other-guides/Mechs-and-Rigsuits">Mech and Rigsuit Controls</a></s> 
       </ul>
