@@ -2,7 +2,7 @@
 title: Guide to Atmospherics
 description: Pumping, siphoning, and making sure your neighbor is breathing the right air.
 published: true
-date: 2024-09-01T14:03:22.816Z
+date: 2024-09-01T14:03:45.699Z
 tags: guide, engineering guide, wiki: needs revision, wiki: work in progress, engineering
 editor: markdown
 dateCreated: 2024-09-01T14:03:22.816Z
@@ -11,13 +11,7 @@ dateCreated: 2024-09-01T14:03:22.816Z
 > [**Needs Revision**](/maintenance/Templates#needs-revision): This article or section may be **outdated or incorrect**, once verified this tag should be removed or replaced with relevant [tags](/maintenance/Templates#maintenance-template).
 {.is-info}
 
-> [**Work in Progress**](/maintenance/Templates#work-in-progress): This article or section is **incomplete** and is being **actively worked on** by user: `@emilitiaennehrt`
-{.is-warning}
-
 # All About Atmospherics
-> It has to be stated that as of September 9th 2024, the Atmospheric system of Equinox is not as extensive compared to other codebases due to content cuts.
-{.is-warning}
-
 What is Atmospherics? Atmospheric covers the subject of gas and many extensions of it and is a subject many engineer should at least know the basic of. 
 * This includes the distribution of breathable air, firefighting, and generation of power using gas as a form of coolant or combustion.
 
