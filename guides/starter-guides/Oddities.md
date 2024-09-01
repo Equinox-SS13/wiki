@@ -2,7 +2,7 @@
 title: Oddities
 description: Gaining Perks and Targeted Stat Gain
 published: true
-date: 2024-09-01T07:53:37.241Z
+date: 2024-09-01T08:11:08.411Z
 tags: guide, other guide, wiki: stub
 editor: markdown
 dateCreated: 2024-08-23T16:09:10.483Z
@@ -61,28 +61,127 @@ For a full list of perks, please see the [Guide to Perks](/guides/other-guides/P
 
 Certain oddities belong to a faction and convey significant meaning to each of them. Certain ones can be used for functions of machinery or duty within the faction and can be acquired or start with one.
 
-| | Name | Faction | Usage
-|-|-----|------|------|
-| ![biosyphon.gif](/game_sprites/faction-oddities/biosyphon.gif) | Biosyphon Anomaly | Marshal | Spawns a box of colorful donuts every 30 or so minutes. When eaten, the donuts temporarily boosts the corresponding stat to the color of the donuts.
-| ![instructional_rob.png](/game_sprites/faction-oddities/instructional_rob.png) | Marshal Code Handbook | Marshal | Allows anyone using it to understand and be able to use Marshal Code.
-| ![enricher.png](/game_sprites/faction-oddities/enricher.png) | Molitor-Riedel Enricher | Soteria Medical | A device that dispenses usable synthetic blood for transfusion provided nutriments are given to it.
-| ![instructional_bio.png](/game_sprites/faction-oddities/instructional_bio.png) | Chemistry Reference Table | Soteria Medical | Can be found normally via scavenging, but allows a person to use all the chemistry equipment and see the content of a reagent container.
-| ![von_krabin.png](/game_sprites/faction-oddities/von_krabin.png) | Von-Krabin Stimulator | Soteria Research | The CRO's strange anomaly that can enhance one's knowledge. Do not use on those with a Cruciform.
-| ![tuning_device.png](/game_sprites/faction-oddities/tuning_device.png) | Bluespace Tuning Device | Soteria Research | Have to be printed, the Tuning Device allows reading of [Bluespace Entropy]() and raise knowledge stats.
-| ![perfection_cube.png](/game_sprites/faction-oddities/perfection_cube.png) | Artificer Perfection Cube | Artificer's Guild |  Not to be confused with the Black Box, the Perfection Cube takes tools, tool mods, etc. and repurpose them into a better oddity tool.
-| ![blackbox.gif](/game_sprites/faction-oddities/blackbox.gif) | Matter Nano-Forge Black Box | Artificer's Guild | Power the Matter Nano-Forge when unused. Once used, the Matter NanoForge cannot be powered by it.
-| ![maneko_neki.png](/game_sprites/faction-oddities/maneko_neki.png) | Ancient Maneki Neko | Lonestar Shipping Solution | A creepy ceramic doll in the shape of a fortune cat. Superstition states that its slow-beckoning arm brings wealth.
-| ![distillery.png](/game_sprites/faction-oddities/distillery.png) | Atomic Distillery | Lonestar Shipping Solution | The kitchen's anomalous radiation-powered booze machine. Makes atomic vodka.
-| ![bonsai.png](/game_sprites/faction-oddities/bonsai.png) | Laurelin bonsai | Lonestar Shipping Solution | A bonsai tree living off of booze in return for fresh fruits and vegetables. Lonestar has lost this sometimes ago.
-| ![phone.png](/game_sprites/faction-oddities/phone.png) | Direct Phone Line | Lonestar Shipping Solution | A direct hotline to local ships and station in the area used to do backhand deals with these partners. The line has been cut sometimes ago.
-| ![smelling_salts.png](/game_sprites/faction-oddities/smelling_salts.png) | Lonestar Smelling Salts | Lonestar Shipping Solution | Unfortunately, makes you dumber.
-| ![joyeuse.png](/game_sprites/faction-oddities/joyeuse.png) | Joyeuse | Church of the Absolute | Prime's holy sword made out of unknown alloy, it can shine with blinding flash to stun all enemies of the Church around it.
-| ![joyeuse_pedestal.png](/game_sprites/faction-oddities/joyeuse_pedestal.png) | Pedestal of the Joyeuse | Church of the Absolute | A [Cruciform]()-locked altar that disallow those unworthy of wielding the sword to wield it.
-| ![pyramid.png](/game_sprites/faction-oddities/pyramid.png) | The "Pyramid" | Church of the Absolute | A holy relic that bequeath strength to anyone who posesses it.
-| ![nt_seal.png](/game_sprites/faction-oddities/nt_seal.png) | The Cartographer's Seal | Church of the Absolute | A badge carrying the seal of the Carthographer of the Church, a holy item that gives the person healing aura for all [Cruciform]() bearers nearby.
-| ![rosaria_shield.png](/game_sprites/faction-oddities/rosaria_shield.png) | Rosaria Personal Shield | Church of the Absolute | A personal area shield that consumes faith to use, allowing shooting out while protecting against incoming attacks.
-| ![golden_cup.png](/game_sprites/faction-oddities/golden_cup.png) | Colony Game Trophy | Any Faction | Rarely occuring, this is the prize for winning the monthly competition game between various faction. Raises all stats and gives the [Gunslinger Perk]()
-
+<table>
+  <tr> 
+		<th>
+    <th> Name 
+    <th> Faction 
+    <th> Usage
+  </tr>
+  <tr> 
+    <td> <image src = "/game_sprites/faction-oddities/biosyphon.gif" width=50% height=50%> 
+   	<td> Biosyphon Anomaly 
+    <td> Marshal
+    <td> Spawns a box of colorful donuts every 30 or so minutes. When eaten, the donuts temporarily boosts the corresponding stat to the color of the donuts.
+  <tr>
+    <td> <image src = "/game_sprites/faction-oddities/instructional_rob.png" width=50% height=50%> 
+    <td> Marshal Code Handbook       
+    <td> Marshal     
+    <td> Allows anyone using it to understand and be able to use Marshal Code.      
+  </tr>   
+  <tr>
+    <td> <image src = "/game_sprites/faction-oddities/enricher.png" width=50% height=50%>
+    <td> Molitor-Riedel Enricher
+    <td> Soteria Medical
+    <td> A device that dispenses usable synthetic blood for transfusion provided nutriments are given to it.
+  </tr>
+  <tr>
+    <td> <image src = "/game_sprites/faction-oddities/instructional_bio.png" width=50% height=50%>
+    <td> Chemistry Reference Table
+    <td> Soteria Medical
+    <td> Can be found normally via scavenging, but allows a person to use all the chemistry equipment and see the content of a reagent container.
+  </tr>
+  <tr>
+    <td> <image src = "/game_sprites/faction-oddities/von_krabin.png" width=50% height=50%>
+    <td> Von-Krabin Stimulator
+    <td> Soteria Research
+    <td> The CRO's strange anomaly that can enhance one's knowledge. Do not use on those with a Cruciform.
+  </tr>
+  <tr>
+    <td> <image src = "/game_sprites/faction-oddities/tuning_device.png" width=50% height=50%>
+    <td> Bluespace Tuning Device
+    <td> Soteria Research
+    <td> Printed from RND Console, the Tuning Device allows reading of [Bluespace Entropy]() and raise knowledge stats.
+  </tr>
+  <tr>
+    <td> <image src = "/game_sprites/faction-oddities/perfection_cube.png" width=50% height=50%>
+    <td> Artificer Perfection Cube
+    <td> Artificer's Guild
+    <td> Not to be confused with the Black Box, the Perfection Cube takes tools, tool mods, etc. and repurpose them into a better oddity tool.
+  </tr>
+  <tr>
+    <td> <image src = "/game_sprites/faction-oddities/blackbox.gif" width=50% height=50%>
+    <td> Matter Nano-Forge Black Box
+    <td> Artificer's Guild
+    <td> Power the Matter Nano-Forge when unused. Once used, the Matter NanoForge cannot be powered by it.
+  </tr>
+  <tr>
+    <td> <image src = "/game_sprites/faction-oddities/maneko_neki.png" width=50% height=50%>
+    <td> Ancient Maneki Neko
+    <td> Lonestar Shipping Solution
+    <td> A creepy ceramic doll in the shape of a fortune cat. Superstition states that its slow-beckoning arm brings wealth.
+  </tr> 
+  <tr>
+    <td> <image src = "/game_sprites/faction-oddities/distillery.png" width=50% height=50%>
+    <td> Atomic Distillery
+    <td> Lonestar Shipping Solution
+    <td> The kitchen's anomalous radiation-powered booze machine. Makes atomic vodka.
+  </tr>      
+  <tr>
+    <td> <image src = "/game_sprites/faction-oddities/bonsai.png" width=50% height=50%>
+    <td> Laurelin Bonsai
+    <td> Lonestar Shipping Solution
+    <td> A bonsai tree living off of booze in return for fresh fruits and vegetables. Lonestar has lost this sometimes ago.
+  </tr>      
+  <tr>
+    <td> <image src = "/game_sprites/faction-oddities/phone.png" width=50% height=50%>
+    <td> Direct Phone Line
+    <td> Lonestar Shipping Solution
+    <td> A direct hotline to local ships and station in the area used to do backhand deals with these partners. The line has been cut sometimes ago.
+  </tr>  
+  <tr>
+    <td> <image src = "/game_sprites/faction-oddities/smelling_salts.png" width=50% height=50%>
+    <td> Lonestar Smelling Salts
+    <td> Lonestar Shipping Solution
+    <td> Unfortunately, makes you dumber.
+  </tr>        
+  <tr>
+    <td> <image src = "/game_sprites/faction-oddities/joyeuse.png" width=50% height=50%>
+    <td> Joyeuse
+    <td> Church of the Absolute
+    <td> Prime's holy sword made out of unknown alloy, it can shine with blinding flash to stun all enemies of the Church around it.
+  </tr>        
+  <tr>
+    <td> <image src = "/game_sprites/faction-oddities/joyeuse_pedestal.png" width=50% height=50%>
+    <td> Pedestal of the Joyeuse
+    <td> Church of the Absolute
+    <td> A Cruciform-locked altar that disallow those unworthy of wielding the sword to wield it.
+  </tr>        
+  <tr>
+    <td> <image src = "/game_sprites/faction-oddities/pyramid.png" width=50% height=50%>
+    <td> The "Pyramid"
+    <td> Church of the Absolute
+    <td> A holy relic that bequeath strength to anyone who posesses it.
+  </tr>              
+  <tr>
+    <td> <image src = "/game_sprites/faction-oddities/nt_seal.png" width=50% height=50%>
+    <td> The Cartographer's Seal
+    <td> Church of the Absolute
+    <td> A badge carrying the seal of the Carthographer of the Church, a holy item that gives the person healing aura for all Cruciform bearers nearby.
+  </tr>        
+  <tr>
+    <td> <image src = "/game_sprites/faction-oddities/rosaria_shield.png" width=50% height=50%>
+    <td> Rosaria Personal Shield
+    <td> Church of the Absolute
+    <td> A personal area shield that consumes faith to use, allowing shooting out while protecting against incoming attacks.
+  </tr>        
+  <tr>
+    <td> <image src = "/game_sprites/faction-oddities/golden_cup.png" width=50% height=50%>
+    <td> Colony Game Trophy
+    <td> Any 
+    <td> Colony Game Trophy | Any Faction | Rarely occuring, this is the prize for winning the monthly competition game between various faction. Raises all stats and gives the Gunslinger Perk
+  </tr>        
+</table>
 
 
 ## Artists Oddities
