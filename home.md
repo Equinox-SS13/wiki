@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-09-01T11:26:49.602Z
+date: 2024-09-01T11:28:31.709Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-07T22:41:18.531Z
@@ -38,7 +38,7 @@ dateCreated: 2024-08-07T22:41:18.531Z
     </div>
   	<div class="w-full rounded-xl">
     	<header class="rounded-t-xl bg-yellow-600"><center><h3 style="color:white">Contributing to the Server</h3></center></header>
-    <div class="p-2">You can check out and contribute to our codebase here; <a href="https://github.com/Equinox-SS13/equinox-sojourn">Github Repository</a></div>
+    <div class="p-2">You can check out and contribute to our codebase here; <a href="https://github.com/Equinox-SS13/equinox-sojourn">Github Repository</a>.</div>
 		<div class="p-2">Wiki Contribution</div>
         <ul class="pt-0">
           <li class="mt-0"><a href="/maintenance/Contributing">Contributing to the Wiki</a></li>
@@ -54,7 +54,7 @@ dateCreated: 2024-08-07T22:41:18.531Z
           <li class="mt-0"><a href="/Lore/Colony">The Colony and Planet</a></li>
           <li class="mt-0"><a href="/Lore/Factions">Factions</a></li>
           <li class="mt-0"><a href="/guideline/Wiki-Guidelines">Playable Species</a></li>
-          <li class="mt-0"><a href="/guides/security-guides/Laws">Colony Law</a></li>
+          <li class="mt-0"><a href="/Lore/sop/Law">Colony Law</a></li>
         </ul>
       </div>
 		</div>
