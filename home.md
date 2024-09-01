@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-09-01T11:28:31.709Z
+date: 2024-09-01T11:29:15.524Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-07T22:41:18.531Z
@@ -119,11 +119,11 @@ dateCreated: 2024-08-07T22:41:18.531Z
       <li><s><a href="/guides/engineering-guides/Guide-to-Construction">Construction</a></s>
       <li><s><a href="/guides/engineering-guides/Tools-and-Mods">Tools and Modification</a></s>
       <li><a href="/guides/engineering-guides/Guide-to-Power">Setting Up Power</a>
-      <li><a href="/guides/engineering-guides/SMES-Manual">SMES Manual</a>
+      <li><a href="/guides/engineering-guides/SMES-manual">SMES Manual</a>
       <li><s><a href="/guides/engineering-guides/TEG">TEG</a></s>
       <li><s><a href="/guides/engineering-guides/Supermatter">Supermatter Engine</a></s>
       <li><s><a href="/guides/engineering-guides/Telecomms">Telecommunication</a></s> 
-      <li><s><a href="/guides/engineering-guides/Atmospherics">Atmospherics</a></s> 
+      <li><a href="/guides/engineering-guides/Atmospherics">Atmospherics</a>
       <li><s><a href="/guides/engineering-guides/Shield-Generator">Shield Generator</a></s>   
       <li><s><a href="/guides/engineering-guides/Guide to Hacking">Guide to Hacking</a></s> 
       </ul>
