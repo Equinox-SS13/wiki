@@ -2,7 +2,7 @@
 title: Lore Page Hub
 description: Lore Hub Hub
 published: true
-date: 2024-08-30T00:42:57.262Z
+date: 2024-09-01T08:36:16.449Z
 tags: lore, hub
 editor: markdown
 dateCreated: 2024-08-30T00:42:57.262Z
@@ -20,4 +20,4 @@ These are the important pages for the setting.
 
 # Departments
 This is the hub for the departmental lore.
-[Departmental Lore Pages](/Lore/Departments)
+[Faction Lore Pages](/Lore/Factions)
