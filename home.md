@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-09-01T23:22:05.224Z
+date: 2024-09-01T23:22:54.065Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-07T22:41:18.531Z
@@ -145,12 +145,12 @@ dateCreated: 2024-08-07T22:41:18.531Z
       <li><s><a href="guides/other-guides/AI">Guide to AI</a></s>        
       </ul>
     <td><ul>  
-      <li><s><a href="/guides/other-guides/Oddities">Oddities</a>
+      <li><s><a href="/guides/other-guides/Oddities">Oddities</a></s>
       <li><a href="/guides/other-guides/Psionics">Psionic</a>
       <li><s><a href="/guides/other-guides/Cruciform">The Cruciform</a>
       <li><s><a href="/guides/other-guides/Nanogate">Nanogate</a></s>
-      <li><s><a href="/guides/other-guides/Guide-to-Paperwork">Paperwork</a>
-      <li><s><a href="/guides/other-guides/Fauna-List">Creatures and Fauna</a>
+      <li><a href="/guides/other-guides/Guide-to-Paperwork">Paperwork</a>
+      <li><a href="/guides/other-guides/Fauna-List">Creatures and Fauna</a>
       <li><s><a href="/guides/other-guides/Hydroponics">Hydroponics</a></s> 
       <li><s><a href="/guides/other-guides/Hydroponics">Food and Drink Recipe</a></s> 
       <li><s><a href="/guides/other-guides/EVA">EVA Operations</a></s> 
