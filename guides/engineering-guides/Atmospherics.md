@@ -2,7 +2,7 @@
 title: Guide to Atmospherics
 description: Pumping, siphoning, and making sure your neighbor is breathing the right air.
 published: true
-date: 2024-09-01T14:03:45.699Z
+date: 2024-09-01T14:04:27.970Z
 tags: guide, engineering guide, wiki: needs revision, wiki: work in progress, engineering
 editor: markdown
 dateCreated: 2024-09-01T14:03:22.816Z
@@ -60,7 +60,9 @@ Within the colony, many pipes, scrubbers, and vents occupy the area. These are c
 * Pipes can be acquired from a Pipe Dispenser, such as the Disposable Pipe Dispenser in Engineering.
 * Pipes can be wrenched into the floor, causing it to connect to the pipe next to it. It can also be covered with a tile if wrenched on an underplating.
 * Pipes at higher pressure than 300kPA cannot be unwrenched.
+
 <br>
+
 | Name | Types of Gas Pipes |
 |-|-|
 | <span style="color: teal;">**Air Supply**</span> | A set of <span style="color: teal;">blue</span> pipe in a loop that sends air to all the vents on the colony. Connected directly by <span style="color: cyan;">cyan</span> and <span style="color: orange;">orange</span> pipes.
