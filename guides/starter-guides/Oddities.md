@@ -2,7 +2,7 @@
 title: Oddities
 description: Gaining Perks and Targeted Stat Gain
 published: true
-date: 2024-09-01T19:46:04.807Z
+date: 2024-09-01T19:47:04.829Z
 tags: guide, other guide, wiki: stub
 editor: markdown
 dateCreated: 2024-08-23T16:09:10.483Z
