@@ -2,7 +2,7 @@
 title: Sanity and Insight
 description: Sanity, Insight, Drugs, and Cheese
 published: true
-date: 2024-09-01T19:39:59.823Z
+date: 2024-09-01T19:45:06.505Z
 tags: guide, starter guide
 editor: markdown
 dateCreated: 2024-08-22T18:09:21.289Z
@@ -111,7 +111,7 @@ Regardless of whether you fulfil yur desires or not, once you've filled your Ins
 
 When you select the Focus on an Oddity option, the game will prompt you to select one of the oddities that you're carrying to use as a focus. You will then gain a number of stat points in each stat that the Oddity has listed proportional to that stat's strength on the Oddity and the number of Resting Points you have stored. 
 
-You will also gain the Oddity's accompanying [perk](/guides/other-guides/Perks) as well if the Oddity has one, also referred to as an anomaly.
+You will also gain the Oddity's accompanying [perk](/guides/starter-guides/Perks) as well if the Oddity has one, also referred to as an anomaly.
 
 See the [Guide to Oddites](/guides/starter-guides/Oddities) for more information on oddities. 
 
