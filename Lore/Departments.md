@@ -1,8 +1,8 @@
 ---
-title: Departmental Lore
-description: Lore for Departments
+title: Faction Lore
+description: Factions and Departments
 published: true
-date: 2024-08-30T17:32:21.868Z
+date: 2024-09-01T08:35:42.648Z
 tags: lore, hub
 editor: markdown
 dateCreated: 2024-08-30T00:20:27.101Z
