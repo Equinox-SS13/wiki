@@ -2,8 +2,8 @@
 title: Guide to Cargo
 description: Trading, money making, and tax evading.
 published: true
-date: 2024-08-29T09:04:45.912Z
-tags: guide, wiki: stub, cargo, cargo guide
+date: 2024-09-01T09:18:38.882Z
+tags: guide, cargo, other guide, wiki: stub, cargo guide
 editor: markdown
 dateCreated: 2024-08-29T09:04:45.912Z
 ---
