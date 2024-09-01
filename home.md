@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-09-01T11:29:15.524Z
+date: 2024-09-01T14:05:37.857Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-07T22:41:18.531Z
@@ -10,7 +10,7 @@ dateCreated: 2024-08-07T22:41:18.531Z
 
 <!-- ![wikibanner1.png](/wikibanner1.png) -->
 <center>
-  <img src="https://wiki.bluespace.engineer/wikibanner2.png" width="768" height="384"/>
+  <img src="https://wiki.bluespace.engineer/wikibanner2.png" width=70% height=70%/>
   
 
 <strong>Welcome to Equinox, a Space Station 13 codebase forked off Sojourn which, itself, was forked off Eris.</strong>
