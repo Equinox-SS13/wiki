@@ -2,8 +2,8 @@
 title: Guide to Surgery
 description: All about becoming a master surgeon.
 published: true
-date: 2024-08-28T12:25:50.495Z
-tags: medical, guide, medical guide, wiki: stub
+date: 2024-09-01T09:00:15.887Z
+tags: guide, medical guide, wiki: stub, medical
 editor: markdown
 dateCreated: 2024-08-13T10:44:34.104Z
 ---
