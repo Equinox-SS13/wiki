@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-09-01T14:07:25.888Z
+date: 2024-09-01T23:22:05.224Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-07T22:41:18.531Z
@@ -100,8 +100,8 @@ dateCreated: 2024-08-07T22:41:18.531Z
   	<td><ul>
       <li><s><a href="/Lore/sop/Medical-SoP">Medical SoP</a></s>      
       <li><a href="/guides/medical-guides/Guide-to-Medicine">Guide to Medicine</a>
-      <li><s><a href="/guides/medical-guides/Surgery">Surgery</a></s>
-      <li><s><a href="/guides/medical-guides/Guide-to-Chemistry">Chemistry</a></s>
+      <li><a href="/guides/medical-guides/Surgery">Surgery</a>
+      <li><a href="/guides/medical-guides/Guide-to-Chemistry">Chemistry</a>
       <li><s><a href="/guides/medical-guides/Guide-to-Cadavers">Cadavers</a></s>
       </ul>
     <td><ul>  
@@ -128,7 +128,7 @@ dateCreated: 2024-08-07T22:41:18.531Z
       </ul>
     <td><ul>
       <li><a href="/Lore/sop/Law">Colony Law</a>
-      <li><s><a href="/guides/security-guides/Guide-to-Security">Security Guide</a></s> 
+      <li><a href="/guides/security-guides/Guide-to-Security">Security Guide</a> 
       <li><s><a href="/Lore/sop/General-SoP">General SoP</a></s>   
       <li><s><a href="/Lore/sop/Security-SoP">Security SoP</a></s>
       <li><s><a href="/guides/security-guides/Guide-to-PvE-Security">External Security Guide</a></s>
