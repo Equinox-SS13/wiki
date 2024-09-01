@@ -2,7 +2,7 @@
 title: Sanity and Insight
 description: Sanity, Insight, Drugs, and Cheese
 published: true
-date: 2024-08-27T09:22:30.298Z
+date: 2024-09-01T19:39:59.823Z
 tags: guide, starter guide
 editor: markdown
 dateCreated: 2024-08-22T18:09:21.289Z
@@ -74,9 +74,9 @@ Neutral breakdowns display in **<span style = "color:red">bold red text</span>**
 Negative breakdowns will show in **<span style = "color:red">bold red text</span>** in your chatbox and have an accompanying sound effect. All negative breakdowns restore 25 sanity on Sompletion, unless otherwise specified, so be prepared to run to safety or potentially suffer another one. 
 | Breakdown | Effect | Duration | Display Text | Notes
 |:----------|:-------|:---------|:--------|:--------
-| Delusion | Hearing epxlosions and alarms at random.  | 1 Minute | Your brain screaming at you, sounds warping, voices in your head. | Restores 50 sanity on completion
+| Delusion | Hearing explosions and alarms at random.  | 1 Minute | Your brain screaming at you, sounds warping, voices in your head. | Restores 50 sanity on completion
 | Downward Spiral | Decreases positive breakdown chance by 10 percent and increases negative breakdown chance by 20 percent, -20 max sanity. | Permanent | Feeling like there's no point, not wanting to go on, turning grey, best days gone forever. | Restores 50 Sanity after completion.
-| The Fabric | Replaces people and mobs with strange symbols, prevents you from understanding their speech or speaking yourself. | 3 Minutes | Feelign secrets, understanding somethign you shouldn't, or climbing a tower. | You can still emote while in this state. Use this to roleplay as best you can!
+| The Fabric | Replaces people and mobs with strange symbols, prevents you from understanding their speech or speaking yourself. | 3 Minutes | Feeling secrets, understanding something you shouldn't, or climbing a tower. | You can still emote while in this state. Use this to roleplay as best you can!
 | Power Hungry | Reduces your electrical resistance to 0 (Siemens coefficient) and makes you want to receive an electric shock. | 15 Minutes | Wanting to receive an electric shock, pain and numbness and wanting to feel something. | Successfully being shocked grants 20 insight, restores 80 Sanity regardless of if the shock occurred.
 | Glassification | Forces you to see through other people's point of view. | 2 Minutes | Your mind expands. |  Restores 40 Sanity on completion.
 
