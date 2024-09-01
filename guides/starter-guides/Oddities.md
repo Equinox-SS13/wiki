@@ -2,7 +2,7 @@
 title: Oddities
 description: Gaining Perks and Targeted Stat Gain
 published: true
-date: 2024-09-01T08:12:30.982Z
+date: 2024-09-01T19:46:04.807Z
 tags: guide, other guide, wiki: stub
 editor: markdown
 dateCreated: 2024-08-23T16:09:10.483Z
@@ -55,7 +55,7 @@ The next thing contained in an oddity's stat description is, apropriately, the s
 
 The last line of text in an oddity's description is potentially an anomaly. Some oddities might not have anomalies. If one does, however, it will say so at the bottom of the oddity's description in <span style='color:orange;'>orange</span> text. If the strange thing you found has such text, congratulations! The oddity you found has a perk attached. 
 
-For a full list of perks, please see the [Guide to Perks](/guides/other-guides/Perks). 
+For a full list of perks, please see the [Guide to Perks](/guides/starter-guides/Perks). 
 
 ## Faction Oddities
 
