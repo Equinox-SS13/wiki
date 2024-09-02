@@ -2,7 +2,7 @@
 title: Gun Crafting
 description: Making Guns, for when you can't buy them
 published: true
-date: 2024-09-02T01:08:21.828Z
+date: 2024-09-02T01:22:41.151Z
 tags: guide, engineering guide, security guide
 editor: markdown
 dateCreated: 2024-09-02T01:08:21.828Z
@@ -103,6 +103,52 @@ The following is a series of tables listing gun recipes by gun type.
   	</tr>
 	</table>
 
+## Shotguns
+
+<table>
+  	<tr>
+      <th> Name </th>
+      <th> Caliber </th>
+      <th> Frame </th>
+      <th> Parts </th>
+    </tr>
+  	<tr>
+      <td> Excelsior Saiga-12 Shotgun </td>
+      <td> 8.6mm </td>
+      <td> Saiga Frame </td>
+      <td> Bakelite Grip, Self-Loading Mechanism, Shotgun Barrel </td>
+  	</tr>
+  	<tr>
+      <td> Saigini-12 Shotgun </td>
+      <td> Shotgun </td>
+      <td> Saiga Frame </td>
+      <td> Bakelite Grip, Boltgun Mechanism, 8.6mm Barrel </td>
+  	</tr>
+    <tr>
+      <td> X </td>
+      <td> Y </td>
+      <td> Z </td>
+      <td> A </td>
+  	</tr>
+</table>
+
+## SMGs
+<details>
+  <summary> A table containing the crafting recipes for SMG weapons.</summary>
+ 	<tr>
+     <th> Name </th>
+     <th> 7.62mm </th>
+     <th> AK Frame </th>
+     <th> Wood Grip, Self-Loading Mechanism, 6.5mm Barrel </th>
+ 	</tr>	
+ 	 <tr>
+      <td> Bastard SMG </td>
+      <td> 6.5mm </td>
+      <td> AK Frame </td>
+      <td> Wood Grip, SMG Mechanism, 6.5mm Barrel </td>
+  	</tr>
+  </details>
+
 ## Rifles
 <details>
   <summary> A table containing the crafting recipes for Rifle weapons.</summary>
@@ -126,10 +172,10 @@ The following is a series of tables listing gun recipes by gun type.
       <td> Wood Grip, Boltgun Mechanism, 10mm Barrel </td>
   	</tr>
   	<tr>
-      <td> Anti-Material Rifle </td>
-      <td> 14.5mm </td>
-      <td> Heavy Sniper Frame </td>
-      <td> Bakelite Grip, Boltgun Mechanism, 14.5mm Barrel </td>
+      <td> Breacher Kalashnikov Rifle </td>
+      <td> 7.62mm </td>
+      <td> AK Frame </td>
+      <td> Rubber Grip, Self-Loading Mechanism, 7.62mm Barrel </td>
   	</tr>
   	<tr>
       <td> Custer Repeating Rifle </td>
@@ -140,14 +186,32 @@ The following is a series of tables listing gun recipes by gun type.
   	<tr>
       <td> Excelsior Kalashnikov Rifle </td>
       <td> 7.62mm </td>
-      <td> Heavy Sniper Frame </td>
-      <td> Bakelite Grip, Boltgun Mechanism, 14.5mm Barrel </td>
+      <td> AK Frame </td>
+      <td> Bakelite Grip, Self-Loading Mechanism, 7.62mm Barrel </td>
   	</tr>
   	<tr>
       <td> Homemade Bolt Action Rifle </td>
-      <td> 14.5mm </td>
+      <td> 7.62mm </td>
       <td> Homemade Bolt Action Frame </td>
-      <td> Wood Grip, Boltgun Mechanism, Cheap 6.5mm Barrel </td>
+      <td> Wood Grip, Boltgun Mechanism, Cheap 7.62mm Barrel </td>
+      	<tr>
+      <td> Homemade Kalashnikov Rifle </td>
+      <td> 7.62mm </td>
+      <td> Homemade Kalashnikov Frame </td>
+      <td> Wood Grip, Self-Loading Mechanism, 7.62mm Barrel </td>
+  	</tr>
+  	</tr>
+  	<tr>
+      <td> Kalashnikov Rifle </td>
+      <td> 7.62mm </td>
+      <td> AK Frame </td>
+      <td> Wood Grip, Cheap Self-Loading Mechanism, Cheap 7.62mm Barrel </td>
+  	</tr>
+  	<tr>
+      <td> Kalashnikov Rifle, Sawn-Off </td>
+      <td> 7.62mm </td>
+      <td> AK Frame </td>
+      <td> Wood Grip, Self-Loading Mechanism, 2 Plasteel </td>
   	</tr>
   	<tr>
       <td> Kardaschev-Mosin Boltgun </td>
@@ -186,6 +250,12 @@ The following is a series of tables listing gun recipes by gun type.
       <td> Plastic Grip, Boltgun Mechanism, 2 Plasteel </td>
   	</tr>
   	<tr>
+      <td> Polymer Kalashnikov Rifle </td>
+      <td> 7.62mm </td>
+      <td> Armstrong Frame </td>
+      <td> Plastic Grip, Self-Loading Mechanism, 6.5mm Barrel </td>
+  	</tr>
+  	<tr>
       <td> Roe Light Boltgun </td>
       <td> 6.5mm </td>
       <td> Homemade Bolt Action Frame </td>
@@ -201,19 +271,3 @@ The following is a series of tables listing gun recipes by gun type.
 
 </details>
 
-## Shotguns
-
-<table>
-  	<tr>
-      <th> Name </th>
-      <th> Caliber </th>
-      <th> Frame </th>
-      <th> Parts </th>
-    </tr>
-    <tr>
-      <td> X </td>
-      <td> Y </td>
-      <td> Z </td>
-      <td> A </td>
-  	</tr>
-</table>
