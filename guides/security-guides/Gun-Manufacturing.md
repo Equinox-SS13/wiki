@@ -2,7 +2,7 @@
 title: Gun Crafting
 description: Making Guns, for when you can't buy them
 published: true
-date: 2024-09-02T19:46:42.370Z
+date: 2024-09-02T19:48:44.892Z
 tags: guide, engineering guide, security guide
 editor: markdown
 dateCreated: 2024-09-02T01:08:21.828Z
@@ -38,7 +38,7 @@ Different gun mechanisms make the resulting gun work differently.
 
 
 
-# Crafting
+# Frame Crafting
 
 To craft a gun, first find a frame. Then, slap parts into it until you've filled the slots! Examine the frame to see what parts are currently installed. If you've added a part that you don't want, hit the frame with a screwdriver to remove a part. Note that parts must be appropraite for the gun. See the list of the crafting recipes to see what parts are needed for what specific guns, but in general, the type of part goes with the type of gun. For example, revolvers need revolver mechanisms, shotguns need shotgun barrels, etc. 
 
@@ -49,9 +49,9 @@ Once you've added all three parts, pick up the gun frame and use the gun frame i
 
 This will finish the gun and turn it into a finished copy of the gun the frame names. For example, finishing a Regulator frame will turn it into a Regulator.
 
-# Recipes
+# Frame Crafting Recipes
 
-The following is a series of tables listing gun recipes by gun type. 
+The following is a series of tables listing recipes for crafting guns by adding parts to frames by gun type. 
 
 ## Pistols
 <details>
@@ -674,4 +674,8 @@ The following is a series of tables listing gun recipes by gun type.
 </table>
 
 </details>
+
+# Handcrafted Guns
+
+Some guns can't be made through the frame crafting system. To make these guns, open the [Crafting Menu](guide to crafting goes here) and follow the instructions to create the gun you want to craft. The recipe there includes both the instructions to follow and the materials you'll need to make the gun, so they aren't listed here to save space. 
 
