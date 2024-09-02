@@ -2,7 +2,7 @@
 title: Gun Crafting
 description: Making Guns, for when you can't buy them
 published: true
-date: 2024-09-02T19:36:28.730Z
+date: 2024-09-02T19:46:42.370Z
 tags: guide, engineering guide, security guide
 editor: markdown
 dateCreated: 2024-09-02T01:08:21.828Z
@@ -16,45 +16,36 @@ If you have guns you don't want to use, you can hit them with a wrench on help i
 
 # Parts
 Guns have four required parts:
-- A frame
-- A barrel
-- A grip
-- A mechanism
+- A frame: The basis for the gun that you attach the other three parts to. One frame can be used to make many different guns depending on the parts you put on it. The difference might be as simple as a different grip! 
+- A barrel: The thing the bullets come out of. A barrel's caliber tells you the type of ammo that the gun takes.
+- A grip: The thing you're supposed to hold on to. Helps determine what gun your frame will make, if it has multiple options. 
+- A mechanism: The thing that actually makes the bullets fire. Determines the action of the gun.
 
-## Frames
-
-Frames are the base required parts to make a gun. Without a frame, you can't even get started.
-
-A table listing frames is below:
-
-
-
-## Barrels
-
-Barrels determine the caliber of ammo that a gun fires. 
-
-A table listing barrels is below:
-
-## Grips
-
-Grips are the thing you use to hold the gun.
-
-A table listing grips is below:
+Parts can be stored (and found) in Gun Part Lockers. These are located in a few departments and maintenance. Alternately, make a big old pile in your favorite spot like a true gremlin.
 
 ## Mechanisms
 
-Mechanisms are the fiddly mechanical bits in the gun. 
+Different gun mechanisms make the resulting gun work differently. 
+- A bolt-action mechanism requires you to work the bolt before firing a shot. To do this, use the gun in hand once to open it, then again to close it. Bolt-action guns can usually only be reloaded while the bolt is open and only fired when the bolt is closed.
+- A break action mechanism requires you to use the gun in hand to open it, cracking it in half to eject or add shells/ammo.
+- A machine gun mechanism usually results in a heavy, inaccurate, automatic weapon.
+- A pistol mechanism works just like a standard pistol. Semi automatic, usually.
+- A self-loading mechanism allows for automatic fire.
+- A submachine gun (SMG) mechanism usually allows for an automatic weapon that uses pistol ammunition.
+- A revolver mechanism takes speedloaders, usually, and has to be manually emptied of casings before reloading by using the gun in hand.
+> Note: To use the gun in-hand, either press Z while holding the gun in your active/highlighted hand (if in Hotkey Mode), or click on the gun while holding it in your active/highlighted hand (if not in Hotkey Mode).
+{.is-info}
 
-A table listing mechanisms is below:
+
 
 # Crafting
 
 To craft a gun, first find a frame. Then, slap parts into it until you've filled the slots! Examine the frame to see what parts are currently installed. If you've added a part that you don't want, hit the frame with a screwdriver to remove a part. Note that parts must be appropraite for the gun. See the list of the crafting recipes to see what parts are needed for what specific guns, but in general, the type of part goes with the type of gun. For example, revolvers need revolver mechanisms, shotguns need shotgun barrels, etc. 
 
-Once you've added all three parts, pick up the gun and do the following depending on if you're in hotkey mode or not.
+Once you've added all three parts, pick up the gun frame and use the gun frame in hand.
 
-- If you're using hotkeys, press Z. 
-- If you're not using hotkeys, click on the gun in your hand while it is in your active hand.
+> Note: To use the gun in-hand, either press Z while holding the gun in your active/highlighted hand (if in Hotkey Mode), or click on the gun while holding it in your active/highlighted hand (if not in Hotkey Mode).
+{.is-info}
 
 This will finish the gun and turn it into a finished copy of the gun the frame names. For example, finishing a Regulator frame will turn it into a Regulator.
 
@@ -319,12 +310,13 @@ The following is a series of tables listing gun recipes by gun type.
 ## SMGs
 <details>
   <summary> A table containing the crafting recipes for SMGs.</summary>
- 	<tr>
+  <table>
+ 	 <tr>
      <th> Name </th>
      <th> 7.62mm </th>
      <th> AK Frame </th>
      <th> Wood Grip, Self-Loading Mechanism, 6.5mm Barrel </th>
- 	</tr>	
+ 	 </tr>	
  	 <tr>
       <td> Bastard SMG </td>
       <td> 6.5mm </td>
@@ -415,6 +407,7 @@ The following is a series of tables listing gun recipes by gun type.
       <td> Luger Frame </td>
       <td> Wood Grip, SMG Mechanism, 9mm Pistol Barrel </td>
   	</tr>
+  </table>
   </details>
 
 ## Rifles
