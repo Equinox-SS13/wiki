@@ -2,7 +2,7 @@
 title: Gun and Ammunition Manufacturing
 description: Making guns, modifying them, making the bullet for. The preparation a true warrior need before a battle.
 published: true
-date: 2024-09-03T06:28:11.579Z
+date: 2024-09-03T06:30:30.952Z
 tags: guide, engineering guide, security guide, recipe
 editor: markdown
 dateCreated: 2024-09-02T01:08:21.828Z
@@ -197,7 +197,7 @@ The following is a series of tables listing recipes for crafting guns by adding 
       <td> Lamia Heavy Pistol </td>
       <td> 12mm Heavy Pistol </td>
       <td> Lamia Frame </td>
-      <td> Rubber Grip, Pistol Mechanism, 12mm Heavy Pistol Barrel </td>
+      <td> Rubber Grip <br> Pistol Mechanism <br> 12mm Heavy Pistol Barrel </td>
   	</tr>
     <tr>
       <td> Liberty Magnum Pistol </td>
@@ -251,13 +251,13 @@ The following is a series of tables listing recipes for crafting guns by adding 
       <td> Tacticool Heavy Revolver </td>
       <td> 12mm Heavy Pistol </td>
       <td> Tacticool Frame </td>
-      <td> Plastic Grip, Revolver Mechanism, 12mm Heavy Pistol Barrel </td>
+      <td> Plastic Grip <br> Revolver Mechanism <br> 12mm Heavy Pistol Barrel </td>
   	</tr>
   	<tr>
       <td> Thorn Pistol </td>
       <td> 9mm </td>
       <td> Absolute Pistol Frame </td>
-      <td> Plastic Grip, Pistol Mechanism, 9mm Pistol Barrel </td>
+      <td> Plastic Grip <br> Pistol Mechanism <br> 9mm Pistol Barrel </td>
   	</tr>
 		<tr>
       <td> Wayfarer Caseless Revolver </td>
@@ -524,7 +524,7 @@ The following is a series of tables listing recipes for crafting guns by adding 
       <td> Excelsior Vintorez Silenced Rifle </td>
       <td> 7.62mm </td>
       <td> Vintorez Frame </td>
-      <td> Excelsior Grip, Self-Loading Mechanism, 7.62mm Barrel </td>
+      <td> Excelsior Grip <br> Self-Loading Mechanism <br> 7.62mm Barrel </td>
   	</tr>
   	<tr>
       <td> Homemade Bolt Action Rifle </td>
@@ -667,7 +667,7 @@ The following is a series of tables listing recipes for crafting guns by adding 
       <td> Scout Heavy Bolt Action Rifle </td>
       <td> 8.6mm </td>
       <td> Scout Frame </td>
-      <td> Rubber Grip <br> Boltgun Mechanism, 8.6mm Barrel </td>
+      <td> Rubber Grip <br> Boltgun Mechanism <br> 8.6mm Barrel </td>
   	</tr>
   	<tr>
       <td> Solarian Carbine </td>
