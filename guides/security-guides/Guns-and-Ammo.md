@@ -2,7 +2,7 @@
 title: Gun and Ammunition Manufacturing
 description: Making guns, modifying them, making the bullet for. The preparation a true warrior need before a battle.
 published: true
-date: 2024-09-03T02:58:42.714Z
+date: 2024-09-03T06:18:17.850Z
 tags: guide, engineering guide, security guide, recipe
 editor: markdown
 dateCreated: 2024-09-02T01:08:21.828Z
@@ -773,7 +773,7 @@ Common, general ammunition type designed to be used everyday by law enforcement,
 | Buckshot | 20mm | Shotgun round loaded with smaller pebbles designed to spread after fired. Very weak against armor but effective close-range.
 | Beanbag | 20mm | The rubber round version of the 20mm shotgun round, very painful.
 | Rubber | All | These soft-hitting rubber round are designed to cause pain to the target. Not intended to cause damage though not completely harmless, it is a choice for law enforcement for detaining threats. Useless against armored targets.
-| Pepperball | All | Pepperballs are capsaicin rounds designed to cause pain and discomfort to the target. Impact injects capsaicin, it means that the round is more effective if the target are not completely armored or sealed.
+| Pepperball | 9mm, 10mm, 12mm, 6.5mm, 20mm | Pepperballs are capsaicin rounds designed to cause pain and discomfort to the target. Impact injects capsaicin, it means that the round is more effective if the target are not completely armored or sealed.
 | Practice / Blank | All | Practice or blank rounds for training, does no damage and is safe.
 | Scrap | All including 14.5mm | Makeshift crafted ammo from scrap ammo kit, worse than actual fabricated ammunition but better than nothing.
 * *All refers to all the ammunition type except the following; 10x24 caseless, 5.56mm, 14.5mm, 17.7mm.*
