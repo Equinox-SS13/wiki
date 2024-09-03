@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-09-03T03:01:00.484Z
+date: 2024-09-03T08:30:54.892Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-07T22:41:18.531Z
@@ -116,6 +116,7 @@ dateCreated: 2024-08-07T22:41:18.531Z
       <li><s><a href="/guides/science-guides/Xenoflora">Xenoflora</a></s>
       </ul>
     <td><ul>
+      <li><s><a href="/Lore/sop/Engineer-SoP">Engineering SoP</a></s>   
       <li><s><a href="/guides/engineering-guides/Guide-to-Construction">Construction</a></s>
       <li><s><a href="/guides/engineering-guides/Tools-and-Mods">Tools and Modification</a></s>
       <li><a href="/guides/engineering-guides/Guide-to-Power">Setting Up Power</a>
@@ -129,9 +130,9 @@ dateCreated: 2024-08-07T22:41:18.531Z
       </ul>
     <td><ul>
       <li><a href="/Lore/sop/Law">Colony Law</a>
-      <li><a href="/guides/security-guides/Guide-to-Security">Security Guide</a> 
       <li><s><a href="/Lore/sop/General-SoP">General SoP</a></s>   
       <li><s><a href="/Lore/sop/Security-SoP">Security SoP</a></s>
+      <li><a href="/guides/security-guides/Guide-to-Security">Security Guide</a> 
       <li><s><a href="/guides/security-guides/Guide-to-PvE-Security">External Security Guide</a></s>
       <li><a href="/guides/security-guides/Guns-and-Ammo">Gun and Ammo Manufacturing</a>
       <li><s><a href="/guides/security-guides/Forensics">Forensics</a></s>
