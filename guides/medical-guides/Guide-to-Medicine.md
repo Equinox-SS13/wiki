@@ -2,7 +2,7 @@
 title: Guide to Medicine
 description: All you need to start out as a doctor or field medic.
 published: true
-date: 2024-09-03T14:17:38.313Z
+date: 2024-09-03T14:18:37.132Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-12T07:53:01.066Z
