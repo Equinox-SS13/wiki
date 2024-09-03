@@ -2,7 +2,7 @@
 title: Gun and Ammunition Manufacturing
 description: Making guns, modifying them, making the bullet for. The preparation a true warrior need before a battle.
 published: true
-date: 2024-09-03T06:18:17.850Z
+date: 2024-09-03T06:28:11.579Z
 tags: guide, engineering guide, security guide, recipe
 editor: markdown
 dateCreated: 2024-09-02T01:08:21.828Z
@@ -754,8 +754,10 @@ Caliber refers to the size of the bullet with the in-game measurement in milimet
 | 20mm Shotgun | Standard, large shotgun round for breaching and CQC purposes.
 | 10x24mm Caseless | A 10mm caseless round for use of SMGs and rifles, produce no casing.
 | 5.56mm (.223) | Special laser-only caliber specifically used in science-manufactured weapons.
+| .223 Piezoelectric | Pulse-charged laser previously used for pulse-based rifles, no longer used though can be found normally.
 | 14.5mm Anti-Material | Anti-material round for Anti-Material Rifles, used to punch through multiple walls and armor.
 | 17.7mm Rolled Shot | An even stronger AMR round for the Baroque lever-action and Mercurian Anti-Atmos rifle.
+
 
 ## Ammunition Type
 
@@ -786,9 +788,11 @@ These are rounds that most will not come across, either because it is faction-sp
 | - | :-: | - | 
 | Incendiary | 6.5mm, 7.62mm, 8.6mm, 20mm | This type of ammunition is designed to light up and set the target on fire.
 | Caustic / Biomatter | 9mm, 10mm, 20mm | Caustic caseless made to destroy any flesh-being without biohazard protection. Melts the skin from the inside with acid burns. Exclusive to Church.
-| Laser | Any including 5.556mm, except 20mm | Cartridges designed to hold chemical which, when activates, fire out a laser projectile just like a lasgun capable of going through windows. Exclusive to Science.
+| Laser | Any including 5.556mm | Cartridges designed to hold chemical which, when activates, fire out a laser projectile just like a lasgun capable of going through windows. Exclusive to Science.
 | Ceramic | 20mm | Shotgun round with compact ceramic material inside to act like slugs. Knocks the target back one tile, worse than slugs in every other aspects.
-| Illumination | 20mm | Shotgun round that lights up the area, works as a flare.
+| Illumination | 20mm | Shotgun rounds that light up the area, works as a flare.
+| Taser | 20mm | Shotgun round firing taser bolt that shocks the target on hit, non-lethal.
+| Plasma / Heavy Plasma | 20mm | Shotgun rounds that are designed to fire plasma projectile, works similarly to the Church's plasma weaponry except in a cartridge.
 | Soporific | 9mm, 10mm, 7.62mm, 20mm | These rubber ammunition are coated with [Soporific]() designed to dose the target up until they inevitably fall unconscious. Exclusive to Science.
 | Condensed Soporific | 9mm | Like normal Soporific rounds, but these plastic rounds are more effective in dosage injection than normal. Exclusive to the CBO.
 | Armor Penetration (AP) | 14.5mm | Standard AMR round for general use against all targets overall for piercing through things and buildings.
@@ -802,11 +806,13 @@ Other types of ammunition for ballistics and exotic weapons usually made by the 
 
 | Ammunition | Detail |
 | - | - | 
-| 40mm Grenade | 40mm grenade round that explodes on impact with shrapnel, deafens the targets nearby.
-| 40mm Frag | 40mm fragmentation round for the grenade launcher specialized to spread shrapnel specifically.
+| 40mm Frag | 40mm fragmentation round for the grenade launcher that explodes on impact and spread shrapnel.
 | 40mm Blast | 40mm High-Explosive round for the grenade launcher, good against building and vehicles.
 | 40mm Baton | Non-lethal energy bolt round for the grenade launcher, shocks the person on hit.
 | 40mm Stinger | 40mm round that spreads rubber pellets around, less-than-lethal but still damaging on direct hit.
-| High Explosive Rocket | Rounds for the RPG, these are rockets that explode on impact, destroying anything it hits.
+| 40mm Flash | 40mm round that explodes into a bright and deafening flash on hit.
+| 40mm EMP | 40mm round that explodes into an EMP, frying any machines nearby.
+| PG-7VL Grenade | Rocket rounds for the RPG-7, these are rockets that explode on impact, destroying anything it hits.
+| PG-7EMP Grenade | Rocket rounds for the RPG-7, these are rockets that explode into an EMP, disabling any machine it hits.
 | EMP Rocket | Like the other rockets, but causes EMP impact in the area.
 | Flare rounds | Colored flare gun rounds for lighting up and illuminating an area, can also be used as a signal to others.
