@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-09-03T02:50:43.554Z
+date: 2024-09-03T03:01:00.484Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-07T22:41:18.531Z
@@ -101,8 +101,8 @@ dateCreated: 2024-08-07T22:41:18.531Z
   	<td><ul>
       <li><s><a href="/Lore/sop/Medical-SoP">Medical SoP</a></s>      
       <li><a href="/guides/medical-guides/Guide-to-Medicine">Guide to Medicine</a>
-      <li><a href="/guides/medical-guides/Surgery">Surgery</a>
-      <li><a href="/guides/medical-guides/Guide-to-Chemistry">Chemistry</a>
+      <li><s><a href="/guides/medical-guides/Surgery">Surgery</a></s>
+      <li><s><a href="/guides/medical-guides/Guide-to-Chemistry">Chemistry</a></s>
       <li><s><a href="/guides/medical-guides/Guide-to-Cadavers">Cadavers</a></s>
       </ul>
     <td><ul>  
