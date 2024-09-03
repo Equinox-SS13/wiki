@@ -2,7 +2,7 @@
 title: Guide to Medicine
 description: All you need to start out as a doctor or field medic.
 published: true
-date: 2024-09-03T14:18:37.132Z
+date: 2024-09-03T14:30:00.854Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-12T07:53:01.066Z
@@ -198,15 +198,15 @@ This step alone allow us to see the severity of the situation, a few things to f
 * What is the severity of their visible wound? If the wound is not visible, is a scan needed?
 
 If you have been provided a medical HUD interface, a visible graphical visualization of a person's health will be visible above them. The following are stages of their health;
-* <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth100.gif width="64" height="10" class="sub health-indicator">: 100% healthy</div>
-* <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth80.gif width="64" height="10" class="sub health-indicator">: less than 100% health</div>
-* <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth60.gif width="64" height="10" class="sub health-indicator">: less than 70% health</div>
-* <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth40.gif width="64" height="10" class="sub health-indicator">: less than 50% health</div>
-* <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth25.gif width="64" height="10" class="sub health-indicator">: less than 30% health</div>
-* <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth10.gif width="64" height="10" class="sub health-indicator">: less than 18% health</div>
-* <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth1.gif width="64" height="10" class="sub health-indicator">: less than 5% health</div>
-* <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth0.gif width="64" height="10" class="sub health-indicator">: less than 0%, this is also known as "in critical stage"</div>
-* <div style="display: flex; align-items: center;"><img src=/game_sprites/medhudstates/hudhealth-100.gif width="64" height="10" class="sub health-indicator">: the patient is dead</div>
+* <div><img src=/game_sprites/medhudstates/hudhealth100.gif class="w-16 h-2.5 object-cover object-top">: 100% healthy</div>
+* <div><img src=/game_sprites/medhudstates/hudhealth80.gif class="w-16 h-2.5 object-cover object-top">: less than 100% health</div>
+* <div><img src=/game_sprites/medhudstates/hudhealth60.gif class="w-16 h-2.5 object-cover object-top">: less than 70% health</div>
+* <div><img src=/game_sprites/medhudstates/hudhealth40.gif class="w-16 h-2.5 object-cover object-top">: less than 50% health</div>
+* <div><img src=/game_sprites/medhudstates/hudhealth25.gif class="w-16 h-2.5 object-cover object-top">: less than 30% health</div>
+* <div><img src=/game_sprites/medhudstates/hudhealth10.gif class="w-16 h-2.5 object-cover object-top">: less than 18% health</div>
+* <div><img src=/game_sprites/medhudstates/hudhealth1.gif class="w-16 h-2.5 object-cover object-top">: less than 5% health</div>
+* <div><img src=/game_sprites/medhudstates/hudhealth0.gif class="w-16 h-2.5 object-cover object-top">: less than 0%, this is also known as "in critical stage"</div>
+* <div><img src=/game_sprites/medhudstates/hudhealth-100.gif class="w-16 h-2.5 object-cover object-top">: the patient is dead</div>
 
 Additionally, the health HUD also display other information for the person, such as whether they are bleeding, if they are infected with a virus, for example. This still shouldn't be fully relied on, as the best way to check someone is with a [health scan](#health-scanner).
 
