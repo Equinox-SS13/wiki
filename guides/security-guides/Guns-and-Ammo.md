@@ -2,7 +2,7 @@
 title: Gun and Ammunition Manufacturing
 description: Making guns, modifying them, making the bullet for. The preparation a true warrior need before a battle.
 published: true
-date: 2024-09-03T02:51:09.401Z
+date: 2024-09-03T02:58:16.074Z
 tags: guide, engineering guide, security guide, recipe
 editor: markdown
 dateCreated: 2024-09-02T01:08:21.828Z
@@ -791,9 +791,10 @@ These are rounds that most will not come across, either because it is faction-sp
 | Illumination | 20mm | Shotgun round that lights up the area, works as a flare.
 | Soporific | 9mm, 10mm, 7.62mm, 20mm | These rubber ammunition are coated with [Soporific]() designed to dose the target up until they inevitably fall unconscious. Exclusive to Science.
 | Condensed Soporific | 9mm | Like normal Soporific rounds, but these plastic rounds are more effective in dosage injection than normal. Exclusive to the CBO.
-| "Red-Nose" | 14.5mm | A standard AMR round built specifically to make large holes in things.
-| "Off-Switch" | 14.5mm | An ion round for the AMR, causes EMP burst to the target where the round is impacted.
-| "Willy-Pete" | 14.5mm | An incendiary round for the AMR, packs much less punch but cahses the target to burn.
+| Armor Penetration (AP) | 14.5mm | Standard AMR round for general use against all targets overall for piercing through things and buildings.
+| "Red-Nose" | 14.5mm | AMR round built specifically to make large holes in organics with more damage and pain.
+| "Off-Switch" | 14.5mm | Ion round for the AMR, causes EMP burst to the target where the round is impacted.
+| "Willy-Pete" | 14.5mm | Incendiary round for the AMR, packs much less punch but cahses the target to burn.
 
 ## Others
 
