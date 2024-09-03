@@ -2,7 +2,7 @@
 title: Gun and Ammunition Manufacturing
 description: Making guns, modifying them, making the bullet for. The preparation a true warrior need before a battle.
 published: true
-date: 2024-09-03T02:58:16.074Z
+date: 2024-09-03T02:58:42.714Z
 tags: guide, engineering guide, security guide, recipe
 editor: markdown
 dateCreated: 2024-09-02T01:08:21.828Z
@@ -801,7 +801,7 @@ These are rounds that most will not come across, either because it is faction-sp
 Other types of ammunition for ballistics and exotic weapons usually made by the bullet fabricator and other machinery.
 
 | Ammunition | Detail |
-| :-: | - | 
+| - | - | 
 | 40mm Grenade | 40mm grenade round that explodes on impact with shrapnel, deafens the targets nearby.
 | 40mm Frag | 40mm fragmentation round for the grenade launcher specialized to spread shrapnel specifically.
 | 40mm Blast | 40mm High-Explosive round for the grenade launcher, good against building and vehicles.
