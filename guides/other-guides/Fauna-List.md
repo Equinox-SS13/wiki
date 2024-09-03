@@ -2,7 +2,7 @@
 title: Creatures and Companion
 description: Friend, foe, fauna, friendly or not.
 published: true
-date: 2024-09-03T08:29:36.210Z
+date: 2024-09-03T08:45:56.911Z
 tags: guide, other guide, wiki: missing file, wiki: needs revision, wiki: stub
 editor: markdown
 dateCreated: 2024-08-29T10:46:01.844Z
@@ -117,6 +117,8 @@ The natives of the planet who aren't so happy to see you.
 |  | Hell Pig | The venerable evolution of a tengolo charger, morphing into a violent and destructive beast hostile to all but its own berserk kind.
 |  | Slepnir | The Slepnir, unlike its other berserk kin Hell Pig, only attacks those who draw close, but once its ire is drawn it becomes a relentless pursuer.
 |  | Wendigo | Unlike the Slepnir and Hell Pig, the Wendigo is a violent transformation that involves much of the flesh and bone of a tengolo painfully and rapidly mutating, driving the creature insane and violent. 
+|  | Mutated Tissue | A weird amalgamation of flesh and bone found only within the cavities of abandoned lab experiments gone wrong.
+|  | Malformed Render | A render subsumed by the weird amalgamation of flesh, strong and dangerous.
 
 
 ## Roaches
@@ -136,7 +138,7 @@ The natives of the planet who aren't so happy to see you.
 |  | Fuhrer | Leader of the roach swarm, can shriek for backup or call the group to retreat to the nearby burrow.
 |  | Kaiser | The Kaiser roach is a leviathan class creature, a gigantic armored behemoth compared to the Fuhrer roach. It has nearly all the capabilities as the rest of the roaches and spit out radioactive goo that will slowly melt you. Try to avoid at all cost.
 |  | Unbekannt | Or the Bluespace Roach, this shimmering insectoid-like creature greatly resembles a giant cockroach. It flickers in and out of reality, as if it didn't really belong here. 
-|  | Tanztz | A scary, odd mass of twitching and squirming limbs, an abomination of frogs and roach melded together usually found deep in the forest.
+|  | Tanztz | A scary, odd mass of twitching and squirming limbs, an abomination of frogs and roach melded together with the power of radiation.
 |  | Golden | A relatively harmless and docile subspecies of the roaches, reproduces docile offspring and shred gold if fed enough.
 
 
