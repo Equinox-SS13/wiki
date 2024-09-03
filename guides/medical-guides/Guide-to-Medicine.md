@@ -2,7 +2,7 @@
 title: Guide to Medicine
 description: All you need to start out as a doctor or field medic.
 published: true
-date: 2024-09-03T14:14:09.778Z
+date: 2024-09-03T14:14:33.365Z
 tags: guide, medical guide, wiki: work in progress, medical
 editor: markdown
 dateCreated: 2024-08-12T07:53:01.066Z
@@ -162,7 +162,7 @@ Organ damage refers to any types of damage applied to the organ directly. In som
 
 The following are a list of organ and what happens when they are dead, or destroy.
 
-|||||
+|||||{.hidden}
 |----------|------------------------------|----------|----------------------------------------|
 | Brain    | Death of the person and their consciousness | Heart    | Death of other organs by lack of bloodflow. |
 | Lungs    | Inability to breath oxygen, causing death of other organs | Liver    | Inability to process chemicals and allowing toxin to build up |
