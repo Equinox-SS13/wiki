@@ -2,7 +2,7 @@
 title: Gun and Ammunition Manufacturing
 description: Making guns, modifying them, making the bullet for. The preparation a true warrior need before a battle.
 published: true
-date: 2024-09-03T02:50:45.956Z
+date: 2024-09-03T02:51:09.401Z
 tags: guide, engineering guide, security guide, recipe
 editor: markdown
 dateCreated: 2024-09-02T01:08:21.828Z
@@ -16,7 +16,7 @@ There are many types of guns, each working differently; either by changing the t
 
 This page will only cover ballistics, since energy and laser guns cannot be crafted in typical means, requiring disks and autolathe, hand-crafting, or the protolathe.
 * Ballistics are a type of weapon firing traditional and conventional physical round. These rounds are usually loaded with gunpowder and triggered by a firing pin. 
-  * This causes a chambered explosion as the bullet leaves the barrel. This results in a loud "bang", recoil, and bright flash.
+* This causes a chambered explosion as the bullet leaves the barrel. This results in a loud "bang", recoil, and bright flash.
 
   <table>
   	<tr>
