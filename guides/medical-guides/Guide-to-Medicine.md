@@ -2,8 +2,8 @@
 title: Guide to Medicine
 description: All you need to start out as a doctor or field medic.
 published: true
-date: 2024-09-03T14:14:33.365Z
-tags: guide, medical guide, wiki: work in progress, medical
+date: 2024-09-03T14:15:15.729Z
+tags: 
 editor: markdown
 dateCreated: 2024-08-12T07:53:01.066Z
 ---
@@ -162,14 +162,15 @@ Organ damage refers to any types of damage applied to the organ directly. In som
 
 The following are a list of organ and what happens when they are dead, or destroy.
 
-|||||{.hidden}
+|.|.|.|.|
 |----------|------------------------------|----------|----------------------------------------|
 | Brain    | Death of the person and their consciousness | Heart    | Death of other organs by lack of bloodflow. |
 | Lungs    | Inability to breath oxygen, causing death of other organs | Liver    | Inability to process chemicals and allowing toxin to build up |
 | Kidneys  | Inability to regenerate blood and allowing toxin to build up | Stomach  | Inability to digest food or take nutrients by mouth |
 | Appendix  | Nothing, the appendix is functionless | Bone     | Loss of the limb or body part |
 | Blood vessel | Lack of bloodflow to the limb or body part | Nerve | Loss of [NSA](#neural-system-accumulation) and function of the limb or body part |
-| Muscle   | Loss of function of the limb or body part. | |
+| Muscle   | Loss of function of the limb or body part. | |{.no-table-head}
+
 * It has to be noted that, out of all organs, bones are unaffected by the lack of bloodflow and oxygen.
 
 ## Pain
