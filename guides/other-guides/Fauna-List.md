@@ -2,7 +2,7 @@
 title: Creatures and Companion
 description: Friend, foe, fauna, friendly or not.
 published: true
-date: 2024-08-29T10:46:01.844Z
+date: 2024-09-03T08:29:36.210Z
 tags: guide, other guide, wiki: missing file, wiki: needs revision, wiki: stub
 editor: markdown
 dateCreated: 2024-08-29T10:46:01.844Z
@@ -32,7 +32,7 @@ Organic (and inorganic) pets or automated critters of the colony.
 |  | Runtime | Chief Biolab Overseer's pet, she is a big fan of chasing mice and hiding in boxes.
 |  | 7K-TEN | Chief Research Overseer's infamous pet roomba, never give it a knife.
 |  | Poly | The Guild Master's pet, loves stealing crackers and anything you'd have on hand.
-|  | Lizard | Or Lizard of Cargo, enjoys staring and habiting the Manager's office.
+|  | Adept Blattedin | Guild's employee of the month, sometimes produce gold and friendly offspring if fed enough.
 |  | Corporal Collen | Blackshield's pet--or well, the mascot. The only member of Blackshield with zero friendly fire incident.
 |  | Tagilla | Prospector's young Primal Render, passive and friendly. Keep him aay from any Blackshield or Marshals.
 
@@ -104,6 +104,7 @@ The natives of the planet who aren't so happy to see you.
 |  | Shantak | A piglike creature with a bright iridiscent mane. Elegant, but predatory. 
 |  | Wurm Youngling | A plasma eating wurm capable of firing volatile globs of electric acid if they spot prey. This is merely a youngling, they are not as dangerous as adults. 
 |  | Wurm | Hated by lonestar miners as many do not know it is there until they are hit by acid. This is a fully grown wurm, bulging sacks of acidic goo hang from its jaw. 
+|  | Slime | Either naturally occurring or leaked from the Xenobiology lab, the slime is a durable blob that is strong against lasers and bullets. Cold-temperature beams, stun-batons, and water from fire extinguisher is advised to contain it.
 |  | Jelly Blob | A parasitic creature that gorges intensely on whatever falls into the dark recesses. 
 |  | Primal Lizard | A hungry, green lizard that roams around and often competes with larger creatures for prey. 
 |  | Primal Render | An armored terror on two legs that even hunters dread. You'd best run, fast. 
@@ -135,6 +136,8 @@ The natives of the planet who aren't so happy to see you.
 |  | Fuhrer | Leader of the roach swarm, can shriek for backup or call the group to retreat to the nearby burrow.
 |  | Kaiser | The Kaiser roach is a leviathan class creature, a gigantic armored behemoth compared to the Fuhrer roach. It has nearly all the capabilities as the rest of the roaches and spit out radioactive goo that will slowly melt you. Try to avoid at all cost.
 |  | Unbekannt | Or the Bluespace Roach, this shimmering insectoid-like creature greatly resembles a giant cockroach. It flickers in and out of reality, as if it didn't really belong here. 
+|  | Tanztz | A scary, odd mass of twitching and squirming limbs, an abomination of frogs and roach melded together usually found deep in the forest.
+|  | Golden | A relatively harmless and docile subspecies of the roaches, reproduces docile offspring and shred gold if fed enough.
 
 
 ## Spiders
@@ -166,7 +169,7 @@ The natives of the planet who aren't so happy to see you.
 | - | - | - |
 |  | Pekhota |
 |  | Pomoshchnik |
-|  | Pushka |
+|  | Pushka | 
 |  | Smertnik |
 |  | Kop'ye |
 |  | Koroleva | 
