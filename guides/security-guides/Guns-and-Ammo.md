@@ -2,7 +2,7 @@
 title: Gun and Ammunition Manufacturing
 description: Making guns, modifying them, making the bullet for. The preparation a true warrior need before a battle.
 published: true
-date: 2024-09-03T06:30:30.952Z
+date: 2024-09-03T06:57:15.291Z
 tags: guide, engineering guide, security guide, recipe
 editor: markdown
 dateCreated: 2024-09-02T01:08:21.828Z
@@ -798,7 +798,7 @@ These are rounds that most will not come across, either because it is faction-sp
 | Armor Penetration (AP) | 14.5mm | Standard AMR round for general use against all targets overall for piercing through things and buildings.
 | "Red-Nose" | 14.5mm | AMR round built specifically to make large holes in organics with more damage and pain.
 | "Off-Switch" | 14.5mm | Ion round for the AMR, causes EMP burst to the target where the round is impacted.
-| "Willy-Pete" | 14.5mm | Incendiary round for the AMR, packs much less punch but cahses the target to burn.
+| "Willy-Pete" | 14.5mm | White phosphorous incendiary round for the AMR, packs much less punch but causes the target to burn.
 
 ## Others
 
