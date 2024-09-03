@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-09-01T23:29:35.407Z
+date: 2024-09-03T02:50:43.554Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-07T22:41:18.531Z
@@ -96,6 +96,7 @@ dateCreated: 2024-08-07T22:41:18.531Z
       <li><a href="/guides/starter-guides/Stats-and-Skills">Stats and Skills</a>
       <li><a href="/guides/starter-guides/Sanity-and-Insight">Sanity and Insight</a>  
       <li><a href="/guides/starter-guides/Perks">Perks</a> 
+      <li><a href="/guides/starter-guides/Oddities">Oddities</a>
       </ul>
   	<td><ul>
       <li><s><a href="/Lore/sop/Medical-SoP">Medical SoP</a></s>      
@@ -132,7 +133,8 @@ dateCreated: 2024-08-07T22:41:18.531Z
       <li><s><a href="/Lore/sop/General-SoP">General SoP</a></s>   
       <li><s><a href="/Lore/sop/Security-SoP">Security SoP</a></s>
       <li><s><a href="/guides/security-guides/Guide-to-PvE-Security">External Security Guide</a></s>
-      <li><s><a href="/guides/security-guides/Gun-Manufacturing">Guide to Gun Building</a></s>
+      <li><a href="/guides/security-guides/Guns-and-Ammo">Gun and Ammo Manufacturing</a>
+      <li><s><a href="/guides/security-guides/Forensics">Forensics</a></s>
       </ul>
     <td><ul>  
       <li><s><a href="/Lore/sop/Cargo-SoP">Cargo SoP</a></s>
@@ -145,7 +147,7 @@ dateCreated: 2024-08-07T22:41:18.531Z
       <li><s><a href="guides/other-guides/AI">Guide to AI</a></s>        
       </ul>
     <td><ul>  
-      <li><s><a href="/guides/other-guides/Oddities">Oddities</a></s>
+      <li><s><a href="/guides/other-guides/Crafting">Crafting</a></s>
       <li><a href="/guides/other-guides/Psionics">Psionics</a>
       <li><s><a href="/guides/other-guides/Cruciform">The Cruciform</a></s>
       <li><s><a href="/guides/other-guides/Nanogate">Nanogate</a></s>
@@ -157,6 +159,6 @@ dateCreated: 2024-08-07T22:41:18.531Z
       <li><s><a href="/guides/other-guides/Mechs-and-Rigsuits">Mech and Rigsuit Controls</a></s> 
       </ul>
   </tr>
-
+  
 </div>
   
