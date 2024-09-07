@@ -2,7 +2,7 @@
 title: Colony Militia Departmental Guide
 description: Militia
 published: true
-date: 2024-08-31T17:01:40.099Z
+date: 2024-09-07T06:56:31.955Z
 tags: lore, security, external security
 editor: markdown
 dateCreated: 2024-08-30T00:37:19.627Z
@@ -31,9 +31,18 @@ Presently, the Militia is dedicated to protecting the colony from incursion by p
 
 Given that the Militia is comprised of individuals who took it among themselves to defend the colony and an underfunded and nearly-defunct PMC, they rely on what gear they can get. Armor is spread thing, and heavier weapons are nearly nonexistent. Most Militiamembers get by with pistols, SMGs, and similar, while whole-body armor is reserved for the rarest of situations. In a pinch, they *can* call on their parent group, Paragon, but due to the distance and time required to send asistance, this is rare, costly, and not usually granted by Paragon. 
 
+# What Does the Typical Member Look Like?
+
+The typical member of the militia comes in two types. Those who were part of the original Paladin group tend to be veterans of combat on the planet, having been here for quite some time, but are more used to fighting in the colony itself. There aren't a ton of those people left, but they do exist. Some of them trained a few of the less-skilled militia joinees as well.
+
+The second type are those who jonied to defend the colony. These tend to be a little more idealistic, but some are also more interested in saving their own skin than those of other people.
+TO BE CONTINUED.
+
 # How Do They See Other Factions?
 
 TBD.
+
+--
 
 The colony's external security.
 
