@@ -2,7 +2,7 @@
 title: Gun and Ammunition Manufacturing
 description: Making guns, modifying them, making the bullet for. The preparation a true warrior need before a battle.
 published: true
-date: 2024-09-14T19:17:15.264Z
+date: 2024-09-14T19:18:30.049Z
 tags: guide, engineering guide, security guide, other guide, recipe
 editor: markdown
 dateCreated: 2024-09-02T01:08:21.828Z
@@ -29,7 +29,7 @@ This page will only cover ballistics, since energy and laser guns cannot be craf
   	</tr>
     <tr>
       <td> Revolver </td>
-      <td> A hard-hitting mechanism that requires the user to manually empty shell casing after firing.Takes individual rounds fed by hand or a speed-loader. </td>
+      <td> A hard-hitting mechanism that requires the user to manually empty shell casing after firing. Takes individual rounds fed by hand or a speed-loader. To unload, use the gun in-hand.</td>
   	</tr>
     <tr>
       <td> Submachine Gun (SMG) </td>
@@ -49,7 +49,7 @@ This page will only cover ballistics, since energy and laser guns cannot be craf
   	</tr>
     <tr>
       <td> Shotgun </td>
-      <td> Unless semi-automatic or automatic, requires the racking of the gun before another round can be fired by activating in hand. Takes 20mil rounds, shotgun takes individual rounds and rarely magazines.  </td>
+      <td> Unless semi-automatic or automatic, requires the racking of the gun before another round can be fired by activating in hand. Takes 20mil rounds, shotgun takes individual rounds and rarely magazines.  To rack, use the shotgun in hand.</td>
   	</tr>
     <tr>
       <td> Break Action </td>
@@ -58,9 +58,6 @@ This page will only cover ballistics, since energy and laser guns cannot be craf
   </table>
   
 * **Note:** To use the gun in-hand, either press Z while holding the gun in your active/highlighted hand (if in Hotkey Mode), or click on the gun while holding it in your active/highlighted hand (Works for both modes).
-
-## Gun Designation
-Within the world of ballistics
 
 # Gun Crafting
 To craft a gun, it requires parts. Gun parts can be manufactured, bought, traded for, or found in maintenance trash piles. Armament piles increases the chance to contain these gun parts.
