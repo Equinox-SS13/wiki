@@ -2,7 +2,7 @@
 title: Sanity and Insight
 description: Sanity, Insight, Drugs, and Cheese
 published: true
-date: 2024-09-01T19:45:06.505Z
+date: 2024-09-15T17:17:21.788Z
 tags: guide, starter guide
 editor: markdown
 dateCreated: 2024-08-22T18:09:21.289Z
@@ -48,7 +48,7 @@ Sanity can be lost down to 40% before you start seeing negative effects. Once yo
 
 If your sanity hits zero, you'll suffer a breakdown. Breakdowns represent the stress of whatever you've experienced becoming too much for you, and your character will react in some way.
 
-Breakdowns come in three flavors, positive, neutral, and negative. Unmodified, the chance for a positive breakdown is 20% and the chance for a negative is 30%. Certain perks and breakdowns can modify this chance. 
+Breakdowns come in three flavors, positive, neutral, and negative. Unmodified, the chance for a positive breakdown is 20% and the chance for a negative is 30%. Certain perks and breakdowns can modify this chance. Suffering a negative breakdown will reset your Insight progress to 0. However, gaining a positive breakdown will grant you insight on completion.
 
 ## Positive Breakdowns
 Positive breakdowns will show up in **<span style = "color:blue">bold blue text</span>** in your chatbox. All positive breakdowns restore 100 sanity on completion. Below is a list of positive breakdowns, their effects, duration, and display text.
