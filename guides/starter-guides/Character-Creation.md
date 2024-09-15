@@ -2,7 +2,7 @@
 title: Character Creation
 description: Making your very own character on Equinox.
 published: true
-date: 2024-08-27T09:19:00.339Z
+date: 2024-09-15T17:13:39.115Z
 tags: guide, starter guide
 editor: markdown
 dateCreated: 2024-08-23T19:52:13.156Z
@@ -146,7 +146,7 @@ The background section contains four categories: Career, Ethnicity, Homeworld, a
 | Medical Positronic | Synthetic | 30 | 0 | 0 | 0 | 0 | 0 | NONE | Soteria Synthetic only, inbuilt surgical tool provided.
 | Non-Lethal Model | Synthetic | 0 | 0 | 0 | 20 | 5 | 20 | NONE | Blackshield Synthetic only, inbuilt taser provided.
 | Scholar Chassis | Synthetic | 25 | 25 | 35 | 0 | 0 | 0 | NONE | NONE
-| Veteran Chassis | 0 | 0 | 0 | 32 | 10 | 32 | NONE | NONE
+| Veteran Chassis | Synthetic | 0 | 0 | 0 | 32 | 10 | 32 | NONE | NONE
 </details>
 
 <details>
