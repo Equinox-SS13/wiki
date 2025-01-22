@@ -2,7 +2,7 @@
 title: Flavor Text and Records
 description: Visible character information!
 published: true
-date: 2025-01-21T23:58:33.180Z
+date: 2025-01-22T00:25:26.457Z
 tags: character creation, ic information, flavor text, records
 editor: markdown
 dateCreated: 2025-01-21T23:58:33.180Z
@@ -103,3 +103,35 @@ Qualifications: !!!QUALSHERE!!!
 [br]Notes: !!!FLUFFHERE!!![hr][hr][small][i]All your paperwork needs, in short and simple formatting![/i][/small][hr][hr]
 
 Just like the above two records, remember to fill out the information. If your character has had multiple jobs, copy the block from Start of Contract to Qualifications, and input all that information for each job. 
+
+# Exploitable Information
+There's one last piece of records: Exploitable information. Exploitable information is information only viewable to antagonists, unlike other records which can be viewed by the various departments that should have access to them. Exploitable information can be things like secret debts, shameful secrets, ways to emotionally needle your character, and similar. These could be as simple as a debt you haven't repaid or as complex as the location of the family you've been hiding from antagonists for decades. Pick something that provides for interesting storytelling, or add multiple! 
+
+Here is an example of how to format your exploitable information:
+
+>[b]BACKGROUND REQUESTED...
+>
+>CONFIRMING ENCRYPTION KEY...
+>
+>ENCRYPTION KEY ACCEPTED...
+>
+>SENDING ENCODED DOCUMENT...[/b]
+[hr][hr]
+[center][b][h1]GODSPEED; AGENT OF CHAOS.[/b]
+‎ [/center][hr][hr]
+[b]Name:[/b] !!!LAST,MIDDLE,FIRSTNAMEHERE!!!
+[b]Age:[/b] !!!AGEHERE!!!
+[b]Sex:[/b] !!!SEXHERE!!!
+[b]Species:[/b] !!!SPECIESHERE!!!
+[b]Race:[/b] !!!RACEHERE!!!
+[b]Coloration:[/b] !!!SKIN/FURCOLORHERE!!!
+[b]Place of Residence:[/b] !!!HOMELOCATIONHERE!!!
+[hr]
+[b]Individual's Close Family/Friends:[/b]
+!!!LAST,FIRSTNAME!!! | !!!RELATION,AGE!!! | !!!JOB!!! | !!!PLACEOFRESIDENCE!!!
+!!!LAST,FIRSTNAME!!! | !!!RELATION,AGE!!! | !!!JOB!!! | !!!PLACEOFRESIDENCE!!!
+!!!LAST,FIRSTNAME!!! | !!!RELATION,AGE!!! | !!!JOB!!! | !!!PLACEOFRESIDENCE!!!
+[hr]
+[large][b]ADDITIONAL EXPLOITIVE INFORMATION[/b][/large]
+[i]!!!DIRTYLITTLESECRETSGOHERE!!![/i]
+[hr][hr]
