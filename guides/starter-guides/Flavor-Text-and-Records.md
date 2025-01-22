@@ -2,7 +2,7 @@
 title: Flavor Text and Records
 description: Visible character information!
 published: true
-date: 2025-01-22T00:27:00.648Z
+date: 2025-01-22T00:28:08.488Z
 tags: character creation, ic information, flavor text, records
 editor: markdown
 dateCreated: 2025-01-21T23:58:33.180Z
