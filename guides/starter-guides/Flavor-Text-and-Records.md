@@ -2,7 +2,7 @@
 title: Flavor Text and Records
 description: Visible character information!
 published: true
-date: 2025-01-22T00:25:26.457Z
+date: 2025-01-22T00:27:00.648Z
 tags: character creation, ic information, flavor text, records
 editor: markdown
 dateCreated: 2025-01-21T23:58:33.180Z
@@ -44,7 +44,7 @@ Character records are an administrative view of your character's history. Genera
 
 There are three kinds of records: Medical, Security, and Employment.
 
-> The record examples in this guide were provided with consent by Andron1219. Thanks Andron!
+> The record and exploitable example formats in this guide were provided with consent by Andron1219. Thanks Andron!
 {.is-info}
 
 
