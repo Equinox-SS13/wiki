@@ -1,8 +1,8 @@
 ---
 title: Gun and Ammunition Manufacturing
-description: Making guns, modifying them, making the bullet for. The preparation a true warrior need before a battle.
+description: Making guns, modifying them, and making bullets.
 published: true
-date: 2024-09-14T19:18:30.049Z
+date: 2025-02-05T23:53:39.833Z
 tags: guide, engineering guide, security guide, other guide, recipe
 editor: markdown
 dateCreated: 2024-09-02T01:08:21.828Z
