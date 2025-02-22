@@ -2,43 +2,42 @@
 title: The Colony and the Planet
 description: Where we live! And where other things live.
 published: true
-date: 2024-08-30T00:45:51.417Z
+date: 2025-02-22T22:10:01.404Z
 tags: lore, colony, planet
 editor: markdown
 dateCreated: 2024-08-30T00:45:51.417Z
 ---
 
 # Header
-lore here!
+
+Equinox is set on COLONY, an up-and-coming colony started to strengthen a shipping lane in a backwater portion of the galaxy. The colony is upset by the sudden appearance of a strange ship, the Northern Light, and its engine's effect on the area. 
 
 > Information here is subject to change and has not yet been finalized! Please do not take it as gospel, but as a general direction.
 {.is-warning}
 
 # Planet Lore
 
--	Region information: Some smaller sovereign territory, not SolGov. Maybe some multispecies federation/group that controls the region. Colony located along a shipping lane, close enough for trade but not a real destination. 
--	Planet Location: 
--	Planet Name:
+
 
 # Colony Lore 
 
-Colony map – 
--	Colony Name:
--	Colony History: 
-o	A few factions set up the colony to start making money. They build the colony and before they can really start the operations, the NL crashes in their front yard. 
-o	The NL becomes a pseudo gold rush by being a location where factions grab things that they need from in there.
--	Colony Feel:
-o	A few smaller spaces. Think large prefab buildings that encompass entire departments.  Not super huge, but usable.
-o	More above-ground stuff than underground stuff. 
-o	Sort of a murderous Elysium? 
-o	Getting that mysterious, vaguely eldritch feel from the events and influence of the light.
-	Things from the light coming out to the colony. 
-	The Drive is still active and is causing Bluespace fluctuations around the colony. Start small, then go bigger over time.
-	Drive itself is nowhere to be found. Chunks of the ship are scattered around the map and teleport in and out between rounds (random generation a la away missions?) 
-	Random anomalous ruins start warping in later on, full of random anomalous items and materials to explore, as well as ARG information and information on the NL
-	Feeling: Hadley’s Hope but in the daytime?  
-	Nothing super elaborate. Prefabs that haven’t had the chance to be realized yet. 
-•	Allows for people to help with sort of modular buildings and expansions to the maps. 
-o	General Colony Layout: 
-	Big prefabs/collections of prefabs that hold departments. Connected by both underground maintenance tunnels and traditional tunnels. 
-	NL has absorbed part of the old NTS ship Megumi and crashed in a valley that had been previously set up to be a quarry or mine map south/north of the colony. Not close to the colony but not too far away either. A bit of a trek through the jungle, a little expedition to the expedition site. 
+> The following is accurate for the server's lore. Once the map is updated from Sojurn's base map, this lore takes effect.
+{.is-warning}
+
+## Pre-Crash
+
+PLACEHOLDER is a colony set up by THE LOCAL GOVERNMENT to be a new expansion of a nearby shipping route. Due to this shipping route, the planet was already home to smugglers and pirates, and so the colony was placed in a relatively defensible area nearby a large forest and a quarry for easy access to resources to construct it. 
+
+Originally, each of the [factions](/Lore/Factions) had a presence on the ship. [Engineering](/Lore/Departments/Engineering) built the original power infrastructure and maintains both it and generalized colony infrastructure to this day. [Medical](/Lore/Departments/Medical) provided basic medical services. [Cargo](/guides/other-guides/Guide-to-Cargo) provided a shipping stop for ships passing by and was angled to build up into a large shipping hub. [The Militia](/Lore/Departments/External-Security) began as a small PMC that was intended to defend the colony from outside threats. [Research](/Lore/Departments/Science) came with the initial colony as a source of funding in exchange for a place to do their science. The [Port Authority](/Lore/Departments/Internal-Security) is the arm of the government that established the colony, and serves as their representative here. The [Church](/Lore/Departments/Church) provided smaller religious services to the colony. [Command](/Lore/Departments/Command) provided interdepartmental communication and mediation services to help communicate between the various groups. 
+
+The colony is located in a valley near a large quarry, with easy access to a lake to the southeast, a forest to the southwest, and a large quarry directly south. 
+
+## During the Crash
+
+The day that the Northern Light crashed was to be the colony's groundbreaking ceremony, finalizing the colony. Once the ship crashed, a few good samaritans, medical personnell, and most of the PMC approached to search for survivors, and were almost entirely killed by the horrors escaping from the Light. The rest of the colonists retreated to the colony.
+
+Once the survivors were rescued, repairs and medical attention were provided, and people recuperated for a moment, questions began. What was this ship? Where did it come from? What are the things coming out of it?
+
+## Post-Crash
+
+After the crash of the Northern Light, the colony began to muse over the ship itself. The secrets it holds are still unknown, and while the plans for an expanded shipping lane might have been put on hold for the time being, the ship itself might hold something more valuable than the shipping lane could have ever been. 
