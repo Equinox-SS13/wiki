@@ -1,8 +1,8 @@
 ---
 title: Medical Department Lore
-description: To do!
+description: Medical Relief Aid
 published: true
-date: 2025-02-24T01:40:43.613Z
+date: 2025-02-24T01:41:36.905Z
 tags: lore, medical
 editor: markdown
 dateCreated: 2024-08-30T00:32:57.341Z
