@@ -2,7 +2,7 @@
 title: Medical Department Lore
 description: To do!
 published: true
-date: 2025-02-24T01:40:29.823Z
+date: 2025-02-24T01:40:43.613Z
 tags: lore, medical
 editor: markdown
 dateCreated: 2024-08-30T00:32:57.341Z
