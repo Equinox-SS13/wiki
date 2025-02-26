@@ -2,7 +2,7 @@
 title: Sanity and Insight
 description: Sanity, Insight, Drugs, and Cheese
 published: true
-date: 2024-09-15T17:17:21.788Z
+date: 2025-02-26T01:56:06.177Z
 tags: guide, starter guide
 editor: markdown
 dateCreated: 2024-08-22T18:09:21.289Z
@@ -147,3 +147,6 @@ This means that her skill point pool is 45, 15 from this rest, 15 from the previ
 
 This works the same as an Oddity. The same Oddity as in Example One (1 `Bio`, 6 `Rob`, 4 `Cog`) will increase her stats by two points per strength in each of the Oddity's stats, but this time this will be multiplied by three, because she has three Resting Points (one for this rest, two stored from the previous.) 
 * Therefore, her `Bio` will increase by `6 (2 base * 1 stat * 3 Resting Points)`, `Rob` by 18, and `Cog` by 12.
+
+## Personal Objectives
+[Personal Objectives](/guides/starter-guides/Personal-Objectives) are a minor bonus to your stats that are gained through performing standard tasks during the round. A list can be found on their page linked at the beginning of this section. They are included here because some provide minor stat bonuses. 
