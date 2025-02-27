@@ -2,7 +2,7 @@
 title: Guide to Cargo
 description: Trading, money making, and tax evading.
 published: true
-date: 2025-02-27T02:22:18.829Z
+date: 2025-02-27T03:11:10.617Z
 tags: guide, cargo, other guide, wiki: stub, cargo guide
 editor: markdown
 dateCreated: 2024-08-29T09:04:45.912Z
@@ -16,7 +16,7 @@ Welcome to Cargo! You're the colony's primary source of materials, the driver of
 
 This guide assume you're a Cargo Technician / Manager, or a miner who has been granted access to the departmental account (Or an enterprising solo miner), and teach you about the trading part of the cargo department.
 
-## Trading Program Basics
+## Trading Program
 Your job revolves around the Trading Program, which can be accessed by any console or laptop that has sufficient access. Conveniently, the cargo bay area start off with one console with the trading program pre-loaded in the middle (On the cursor): 
 
 ![cargobayscreenshot1.png](/cargoguide/cargobayscreenshot1.png)
@@ -42,14 +42,56 @@ On the bottom of the interface, you can see various green squares and red square
 - Red Squares are locked traders you can trade with
 - White Lines indicates that you can unlock this trader by getting 1 or more recommendations from the traders above them - more on this later!
 
-To get started, click on one of the trader and then click "To Trade Screen" - if you want to get back to this screen and switch trader, you can click "To Merchants".
+To get started, click on one of the trader and then click "To Trade Screen" - if you want to get back to this screen and switch to another trader, you can click "To Merchants".
 
-### Importing Goods
-Import purchases can be done by anyone with a bank account through the Trade Program. This is done by first linking an account to the Trade Program and selecting the appropriate partner and viewing the store.
+### Import, Export, Goods & Offers
+![refinerytrader.png](/cargoguide/refinerytrader.png)
 
-Before a purchase, the item has to be put into a "cart" and a total sum of credits required for purchase displayed. Carts may contain items from several trade partners or saved for repeated use in the future. The purchase is finalized by clicking the checkout button.
+On the Trade Screen, you can see the current merchant you have selected. Each merchant has a category of **Goods** - which it will buy or sell from you, and **Offers**, which they will buy from you, usually for a hefty profit.
 
-### Exports and Offers
+To purchase goods you want, click on the "+" button, which will add it to your current Cart - the list of items you will purchase but has not finalized yet. "-" will reduce the amount of goods you have in your cart. "Price" is the price that you will purchase the goods at, "Available" indicates the amount of stock this trader have, and "Sell Price" is the money you can get if you sold this item to the trader.
+
+On the bottom left, you can see "Cart:" with a cart button underneath it that indicates the total cost of your current order. "Reset" allows you to reset your entire order, and "View Cart" let you view your entire order. You do not need to stick to a single trader and can switch between different trader before finalizing your transaction by clicking on the Cart button with your total cost.
+
+Once you do so, the appropriate amount will be charged to the linked account, and your shiny new goods will arrive in a single crate on the **Receiving Beacon** (regardless of how much you've ordered!).
+
+All trader will buy back the goods they sell to you. However, items that are bought by a trader will often have a "Surplus" tag attached to them, allowing you to only sell back for a tenth of the normal price. To sell (back) the goods, you can click on the basket-like button next to the good. The item must be on the **Sending Beacon** for you to sell it.
+
+You can also see "Offer Time" on the top of the interface. This is a timer - globally shared across all traders for when they will restock and when they will refresh their Offers - which we'll get to a moment.
+
+#### Offers
+Offers is the primary way you make money through the trading system. To see what offer an individual merchant has, click on the "Offers" tab: 
+
+![tradeoffer.png](/cargoguide/tradeoffer.png)
+
+You can see here that the trader Recoll is purchasing full stack of materials and modified tools and scrap metals. To fulfill these offers, put down the items they ask for on the **Sending Beacon**, then click on "Send" at the console to sell it to them.
+
+Under "Amount" is two number. On the left is the amount of qualifying items you have on the Sending Beacon, on the right is the **minimum amount** required to fulfill the order. You must have at least that amount of goods on the sending beacon for the offer to count. Each offer can only be fulfilled once per cycle.
+
+Some notes about the offers system:
+- When it comes to stack, a full stack is required - any less will not count. The same goes for medicine.
+- Modified X means the total number of upgrades on the pickaxe / shovel
+- Some item, such as meat, will also count any of the subtypes of said item - such as the far more valuable roach meat or even kaiser meat (!). You will want to be careful and make sure you fulfill the more valuable offers first - such as offers for Kaiser meat instead of normal meat, or move the more valuable meats off the pad
+- Conversely, you may not always need the exact items the names state to fulfill an order - sub type of that item may also be fulfilled
+
+## Trader Mechanics
+There's some detailed trader mechanics you will want to be aware of. 
+
+The first is "Favor". Favor is shown as 0 / Maximum Favor. Favor has two purposes - it unlocks the hidden inventory of the trader, and it allows a trader to recommend you to the next trader in line, potentially unlocking them. 
+
+Currently, the hidden inventory and recommendation threshold are different on all traders, and completely inconsistent across all of the traders. The maximum favor display the highest of the either and the only way to know which is which is to dive into code (Do not do that and simply unlock the maximum favor for now!).
+
+To unlock a trader, you will need to obtain enough recommendations from the merchant above them - each trader will recommends you to a set number of merchant as indicated by the dotted line. How many recommendations is needed to unlock a merchant is unfortunately a hidden mechanic as not yet unlocked traders cannot be clicked yet. Generally speaking you can always expect to unlock the next trader in a straight line, whereas trader with multiple lines leading to them often require more than one.
+
+## Other Trading Program Mechanics
+When you click "View Cart", you can view the 
+
+
+
+## General Trading Tips
+
+## Phone of Cheating
+
 
 
 ## Trade Partners
