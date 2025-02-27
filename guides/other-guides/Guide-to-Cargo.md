@@ -2,7 +2,7 @@
 title: Guide to Cargo
 description: Trading, money making, and tax evading.
 published: true
-date: 2025-02-27T03:21:51.041Z
+date: 2025-02-27T03:51:10.065Z
 tags: guide, cargo, other guide, wiki: stub, cargo guide
 editor: markdown
 dateCreated: 2024-08-29T09:04:45.912Z
@@ -74,14 +74,40 @@ Some notes about the offers system:
 - Some item, such as meat, will also count any of the subtypes of said item - such as the far more valuable roach meat or even kaiser meat (!). You will want to be careful and make sure you fulfill the more valuable offers first - such as offers for Kaiser meat instead of normal meat, or move the more valuable meats off the pad
 - Conversely, you may not always need the exact items the names state to fulfill an order - sub type of that item may also be fulfilled
 
+#### Exporting
+Exporting is the other way to make money with Cargo. You will often use this mechanic to make money from random, unwanted junks that are sold by other people. 
+
+Every item in the game has an "Export Value". Cargo members (Manager, Miner and Cargo Tech) and certain members starts with the perk Market Professional, which enables them to evaluate how much an item is worth when exported. 
+
+An Export Scanner allows you to scan an individual item or a container. If you scan a container, you will gain the total export value of its content. 
+
+You cannot export loose items - all items must be in a packaged container, following the following step:
+1. Put the items in any kind of container
+2. Use package wrapper to package that item
+3. Push that wrapped container onto the Sending Beacon area
+4. Click on the "Export" Button, which will export all eligible containers for the export value within and sell it.
+
+This is the primary method of making money using items that are not wanted by a trader or an existing offer. Prospectors will often bring a lot of item in a trash cart for sale - you can split the proceeds with them however you like. A fair split like 50 - 50 is generally conductive to future business, however!
+
 ## Trader Mechanics
 There's some detailed trader mechanics you will want to be aware of. 
 
-The first is "Favor". Favor is shown as 0 / Maximum Favor. Favor has two purposes - it unlocks the hidden inventory of the trader, and it allows a trader to recommend you to the next trader in line, potentially unlocking them. 
+### Favor
+Favor is shown as 0 / Maximum Favor. Favor has two purposes - it unlocks the hidden inventory of the trader, and it allows a trader to recommend you to the next trader in line, potentially unlocking them. 
+
+Favor is gained by:
+- Fulfilling offer, at a rate of 1 Credit = 1 Favor
+- Purchasing from the trader, at the rate of 8 credit = 1 Favor
+
+You cannot gain favor by selling (through non offers) to the trader.
 
 Currently, the hidden inventory and recommendation threshold are different on all traders, and completely inconsistent across all of the traders. The maximum favor display the highest of the either and the only way to know which is which is to dive into code (Do not do that and simply unlock the maximum favor for now!).
 
-To unlock a trader, you will need to obtain enough recommendations from the merchant above them - each trader will recommends you to a set number of merchant as indicated by the dotted line. How many recommendations is needed to unlock a merchant is unfortunately a hidden mechanic as not yet unlocked traders cannot be clicked yet. Generally speaking you can always expect to unlock the next trader in a straight line, whereas trader with multiple lines leading to them often require more than one.
+### Hidden Inventory
+Hidden Inventory is a secret inventory of the trader  which is a secret inventory of the traders. It generally contains more advanced goods that fits the thematics of the trader in question and is often worth unlocking.
+
+### Recommendations
+To unlock a trader, you will need to obtain enough recommendations from the merchant above them - each trader will recommends you to a set number of merchant as indicated by the dotted line. How many recommendations is needed to unlock a merchant is unfortunately a hidden mechanic as not yet unlocked traders cannot be clicked yet. Generally speaking you can always expect to unlock the next trader in a straight line once you reach maximum favor, whereas trader with multiple lines leading to them often require more than one.
 
 ## Other Trading Program Mechanics
 
@@ -105,13 +131,43 @@ If the purchaser is the Cargo Account, there'll be no handling fee (Although the
 
 It is generally a good idea to deliver the goods to your customer or ask for them to pick it up after purchasing with their account's money.
 
+### Logs
+(Not 100% certain on mechanics)
+
+The Logs tab allow you to check transaction logs and print out paperwork - logs are split into four types:
+- Shipping - For any direct order made by the department
+- Offer - For any offers sold to trader
+- Export - For any exports made
+- Order - For any order requests fulfilled on behalf of other account
+
 ## General Trading Tips
+Here's some general trading tips that shouldn't spoil the game
+- Some traders will sell goods that other traders will buy, including starting traders. These can be useful to make some initial profit and unlocks
+- The Refinery Ship is a good source of early money with the cooperation of your miners. Plasma Crystals and Pitchblende are often in sufficient numbers for you to sell off some surplus. Have the ore in question dumped directly on the sending beacon for convenience. They will not take refined sheets as an offer. It is more profitable to coordinate and sell some ores.
+- Many items that traders take with offers - especially later unlocked traders, can be made by Cargo / Service (Food / Some printed items), Medical (Medical Items), Science or Engineering. Building a good working relationship can help you unlock those items. Do not pester them however, not all players is keen to play the game of capitalism and profit all the time - but definitely involve willing and eager players!
+
 
 ## Phone of Cheating
+The Manager start with an item called "Direct Phone Line" in their locker. When you use the item, you will have two options:
 
-
+- Funding Operation: This is probably useless
+- Aggressive Sales Market: This extremely powerful ability allow you to unlock ANY traders without prior recommendation, once per game. Make sure to use this ability wisely to unlock a hard to unlock trader you want the goods for.
 
 ## Trade Partners
+Here's a brief description of the starting traders. (Do not include hidden inventories or unlocked traders so people can discover the fun for themselves)
 
-## Request Fulfillment
+- Refinery Ship 'Recoll': Buy minerals with offers, can purchase nice starting mining gears
+- Free Trade Beacon 'Zarya': Buy heavily modified gears and greyson gears, sells engineering goods
+- Moebius Aid Vessel 'Caduceus': Buy and sell medical goods.
+- CAV Faith: Buy and sell goods produced by the church's auto printer, which covers a surprisingly wide area!
+- LTB 'Vermouth': Buy specialty food and sell a lot of basic food ingredients, great for restocking services
+- GK 'Spector': Buy basically every food type under the sun (Through non-offer), and also buy cleaning supplies and certain food / spare plants.
+- FTB 'Solnishko': Buy spare knives, toaster and random assortment of stuffs. Sell a random assortment of container, cells, grenades, mining gears and ballistics and other random things.
+- Kriosan 'Quill' sporting: Purchase a large amount of creatures trophies through offers, sells ballistics, ammos, pets and the rare, extremely powerful and expensive Kriosan Assault Armor for 20,000 a piece - widely considered one of the best armor.
+- Autoproduction Trader 'Factor': Sells an basically infinite amount of disks and toaster assembly kits. Unlocks provide some better disks (not really a spoiler). Offers can be a bit more difficult to get without asking the right.
+- ATB 'Suit Up': Sells a nice assortment of armor, voidsuits, RIGs and Rig Modules for every purpose. Very nice to gear up with. Your miners might sometime prefer gears from them.
+- UCCCS 'Junker': Sells exosuit parts and equipment
+- Hellcat: Sells an assortment of weapons and armor generally associated with the colony's security forces. Offers purchases items that can generally be made by Engineering. 
 
+## Other Notes
+The Fulfill button don't seems to do anything
