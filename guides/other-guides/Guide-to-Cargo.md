@@ -2,7 +2,7 @@
 title: Guide to Cargo
 description: Trading, money making, and tax evading.
 published: true
-date: 2025-02-27T03:51:24.248Z
+date: 2025-02-27T04:23:46.067Z
 tags: guide, cargo, other guide, wiki: stub, cargo guide
 editor: markdown
 dateCreated: 2024-08-29T09:04:45.912Z
@@ -12,6 +12,8 @@ dateCreated: 2024-08-29T09:04:45.912Z
 Welcome to Cargo! You're the colony's primary source of materials, the driver of its economy - the primary money sink and the primary money generator, and the main source of materials with the miners under the same department.
 
 This guide assume you're a Cargo Technician / Manager, or a miner who has been granted access to the departmental account (Or an enterprising solo miner), and teach you about the trading part of the cargo department.
+
+Note that the Trading Program section of this guide also mostly apply to using the Order Request program on your PDA / Laptop to make orders from Cargo! 
 
 ## Trading Program
 Your job revolves around the Trading Program, which can be accessed by any console or laptop that has sufficient access. Conveniently, the cargo bay area start off with one console with the trading program pre-loaded in the middle (On the cursor): 
