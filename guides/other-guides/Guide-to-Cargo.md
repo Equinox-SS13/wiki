@@ -1,15 +1,15 @@
 ---
 title: Guide to Cargo
-description: Trading, money making, and tax evading.
+description: Trading & Money Making
 published: true
-date: 2025-02-27T04:23:46.067Z
+date: 2025-02-27T04:24:40.519Z
 tags: guide, cargo, other guide, wiki: stub, cargo guide
 editor: markdown
 dateCreated: 2024-08-29T09:04:45.912Z
 ---
 
 # Cargo / Trading
-Welcome to Cargo! You're the colony's primary source of materials, the driver of its economy - the primary money sink and the primary money generator, and the main source of materials with the miners under the same department.
+Welcome to Cargo! You're the colony economy's driver - the primary money sink and the primary money generator, and the main source of materials with the miners under the same department.
 
 This guide assume you're a Cargo Technician / Manager, or a miner who has been granted access to the departmental account (Or an enterprising solo miner), and teach you about the trading part of the cargo department.
 
