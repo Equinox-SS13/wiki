@@ -2,14 +2,11 @@
 title: Guide to Cargo
 description: Trading, money making, and tax evading.
 published: true
-date: 2025-02-27T03:51:10.065Z
+date: 2025-02-27T03:51:24.248Z
 tags: guide, cargo, other guide, wiki: stub, cargo guide
 editor: markdown
 dateCreated: 2024-08-29T09:04:45.912Z
 ---
-
-> [**Stub**](/maintenance/Templates#stub): This article or section is **incomplete** and require more write up or expansion on the content. **Reason**: `reasonhere`
-{.is-danger}
 
 # Cargo / Trading
 Welcome to Cargo! You're the colony's primary source of materials, the driver of its economy - the primary money sink and the primary money generator, and the main source of materials with the miners under the same department.
