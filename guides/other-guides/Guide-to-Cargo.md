@@ -2,7 +2,7 @@
 title: Guide to Cargo
 description: Trading, money making, and tax evading.
 published: true
-date: 2024-09-01T09:18:38.882Z
+date: 2025-02-27T02:22:18.829Z
 tags: guide, cargo, other guide, wiki: stub, cargo guide
 editor: markdown
 dateCreated: 2024-08-29T09:04:45.912Z
@@ -11,21 +11,38 @@ dateCreated: 2024-08-29T09:04:45.912Z
 > [**Stub**](/maintenance/Templates#stub): This article or section is **incomplete** and require more write up or expansion on the content. **Reason**: `reasonhere`
 {.is-danger}
 
-# Trading
-Cargo's largest duty within the colony is the transportation and sales of freight. As the colonys lifeline towards the outside economy and resources, the most important aspect of the department is trade.
+# Cargo / Trading
+Welcome to Cargo! You're the colony's primary source of materials, the driver of its economy - the primary money sink and the primary money generator, and the main source of materials with the miners under the same department.
 
-The Trade Beacons allows the colony to import and export goods between them and external stations and ships. 
-* The beacon can be accessed via the Trade Program available on consoles and laptops with enough access to a copy from cargo.
+This guide assume you're a Cargo Technician / Manager, or a miner who has been granted access to the departmental account (Or an enterprising solo miner), and teach you about the trading part of the cargo department.
 
-## Trade Program
-To operate the trade beacon through the Trade Program, the following should be considered in order before performing transactions;
+## Trading Program Basics
+Your job revolves around the Trading Program, which can be accessed by any console or laptop that has sufficient access. Conveniently, the cargo bay area start off with one console with the trading program pre-loaded in the middle (On the cursor): 
 
-1. Ensure that the sending and receiving beacons are linked, this is usually pre-configured.
-2. Link the appropriate account to send or receive money to the program. Any accounts can be used for import purchases and export sales. 
-  
-   * To request or access historical transactions log, the cargo departmental account will need to be linked.
-   * Remember to unlink your account once you are done using the Trade Program unless you want anyone to directly make purchase with your credits.
-3. Select the appropriate station or ship on the trading network screen, each with their own specialty, demand, and items on sale.
+![cargobayscreenshot1.png](/cargoguide/cargobayscreenshot1.png)
+
+In the same screenshot, you can see:
+- The receiving beacon - where incoming goods will land (Marked with yellow)
+- The sending beacon - where outgoing goods / export will be placed
+- The console - which is the most convenient spot to do all of your trading and come with the Trading Program pre loaded
+- The autolathe, alongside starting disk(s), this is important for Cargo to produce various goods on request for export
+
+To get started, head to the console and click on it. The Trading Program should be preloaded, but if it is not, look for "Trading Program". You will be greeted with the following interface:
+
+![tradingprogram.png](/cargoguide/tradingprogram.png)
+
+You can get started with the following steps:
+1. Click on Account, enter an Account Number and then the Pin - If you're a Manager / Cargo Tech, you should have access to your department's account. (Nothing stops you from using your own, or any other accounts you have the account number & pin combination for however!). You can press X to log out.
+2. Click on both Receiving Beacon and Sending Beacon. If your console is close enough to the sending and receiving beacon, it will be automatically linked!
+
+From this point on, purchase will be made using funds from the account and any profits made from offers or exports will be credited to that account. The linked receiving & sending beacon will be where the incoming / outgoing goods go. 
+
+On the bottom of the interface, you can see various green squares and red squares with white lines linking them together. You can hover over them to see their names:
+- Green Squares are unlocked traders you can trade with
+- Red Squares are locked traders you can trade with
+- White Lines indicates that you can unlock this trader by getting 1 or more recommendations from the traders above them - more on this later!
+
+To get started, click on one of the trader and then click "To Trade Screen" - if you want to get back to this screen and switch trader, you can click "To Merchants".
 
 ### Importing Goods
 Import purchases can be done by anyone with a bank account through the Trade Program. This is done by first linking an account to the Trade Program and selecting the appropriate partner and viewing the store.
