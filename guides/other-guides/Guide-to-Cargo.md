@@ -2,7 +2,7 @@
 title: Guide to Cargo
 description: Trading, money making, and tax evading.
 published: true
-date: 2025-02-27T03:11:10.617Z
+date: 2025-02-27T03:21:51.041Z
 tags: guide, cargo, other guide, wiki: stub, cargo guide
 editor: markdown
 dateCreated: 2024-08-29T09:04:45.912Z
@@ -84,9 +84,26 @@ Currently, the hidden inventory and recommendation threshold are different on al
 To unlock a trader, you will need to obtain enough recommendations from the merchant above them - each trader will recommends you to a set number of merchant as indicated by the dotted line. How many recommendations is needed to unlock a merchant is unfortunately a hidden mechanic as not yet unlocked traders cannot be clicked yet. Generally speaking you can always expect to unlock the next trader in a straight line, whereas trader with multiple lines leading to them often require more than one.
 
 ## Other Trading Program Mechanics
-When you click "View Cart", you can view the 
 
+### View Cart / Cart
+![viewcart.png](/cargoguide/viewcart.png)
 
+When you click "View Cart", you can view all of the items you have in your cart across all of your traders.
+
+You can Save and Load your Cart - which are saved on a program level to reuse orders you may want to repeat later. (No clue what happens if they're out of stock - add later)
+
+By clicking on "Create Order", and then entering a Reason for the order, you can create an Order Request which can be fulfilled by Cargo - as a Cargo member this is probably not useful, but as other departments it is a convenient way to order something quickly!
+
+### Order Request
+![orderrequest.png](/cargoguide/orderrequest.png)
+
+The order request menu let you see any pending Order Request from other people requested by another console - or more likely the Trade Order Requests app on their PDA. 
+
+You can hover over "View" to see what is in the order, "View Orders" in order to put the full order with reason at the top of your screen, Purchase to purchase the order, Deny to deny it, and Save to save the content in a cart of your own. 
+
+If the purchaser is the Cargo Account, there'll be no handling fee (Although there's usually no reason to do so). Otherwise an additional default handling fee of 20% will be charged to the account that purchased the goods - Only the account that requested the trade order will be charged. The handling fee will be credited to the departmental account. 
+
+It is generally a good idea to deliver the goods to your customer or ask for them to pick it up after purchasing with their account's money.
 
 ## General Trading Tips
 
