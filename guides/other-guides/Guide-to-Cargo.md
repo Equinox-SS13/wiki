@@ -2,7 +2,7 @@
 title: Guide to Cargo
 description: Trading & Money Making
 published: true
-date: 2025-02-27T04:24:40.519Z
+date: 2025-03-02T01:40:26.216Z
 tags: guide, cargo, other guide, wiki: stub, cargo guide
 editor: markdown
 dateCreated: 2024-08-29T09:04:45.912Z
@@ -80,11 +80,9 @@ Every item in the game has an "Export Value". Cargo members (Manager, Miner and 
 
 An Export Scanner allows you to scan an individual item or a container. If you scan a container, you will gain the total export value of its content. 
 
-You cannot export loose items - all items must be in a packaged container, following the following step:
-1. Put the items in any kind of container
-2. Use package wrapper to package that item
-3. Push that wrapped container onto the Sending Beacon area
-4. Click on the "Export" Button, which will export all eligible containers for the export value within and sell it.
+You can export loose items and wrapped container on the export beacon - however, if there's more than 50 items at once in the beacon it will break and you will waste the recharge time. 
+
+Once you're done, click on the "Export" Button, which will export all containers for the export value within and sell it.
 
 This is the primary method of making money using items that are not wanted by a trader or an existing offer. Prospectors will often bring a lot of item in a trash cart for sale - you can split the proceeds with them however you like. A fair split like 50 - 50 is generally conductive to future business, however!
 
