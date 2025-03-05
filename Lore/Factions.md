@@ -2,7 +2,7 @@
 title: Faction Lore
 description: Factions and Departments
 published: true
-date: 2024-09-01T08:35:55.165Z
+date: 2025-03-05T02:04:11.995Z
 tags: lore, hub
 editor: markdown
 dateCreated: 2024-08-30T00:20:27.101Z
