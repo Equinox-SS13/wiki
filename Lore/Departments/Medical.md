@@ -1,8 +1,8 @@
 ---
-title: Medical Department Lore
-description: Medical Relief Aid
+title: Salix-Alba Relief Society
+description: Medical Relief by a Disaster Aid Organization
 published: true
-date: 2025-02-24T01:41:36.905Z
+date: 2025-03-05T01:20:02.656Z
 tags: lore, medical
 editor: markdown
 dateCreated: 2024-08-30T00:32:57.341Z
