@@ -2,24 +2,24 @@
 title: Faction Lore
 description: Factions and Departments
 published: true
-date: 2025-03-05T02:04:11.995Z
+date: 2025-03-05T02:11:36.475Z
 tags: lore, hub
 editor: markdown
 dateCreated: 2024-08-30T00:20:27.101Z
 ---
 
-# Header
-Hub page for faction lore pages. Put links here.
+# Department Lore Links
+The various departments!
 
-[Cargo/Service](/Lore/Departments/Cargo)
+[Lightspeed Long Haul](/Lore/Departments/Cargo) runs cargo, mining, and service.
 
-[Church](/Lore/Departments/Church)
+[The Chorus of the Burning Circle](/Lore/Departments/Church) provides religious services and processes biological waste for the colony.
 
 [Command](/Lore/Departments/Command)
 
 [Engineering](/Lore/Departments/Engineering)
 
-[Medical](/Lore/Departments/Medical)
+[Salix-Alba Relief Society](/Lore/Departments/Medical) runs the local medical department.
 
 [Prospectors](/Lore/Departments/Prospectors)
 
