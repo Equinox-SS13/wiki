@@ -2,7 +2,7 @@
 title: Church Departmental Lore
 description: Church lore!
 published: true
-date: 2025-03-05T01:47:01.817Z
+date: 2025-03-05T01:50:35.983Z
 tags: lore, church
 editor: markdown
 dateCreated: 2024-08-30T00:38:26.711Z
@@ -52,3 +52,4 @@ Known to the Composer-Imagines is that this rumor is true. There is, in fact, a 
 ## The Chorus on the Colony
 On the colony the chorus provides various religious services, printing of technology, and the processing of biological waste into biomatter. Biomatter is a mandatory portion of most Choral technology, representing the rebirth of nonsapient life into another form, and sometimes being used by other departments for various reasons. 
 
+Why they are here in the first place is a matter of intrigue. Some believe that this backwater planet is meant to be set as a stopover for pilgrims. Some think that this is simple expansion. The real reason, however, is that while a few members of the Chorus came along with the colony as part of the initial colonist wave, once the Northern Light crash-landed in the local quarry, the local Composer-Imagines saw something. The Bluespace Drive and its ability to warp reality at will was eerily similar to that of their Divinity. As such, the crash zone was declared a Holy Site and pilgrims forbidden to enter. The Chorus does not, however, attempt to prevent people from entering. In fact, they very much want to dive into the wreck to see what exactly stirs in the bowels of the ship. They are simply cautious, as divinity is not to be taken lightly. 
