@@ -2,7 +2,7 @@
 title: Guide to Combat
 description: To survive on a harsh, cold universe, certain application of force must be utilized.
 published: false
-date: 2025-03-08T20:47:29.363Z
+date: 2025-03-08T22:06:55.334Z
 tags: guide, starter guide, wiki: work in progress
 editor: markdown
 dateCreated: 2024-08-28T12:54:57.098Z
@@ -45,6 +45,10 @@ Once your grab is aggressive at least, you can do some special things here!
 # Ranged Weaponry
 
 ## Safety and Firemode
+
+Before you can fire a weapon, you might need to turn off the safety. Look in the bottom middle of your screen, above your hands, while holding the gun. If you see a red or grey switch, that's the safety! Red means that it's UNSAFE, and can fire. Grey means that it's safe and can fire. Firing when on SAFE will tell you and simply make the gun go click.
+
+ADD IMAGE.
 
 ## Aiming and Firing
 
