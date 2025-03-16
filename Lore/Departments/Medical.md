@@ -2,7 +2,7 @@
 title: Salix-Alba Relief Society
 description: Medical Relief by a Disaster Aid Organization
 published: true
-date: 2025-03-05T01:20:02.656Z
+date: 2025-03-16T22:15:05.593Z
 tags: lore, medical
 editor: markdown
 dateCreated: 2024-08-30T00:32:57.341Z
@@ -24,7 +24,7 @@ The primary reason that SARS has found its place in the colony is simply because
 
 With the establishment of [the colony](/Lore/Colony), SARS was contracted to provide a small full-time aid station. With a relatively small compliment of a single doctor, three nurses, and three paramedics, their inital setup was little more thna a couple of large tents. Initially, they were set up to handle workplace accidents and general healthcare, but with the crash of the Northern Light, SARS activated their emergency response system in full force. A Task force of doctors, nurses, paramedics, and construction technicians arrived in only 36 hours. The initial aid station was expanded to a major field hospital, which soon became a properly-constructed medical bay only three weeks after the crash. 
 
-Now, the {COLONY NAME} Salix-Alba Infirmary is a permanent medical station specifically outfitted as a critical-access emergency department. With very few specialists on hand, spare supplies, and high-acuity injuries, they are often stretched thin in both terms of staffing and equipment. Reduced from the initial response, the hospital is left with only a handful of staff augumented by doctors and former employees of the Northern Light. Many SARS staff are on time-based contracts, resulting in a combination of a complement of rotating staff and some full-time, permanently-stationed staff. 
+Now, the Extera Salix-Alba Infirmary is a permanent medical station specifically outfitted as a critical-access emergency department. With very few specialists on hand, spare supplies, and high-acuity injuries, they are often stretched thin in both terms of staffing and equipment. Reduced from the initial response, the hospital is left with only a handful of staff augumented by doctors and former employees of the Northern Light. Many SARS staff are on time-based contracts, resulting in a combination of a complement of rotating staff and some full-time, permanently-stationed staff. 
 
 ## Who Works for SARS?
 
