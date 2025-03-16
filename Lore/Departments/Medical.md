@@ -2,7 +2,7 @@
 title: Salix-Alba Relief Society
 description: Medical Relief by a Disaster Aid Organization
 published: true
-date: 2025-03-16T22:15:05.593Z
+date: 2025-03-16T22:41:21.442Z
 tags: lore, medical
 editor: markdown
 dateCreated: 2024-08-30T00:32:57.341Z
@@ -28,7 +28,7 @@ Now, the Extera Salix-Alba Infirmary is a permanent medical station specifically
 
 ## Who Works for SARS?
 
-SARS members are paid employees, not volunteers nor contractors. While volunteer positions exist, they're all non-clinical support roles such as receptionists and cargo loaders. Three divisions exist within SARS: Medical, Engineering, and Logistics. The Medical division is home to trauma surgeons, critical care paramedics, nurse anesthetists, and many more medical professionals. The Engineering division has architexts, structural engineers, and a vast team of skilled tradesmen. Supporting all of them is a robust Logistics division with a network of interplanetary ferries and ground-based logistics. Of these, the Medical division is the most represented in the colony through the hospital itself, while a few members of the Engineering and Logistics divisions have taken up contracts with [Engineering](/Lore/Departments/Engineering) and [Cargo](/Lore/Factions/Cargo) respectively.
+SARS members are paid employees, not volunteers or contractors. This is not to say that volunteer positions don't exist. However, they're all non-clinical support roles such as receptionists and cargo loaders. Three divisions exist within SARS: Medical, Engineering, and Logistics. The Medical division is home to trauma surgeons, critical care paramedics, nurse anesthetists, and many more medical professionals. The Engineering division has architexts, structural engineers, and a vast team of skilled tradesmen. Supporting all of them is a robust Logistics division with a network of interplanetary ferries and ground-based logistics. Of these, the Medical division is the most represented in the colony through the hospital itself, while a few members of the Engineering and Logistics divisions have taken up contracts with [Engineering](/Lore/Departments/Engineering) and [Cargo](/Lore/Factions/Cargo) respectively.
 
 There is a tradeoff for having such a capable network in such a poorly-funded organization: many in SARS are making noncompetitive wages. Most medical staff take a pay cut to work for SARS, made up for with the unique experiences and skillsets that SARS brings forth. In spite of that, staffing is a never-ending issue, and there are a handful of low-profile whistleblowers reporting lax hiring standards. SARS, in reality, is heavily supported by people who can't find employment anywhere else. It's a refuge for physicians escaping malpractice accusations, or paramedics who can't or won't be hired anywhere else. Oftentimes, paramedics are refused in hiring beause they legally can't possess a firearm. Many nurses who have had their licenses stripped or had to resign in disgrace find a home in SARS. This isn't to say that SARS is full of criminals or malpracticioners, however, they just are supported by anyong they can find. 
 
