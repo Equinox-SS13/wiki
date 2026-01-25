@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-09-03T08:30:54.892Z
+date: 2026-01-25T19:11:20.054Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-07T22:41:18.531Z
@@ -13,7 +13,7 @@ dateCreated: 2024-08-07T22:41:18.531Z
   <img src="https://wiki.bluespace.engineer/wikibanner2.png" width=70% height=70%/>
   
 
-<strong>Welcome to Equinox, a Space Station 13 codebase forked off Sojourn which, itself, was forked off Eris.</strong>
+<strong>Welcome to Equinox, a Space Station 13 codebase forked off Shiptest, which itself is a fork of TG.</strong>
 </center>
 ---
 <center><i>Need help with an article? Post your issue in #wiki-discussion on our Discord!</i></center>
@@ -25,11 +25,12 @@ dateCreated: 2024-08-07T22:41:18.531Z
         Useful links for newcomers.
         <ul class="pt-0">
           <li class="mt-0"><a href="/important/Server-Rules">Server Rules</a></li>
+          <li class="mt-0"><a href="https://shiptest.net/wiki/">Shiptest Wiki</a></li>
           <li class="mt-0"><a href="https://wiki.bluespace.engineer/t/starter%20guide">Starter Guides</a></li>
           <li class="mt-0"><a href="/guides/starter-guides/Keyboard-Shortcuts">Keyboard Shortcut</a></li>
           <li class="mt-0"><a href="/guides/starter-guides/Combat">Guide to Combat</a></li>
         </ul>
-        It is important that you read and understand the rule. 
+        It is important that you read and understand the rules. 
         <ul class="pt-0">
           <li class="mt-0">Note that a whitelist is also required to play on the server.</li>
         </ul>
